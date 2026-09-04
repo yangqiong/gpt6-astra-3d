@@ -7,3 +7,5 @@ dist/
 # Secrets — never commit（本地凭据，勿提交）
 .env*
 !.env.example
+
+__pycache__/
