@@ -784,6 +784,94 @@
         "en": "A complete rocket-launch scene one-shot in Blender in about an hour, using just 4% of a Pro x5 weekly quota",
         "zh": "在 Blender 中约一小时一次性完成整个火箭发射场景，仅消耗 Pro 5x 每周额度的 4%"
       }
+    },
+    {
+      "id": 35,
+      "author": "duncantrussell",
+      "url": "https://x.com/duncantrussell/status/2096003511104508411",
+      "likes": 42,
+      "views": 3183,
+      "postedAt": "2026-09-04T22:32:33Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "The Backrooms in Blender with VHS effects",
+        "zh": "Blender 版 Backrooms 配 VHS 效果"
+      },
+      "description": {
+        "en": "Astra built the Backrooms in Blender and graded it with VHS effects — 30 minutes to build, another 20 to export; \"this isn't AI generated video, it's all in Blender\"",
+        "zh": "Astra 用 Blender 搭建 Backrooms 并加上 VHS 质感——30 分钟搭建、20 分钟导出；「这不是 AI 生成视频，全部都在 Blender 里完成」"
+      }
+    },
+    {
+      "id": 36,
+      "author": "ashebytes",
+      "url": "https://x.com/ashebytes/status/2096009146248122416",
+      "likes": 22,
+      "views": 416,
+      "postedAt": "2026-09-04T22:54:57Z",
+      "category": "web3d",
+      "tech": {
+        "en": "3D website (tool not stated)",
+        "zh": "3D 网站（工具未注明）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Tesla Model X pulled apart into 334 pieces",
+        "zh": "特斯拉 Model X 拆成 334 个零件"
+      },
+      "description": {
+        "en": "A 3D educational website that explodes a Tesla Model X into 334 modeled pieces — \"we are in a renaissance of learning\"",
+        "zh": "一个 3D 教学网站，把特斯拉 Model X 拆解成 334 个建模零件——「我们正处在学习的文艺复兴时代」"
+      }
+    },
+    {
+      "id": 37,
+      "author": "knowixbuilds",
+      "url": "https://x.com/knowixbuilds/status/2095996882678169800",
+      "likes": 20,
+      "views": 931,
+      "postedAt": "2026-09-04T22:06:13Z",
+      "category": "world",
+      "tech": {
+        "en": "Voxel world (tool not stated)",
+        "zh": "体素世界（工具未注明）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Playable voxel world: 4.85M voxels, 53 citizens",
+        "zh": "可玩体素世界：485 万体素、53 位市民"
+      },
+      "description": {
+        "en": "One-shotted a playable voxel world that makes his previous voxel worlds \"look like a prototype\" — 4.85 million voxels, 53 uniquely named citizens and more (full list in the post)",
+        "zh": "一次性生成可游玩的体素世界，作者称它让自己以前的体素世界「都像原型」——485 万个体素、53 位有名字的市民等（完整特性见原帖）"
+      }
+    },
+    {
+      "id": 38,
+      "author": "SPAC89",
+      "url": "https://x.com/SPAC89/status/2095996718126952651",
+      "likes": 17,
+      "views": 1135,
+      "postedAt": "2026-09-04T22:05:33Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "Roman Colosseum in Blender, 3-hour run",
+        "zh": "Blender 罗马斗兽场，3 小时长跑"
+      },
+      "description": {
+        "en": "Let Astra run on xHigh for 3 hours (only 3% of his weekly quota) building the Roman Colosseum in Blender — progress shots in the thread",
+        "zh": "让 Astra 以 xHigh 档连续运行 3 小时（仅消耗每周额度的 3%）在 Blender 里建造罗马斗兽场——帖子内附进度截图"
+      }
     }
   ]
 }

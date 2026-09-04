@@ -45,8 +45,12 @@ GPT-6 Astra 由 OpenAI 于 2026 年 9 月 3 日发布（[发布公告](https://x
 | 29 | [@WoahWurdz](https://x.com/WoahWurdz/status/2095958882732355908) | 30 分钟一次性生成《使命召唤》 | 他用 Astra 的第一个游戏作品：30 分钟一次性生成《使命召唤》风格游戏——同一提示词 Fable 5.1 花了近 5 小时，token 消耗也多得多 | ❤ 62 / 👁 6109 | WebGL 游戏（未注明） | 9月4日 19:35 | — |
 | 30 | [@HarshithLucky3](https://x.com/HarshithLucky3/status/2095973405111849025) | 一次性生成宝马 M4 CS 3D 模型 | 「GPT-6 Astra 是 3D 生成的野兽——宝马 M4 CS 3D 模型，最大力度、一次性完成」 | ❤ 61 / 👁 2146 | 3D 模型（工具未注明） | 9月4日 20:32 | — |
 | 31 | [@notjazii](https://x.com/notjazii/status/2095987126290817084) | Blender 一次性生成火箭发射 | 在 Blender 中约一小时一次性完成整个火箭发射场景，仅消耗 Pro 5x 每周额度的 4% | ❤ 49 / 👁 3808 | Blender | 9月4日 21:27 | — |
-| 32 | [@Loofyb0i](https://x.com/Loofyb0i/status/2095941061390573621) | Blender 里的整座城市 | 「我让 GPT-6 Astra 在 Blender 里建一整座城市，这是它给出的结果。再过几年，完整的电影和剧集都将由 AI 生成」 | ❤ 27 / 👁 1710 | Blender | 9月4日 18:24 | — |
-| 33 | [@karankendre](https://x.com/karankendre/status/2095838107635679325) | 室内别墅：Fable 5.1 vs Astra | 用 Fable 5.1 和 GPT-6 Astra 分别在 Blender 中构建室内别墅场景并对比——「3D 艺术家要完了 💀」 | ❤ 23 / 👁 1.4万 | Blender | 9月4日 11:35 | — |
-| 34 | [@SafaElmali](https://x.com/SafaElmali/status/2095989925627789490) | 可交互 DualSense（PS5）手柄 | Three.js 制作的 PS5 手柄：可旋转、按按键、推摇杆——还能连接真实手柄镜像映射你的输入 | ❤ 0 / 👁 19 | three.js | 9月4日 21:38 | [🎮 在线体验](https://dualsense-controller.netlify.app) · [源码](https://github.com/SafaElmali/dualsense-controller) |
+| 32 | [@duncantrussell](https://x.com/duncantrussell/status/2096003511104508411) | Blender 版 Backrooms 配 VHS 效果 | Astra 用 Blender 搭建 Backrooms 并加上 VHS 质感——30 分钟搭建、20 分钟导出；「这不是 AI 生成视频，全部都在 Blender 里完成」 | ❤ 42 / 👁 3183 | Blender | 9月4日 22:32 | — |
+| 33 | [@Loofyb0i](https://x.com/Loofyb0i/status/2095941061390573621) | Blender 里的整座城市 | 「我让 GPT-6 Astra 在 Blender 里建一整座城市，这是它给出的结果。再过几年，完整的电影和剧集都将由 AI 生成」 | ❤ 27 / 👁 1710 | Blender | 9月4日 18:24 | — |
+| 34 | [@karankendre](https://x.com/karankendre/status/2095838107635679325) | 室内别墅：Fable 5.1 vs Astra | 用 Fable 5.1 和 GPT-6 Astra 分别在 Blender 中构建室内别墅场景并对比——「3D 艺术家要完了 💀」 | ❤ 23 / 👁 1.4万 | Blender | 9月4日 11:35 | — |
+| 35 | [@ashebytes](https://x.com/ashebytes/status/2096009146248122416) | 特斯拉 Model X 拆成 334 个零件 | 一个 3D 教学网站，把特斯拉 Model X 拆解成 334 个建模零件——「我们正处在学习的文艺复兴时代」 | ❤ 22 / 👁 416 | 3D 网站（工具未注明） | 9月4日 22:54 | — |
+| 36 | [@knowixbuilds](https://x.com/knowixbuilds/status/2095996882678169800) | 可玩体素世界：485 万体素、53 位市民 | 一次性生成可游玩的体素世界，作者称它让自己以前的体素世界「都像原型」——485 万个体素、53 位有名字的市民等（完整特性见原帖） | ❤ 20 / 👁 931 | 体素世界（工具未注明） | 9月4日 22:06 | — |
+| 37 | [@SPAC89](https://x.com/SPAC89/status/2095996718126952651) | Blender 罗马斗兽场，3 小时长跑 | 让 Astra 以 xHigh 档连续运行 3 小时（仅消耗每周额度的 3%）在 Blender 里建造罗马斗兽场——帖子内附进度截图 | ❤ 17 / 👁 1135 | Blender | 9月4日 22:05 | — |
+| 38 | [@SafaElmali](https://x.com/SafaElmali/status/2095989925627789490) | 可交互 DualSense（PS5）手柄 | Three.js 制作的 PS5 手柄：可旋转、按按键、推摇杆——还能连接真实手柄镜像映射你的输入 | ❤ 0 / 👁 19 | three.js | 9月4日 21:38 | [🎮 在线体验](https://dualsense-controller.netlify.app) · [源码](https://github.com/SafaElmali/dualsense-controller) |
 
 <!-- creations:end -->
