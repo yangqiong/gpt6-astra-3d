@@ -2,7 +2,7 @@
 
 网站是纯静态 Astro 站点，数据源为 [`data/creations.json`](data/creations.json)（站点与 README 表格共用）。
 
-## 日常更新流程
+## 日常更新流程（git push 自动部署，当前使用）
 
 ```bash
 # 1. 编辑 data/creations.json（新增/修改作品）
@@ -13,25 +13,31 @@ npm run sync:readme
 # 3. 本地预览确认
 npm run dev          # http://localhost:4321
 
-# 4. 构建并部署到 Cloudflare Pages
-npm run deploy       # = astro build + wrangler pages deploy dist
+# 4. 提交并推送 —— GitHub Actions 自动构建并部署到 Cloudflare Pages
+git add -A && git commit -m "docs: ..."
+git push
 ```
+
+- 工作流定义：[`.github/workflows/deploy.yml`](.github/workflows/deploy.yml)，push 到 `main`（或手动 workflow_dispatch）触发
+- 凭据存放在仓库 Secrets：`CLOUDFLARE_API_TOKEN`、`CLOUDFLARE_ACCOUNT_ID`（本地副本在 `.env.local`，已被 gitignore）
+- 运行状态：`gh run list --repo yangqiong/gpt6-astra-3d` 或仓库 Actions 页签
 
 ## Cloudflare Pages 部署方式
 
-### 方式 A：Wrangler 直传（当前使用）
+### 方式 A：GitHub Actions + Wrangler（当前使用）
+
+push 到 main → Actions 执行 `npm ci` → `astro build` → `wrangler pages deploy dist`。
+保留直传项目与 `gpt6-astra-3d.pages.dev` 域名，无需在 Cloudflare 控制台做 Git 授权。
 
 ```bash
-npx wrangler login                                   # 仅首次；或使用 API Token
-npx wrangler pages project create gpt6-astra-3d --production-branch main
-npx wrangler pages deploy dist --project-name gpt6-astra-3d --branch main --commit-dirty=true
+# 手动本地部署（不走 Actions 时）
+set -a; source .env.local; set +a
+npx wrangler pages deploy dist --project-name gpt6-astra-3d --branch main
 ```
 
-- 默认获得 `https://gpt6-astra-3d.pages.dev` 子域名
-- API Token 替代登录：在 [API Tokens](https://dash.cloudflare.com/profile/api-tokens) 用
-  *Edit Cloudflare Workers* 模板创建，然后 `export CLOUDFLARE_API_TOKEN=xxx`（勿提交到仓库）
+### 方式 B：Cloudflare 原生 Git 集成
 
-### 方式 B：Git 集成（每次 push 自动构建）
+> 注意：直传创建的 Pages 项目无法再切换为 Git 集成，需新建项目才能使用此方式。
 
 1. 仓库推送到 GitHub
 2. Cloudflare Dashboard → Workers & Pages → Create → Pages → **Connect to Git** 选择仓库
