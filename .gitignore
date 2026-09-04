@@ -3,3 +3,7 @@ dist/
 .astro/
 .wrangler/
 .DS_Store
+
+# Secrets — never commit（本地凭据，勿提交）
+.env*
+!.env.example
