@@ -1,0 +1,16 @@
+{
+  "name": "gpt6-astra-3d",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "sync:readme": "node scripts/sync-readme.mjs",
+    "deploy": "astro build && wrangler pages deploy dist --project-name gpt6-astra-3d --branch main --commit-dirty=true"
+  },
+  "dependencies": {
+    "astro": "^5.0.0"
+  }
+}

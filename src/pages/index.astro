@@ -1,0 +1,72 @@
+---
+import Layout from '../layouts/Layout.astro';
+import CreationCard from '../components/CreationCard.astro';
+import { ui } from '../i18n';
+import { formatLikes, formatViews } from '../lib/format';
+import creations from '../../data/creations.json';
+
+const locale = 'en';
+const t = ui[locale];
+const categoryOrder: string[] = creations.categoryOrder;
+
+const sorted = [...creations.creations].sort(
+  (a, b) => b.likes - a.likes || b.views - a.views
+);
+
+const totals = {
+  works: sorted.length,
+  likes: sorted.reduce((s, c) => s + c.likes, 0),
+  views: sorted.reduce((s, c) => s + c.views, 0),
+};
+
+const counts: Record<string, number> = { all: sorted.length };
+for (const cat of categoryOrder) {
+  counts[cat] = sorted.filter((c) => c.category === cat).length;
+}
+---
+
+<Layout locale={locale}>
+  <section class="hero">
+    <span class="kicker">{t.kicker}</span>
+    <h1>GPT-6 Astra <span class="grad">3D Creations</span></h1>
+    <p class="subtitle">{t.subtitle}</p>
+    <div class="stats">
+      <div class="stat"><b>{totals.works}</b><span>{t.statWorks}</span></div>
+      <div class="stat"><b>{formatLikes(totals.likes, locale)}</b><span>{t.statLikes}</span></div>
+      <div class="stat"><b>{formatViews(totals.views, locale)}</b><span>{t.statViews}</span></div>
+    </div>
+  </section>
+
+  <div class="filters" role="group" aria-label="Filter by category">
+    <button class="chip active" data-filter="all">
+      {t.filterAll}<span class="count">{counts.all}</span>
+    </button>
+    {categoryOrder.map((cat) => (
+      <button class="chip" data-filter={cat}>
+        {t.categories[cat]}<span class="count">{counts[cat]}</span>
+      </button>
+    ))}
+  </div>
+
+  <main class="grid" id="grid">
+    {sorted.map((item, i) => (
+      <CreationCard item={item} rank={i + 1} locale={locale} />
+    ))}
+  </main>
+
+  <script>
+    const chips = Array.from(document.querySelectorAll<HTMLButtonElement>('.filters .chip'));
+    const cards = Array.from(document.querySelectorAll<HTMLElement>('.card'));
+
+    for (const chip of chips) {
+      chip.addEventListener('click', () => {
+        chips.forEach((c) => c.classList.toggle('active', c === chip));
+        const filter = chip.dataset.filter ?? 'all';
+        cards.forEach((card) => {
+          card.style.display =
+            filter === 'all' || card.dataset.category === filter ? '' : 'none';
+        });
+      });
+    }
+  </script>
+</Layout>

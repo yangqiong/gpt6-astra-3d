@@ -1,0 +1,58 @@
+---
+import { ui, type Locale } from '../i18n';
+import { formatLikes, formatViews, formatDate } from '../lib/format';
+
+interface Demo {
+  kind: 'play' | 'source';
+  url: string;
+}
+
+interface Creation {
+  id: number;
+  author: string;
+  url: string;
+  likes: number;
+  views: number;
+  postedAt: string;
+  category: string;
+  tech: Record<Locale, string>;
+  demos: Demo[];
+  title: Record<Locale, string>;
+  description: Record<Locale, string>;
+}
+
+interface Props {
+  item: Creation;
+  rank: number;
+  locale: Locale;
+}
+
+const { item, rank, locale } = Astro.props;
+const t = ui[locale];
+const categoryLabel = t.categories[item.category] ?? item.category;
+---
+
+<article class="card" data-category={item.category}>
+  <span class="rank" aria-hidden="true">{rank}</span>
+  <div class="card-top">
+    <span class={`cat-chip cat-${item.category}`}>{categoryLabel}</span>
+    <span class="tech">{item.tech[locale]}</span>
+  </div>
+  <h3>{item.title[locale]}</h3>
+  <p class="card-desc">{item.description[locale]}</p>
+  <div class="card-stats">
+    <span title="likes">❤ {formatLikes(item.likes, locale)}</span>
+    <span title="views">👁 {formatViews(item.views, locale)}</span>
+    <time datetime={item.postedAt}>{formatDate(item.postedAt, locale)} {t.utcNote}</time>
+  </div>
+  <div class="card-foot">
+    <a class="author" href={item.url} target="_blank" rel="noopener">@{item.author}</a>
+    <div class="demos">
+      {item.demos.map((d) => (
+        <a class="demo" href={d.url} target="_blank" rel="noopener">
+          {d.kind === 'play' ? `🎮 ${t.playLabel}` : t.sourceLabel}
+        </a>
+      ))}
+    </div>
+  </div>
+</article>

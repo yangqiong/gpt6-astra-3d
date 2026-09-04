@@ -1,0 +1,417 @@
+{
+  "meta": {
+    "collectedAt": "2026-09-05",
+    "coverage": { "en": "Sep 3–5, 2026 — the first 48 hours after release", "zh": "2026 年 9 月 3–5 日（发布后 48 小时）" },
+    "announcement": "https://x.com/OpenAI/status/2095595757072191802"
+  },
+  "categoryOrder": ["world", "web3d", "modeling", "video"],
+  "creations": [
+    {
+      "id": 1,
+      "author": "mattshumer_",
+      "url": "https://x.com/mattshumer_/status/2095596175705399482",
+      "likes": 23000,
+      "views": 6920000,
+      "postedAt": "2026-09-03T19:33:00Z",
+      "category": "world",
+      "tech": { "en": "Unreal Engine", "zh": "Unreal Engine" },
+      "demos": [],
+      "title": {
+        "en": "Unreal survival world of talking agents",
+        "zh": "会对话的 Unreal 生存世界"
+      },
+      "description": {
+        "en": "Asked Astra to create a world in Unreal Engine filled with humans, each an Astra-powered agent that must cooperate to survive; a day later the agents started talking to each other out loud",
+        "zh": "让 Astra 在 Unreal Engine 里创建一个世界，住满由 Astra 驱动的人类智能体，必须协作才能生存；一天后这些智能体开始隔着客厅互相说话"
+      }
+    },
+    {
+      "id": 2,
+      "author": "mattshumer_",
+      "url": "https://x.com/mattshumer_/status/2095609734845927525",
+      "likes": 17400,
+      "views": 3380000,
+      "postedAt": "2026-09-03T20:27:00Z",
+      "category": "world",
+      "tech": { "en": "Unreal Engine", "zh": "Unreal Engine" },
+      "demos": [],
+      "title": {
+        "en": "Manhattan recreated in Unreal Engine",
+        "zh": "曼哈顿 Unreal 世界重建"
+      },
+      "description": {
+        "en": "Astra built this Manhattan world in Unreal Engine over the course of a week, literally going street by street to make each one perfect",
+        "zh": "Astra 花了一周时间在 Unreal Engine 里重建曼哈顿，真的做到逐条街道打磨完美"
+      }
+    },
+    {
+      "id": 3,
+      "author": "Dimillian",
+      "url": "https://x.com/Dimillian/status/2095596700815516004",
+      "likes": 7055,
+      "views": 2290000,
+      "postedAt": "2026-09-03T19:36:00Z",
+      "category": "world",
+      "tech": { "en": "Blender + Unreal Engine 5", "zh": "Blender + Unreal Engine 5" },
+      "demos": [],
+      "title": {
+        "en": "Launch demo house: Blender → UE5",
+        "zh": "发布会演示房屋：Blender → UE5"
+      },
+      "description": {
+        "en": "Walkthrough of how he built the demo house for OpenAI's launch blog post — from a Blender scene to a walkable Unreal Engine 5 experience",
+        "zh": "讲解他如何为 OpenAI 发布博客搭建演示房屋——从 Blender 场景到 Unreal Engine 5 可行走体验的完整过程"
+      }
+    },
+    {
+      "id": 4,
+      "author": "realYunfanYe",
+      "url": "https://x.com/realYunfanYe/status/2095612137582526615",
+      "likes": 6810,
+      "views": 1210000,
+      "postedAt": "2026-09-03T20:37:00Z",
+      "category": "video",
+      "tech": { "en": "3D model + promo video", "zh": "3D 建模 + 宣传视频" },
+      "demos": [],
+      "title": {
+        "en": "Zillow listing → 3D house tour video",
+        "zh": "Zillow 房源 → 3D 看房视频"
+      },
+      "description": {
+        "en": "Give it a Zillow listing: it 3D-models the house from the listing photos and creates a cinematic promotion video — in one shot",
+        "zh": "给它一条 Zillow 房源：根据房源照片 3D 建模房屋，一次性生成电影感宣传视频"
+      }
+    },
+    {
+      "id": 5,
+      "author": "flavioAd",
+      "url": "https://x.com/flavioAd/status/2095597137849446688",
+      "likes": 6446,
+      "views": 697000,
+      "postedAt": "2026-09-03T19:37:00Z",
+      "category": "world",
+      "tech": { "en": "Voxel game (Minecraft clone)", "zh": "体素游戏（Minecraft 克隆）" },
+      "demos": [],
+      "title": {
+        "en": "One-shot Minecraft",
+        "zh": "一次性生成的 Minecraft"
+      },
+      "description": {
+        "en": "\"Apparently everyone loves the Minecraft benchmark\" — GPT-6 Astra Minecraft one-shot, built in under 2 hours from a single prompt",
+        "zh": "「看来大家都爱拿 Minecraft 当基准测试」——GPT-6 Astra 单提示词一次性生成 Minecraft 克隆，2 小时内完成"
+      }
+    },
+    {
+      "id": 6,
+      "author": "tomkrcha",
+      "url": "https://x.com/tomkrcha/status/2095598645190291775",
+      "likes": 6179,
+      "views": 1240000,
+      "postedAt": "2026-09-03T19:43:00Z",
+      "category": "modeling",
+      "tech": { "en": "Blender", "zh": "Blender" },
+      "demos": [],
+      "title": {
+        "en": "Full 3D house reconstruction from an image",
+        "zh": "单张图片完整 3D 房屋重建"
+      },
+      "description": {
+        "en": "Gave Astra an image of a house and asked for a 3D version with all details — toys, appliances, furniture; a full reconstruction with tweakable geometry that runs 60fps locally as a \"game\"",
+        "zh": "给 Astra 一张房屋图片，要求带全部细节（玩具、家电、家具）的 3D 版本；完整重建、几何体可手动调整，可在本地以 60fps「游戏」方式运行"
+      }
+    },
+    {
+      "id": 7,
+      "author": "tomkrcha",
+      "url": "https://x.com/tomkrcha/status/2095756085890310311",
+      "likes": 4992,
+      "views": 714000,
+      "postedAt": "2026-09-04T06:09:00Z",
+      "category": "modeling",
+      "tech": { "en": "Blender", "zh": "Blender" },
+      "demos": [],
+      "title": {
+        "en": "Steam-train drawing → 3,295 editable objects",
+        "zh": "蒸汽火车手绘图 → 3295 个可编辑物体"
+      },
+      "description": {
+        "en": "Took an old drawing of a steam train and reconstructed it in Blender; a few minutes later it had 3,295 fully editable detailed objects, detail level controllable by prompt",
+        "zh": "把一张蒸汽火车旧手绘图交给 Astra 在 Blender 中重建；几分钟后得到 3295 个细节精美、完全可编辑的物体，精细度可通过提示词控制"
+      }
+    },
+    {
+      "id": 8,
+      "author": "sharifshameem",
+      "url": "https://x.com/sharifshameem/status/2095653641164329143",
+      "likes": 4681,
+      "views": 1490000,
+      "postedAt": "2026-09-03T23:22:00Z",
+      "category": "modeling",
+      "tech": { "en": "Blender", "zh": "Blender" },
+      "demos": [],
+      "title": {
+        "en": "Palace of Fine Arts recreated in Blender",
+        "zh": "旧金山艺术宫 Blender 重建"
+      },
+      "description": {
+        "en": "Astra recreated the Palace of Fine Arts — his favorite San Francisco building, built for the 1914 World's Fair — in Blender",
+        "zh": "Astra 在 Blender 中重建了旧金山艺术宫——他最喜欢的建筑，为 1914 年世博会而建"
+      }
+    },
+    {
+      "id": 9,
+      "author": "petergostev",
+      "url": "https://x.com/petergostev/status/2095776685807346105",
+      "likes": 1519,
+      "views": 115000,
+      "postedAt": "2026-09-04T07:31:00Z",
+      "category": "web3d",
+      "tech": { "en": "three.js", "zh": "three.js" },
+      "demos": [
+        { "kind": "play", "url": "https://van-goghs-town.surge.sh/" }
+      ],
+      "title": {
+        "en": "Van Gogh Town",
+        "zh": "梵高小镇 Van Gogh Town"
+      },
+      "description": {
+        "en": "GPT-6-Astra (Max) blended 6 Van Gogh paintings (The Starry Night, Bedroom in Arles, Café Terrace at Night, etc.) into a single walkable first-person town with ~3,295 editable objects",
+        "zh": "GPT-6-Astra (Max) 将 6 幅梵高画作（星月夜、在阿尔勒的卧室、夜晚露天咖啡座等）融合成一座可第一人称行走的 three.js 小镇，含约 3295 个可编辑物体"
+      }
+    },
+    {
+      "id": 10,
+      "author": "mreflow",
+      "url": "https://x.com/mreflow/status/2095601201958309895",
+      "likes": 857,
+      "views": 69500,
+      "postedAt": "2026-09-03T19:53:00Z",
+      "category": "modeling",
+      "tech": { "en": "Blender", "zh": "Blender" },
+      "demos": [],
+      "title": {
+        "en": "Humanoid wolf in 8 minutes",
+        "zh": "8 分钟做出人形狼"
+      },
+      "description": {
+        "en": "Astra used computer use, took control of Blender, and modeled a humanoid wolf in 8 minutes; same thread also has a Mega Bonk clone in 12 minutes and a world-simulator website",
+        "zh": "Astra 通过 computer use 接管 Blender，8 分钟建出人形狼模型；同帖还有 12 分钟完成的 Mega Bonk 克隆和一个世界模拟器网站"
+      }
+    },
+    {
+      "id": 11,
+      "author": "synthwavedd",
+      "url": "https://x.com/synthwavedd/status/2095840435319001278",
+      "likes": 758,
+      "views": 40300,
+      "postedAt": "2026-09-04T11:44:00Z",
+      "category": "web3d",
+      "tech": { "en": "three.js", "zh": "three.js" },
+      "demos": [],
+      "title": {
+        "en": "Naval war scene in a single turn",
+        "zh": "单回合生成的 Three.js 海战场景"
+      },
+      "description": {
+        "en": "GPT-6 Astra (max) generated a Three.js war scene in a single turn (no examples, basic prompt only): detailed ship models and objects interacting with the water; ~50K tokens, done in about 12 minutes",
+        "zh": "GPT-6 Astra (max) 仅用一轮对话（无示例、基础提示词）生成海战场景：舰船模型细节丰富、物体与水面有交互；约 5 万 token、12 分钟完成"
+      }
+    },
+    {
+      "id": 12,
+      "author": "emollick",
+      "url": "https://x.com/emollick/status/2095673885605630429",
+      "likes": 691,
+      "views": 73000,
+      "postedAt": "2026-09-04T00:42:00Z",
+      "category": "web3d",
+      "tech": { "en": "three.js / WebGL", "zh": "three.js / WebGL" },
+      "demos": [
+        { "kind": "play", "url": "https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1" },
+        { "kind": "source", "url": "https://github.com/emollick/abyssal-living-deep" }
+      ],
+      "title": {
+        "en": "Abyssal Living Deep — procedural ocean world",
+        "zh": "深海生物群系模拟世界 Abyssal Living Deep"
+      },
+      "description": {
+        "en": "Started from an open-source single-file ocean storm generator and asked Astra to build out the rest of the ocean, including procedural simulations of deep-sea animal behavior; supports switching biomes (reef etc.), lighting, and seeds",
+        "zh": "以一个开源单文件「海面风暴生成器」为起点，让 Astra 补全整个海洋世界，包含程序化生成的深海动物行为模拟；支持切换珊瑚礁等场景、光照与随机种子"
+      }
+    },
+    {
+      "id": 13,
+      "author": "DeryaTR_",
+      "url": "https://x.com/DeryaTR_/status/2095699049722581065",
+      "likes": 251,
+      "views": 19300,
+      "postedAt": "2026-09-04T02:22:00Z",
+      "category": "web3d",
+      "tech": { "en": "three.js", "zh": "three.js" },
+      "demos": [],
+      "title": {
+        "en": "Ship in a bottle — 17th-century voxel ship",
+        "zh": "瓶中船——17 世纪体素帆船"
+      },
+      "description": {
+        "en": "Super-detailed voxel ship sailing rolling waves with real physics, circling gulls, a tiny harbor and coral reefs — all in Three.js; the cinematic video and relaxing music were also made by Astra",
+        "zh": "高细节体素帆船在带真实物理的涌浪中航行，海鸥环绕、迷你港口与珊瑚礁——全部用 Three.js 制作；电影感视频与配乐也出自 Astra"
+      }
+    },
+    {
+      "id": 14,
+      "author": "blueemi99",
+      "url": "https://x.com/blueemi99/status/2095967131573649552",
+      "likes": 222,
+      "views": 7336,
+      "postedAt": "2026-09-04T20:08:00Z",
+      "category": "web3d",
+      "tech": { "en": "three.js", "zh": "three.js" },
+      "demos": [],
+      "title": {
+        "en": "PS5 controller in three.js",
+        "zh": "three.js 版 PS5 手柄"
+      },
+      "description": {
+        "en": "\"GPT-6 Astra made this PS5 controller in three.js, no model comes even close — a huge step up from 5.6 Sol, and even from Fable 5.1\"",
+        "zh": "「GPT-6 Astra 用 three.js 做了这个 PS5 手柄，没有模型能接近——比 5.6 Sol 甚至 Fable 5.1 都强一大截」"
+      }
+    },
+    {
+      "id": 15,
+      "author": "MatthewBerman",
+      "url": "https://x.com/MatthewBerman/status/2095595895584907501",
+      "likes": 208,
+      "views": 42200,
+      "postedAt": "2026-09-03T19:32:00Z",
+      "category": "world",
+      "tech": { "en": "WebGL game (not stated)", "zh": "WebGL 游戏（未注明）" },
+      "demos": [],
+      "title": {
+        "en": "Fall Guys Clone",
+        "zh": "Fall Guys 克隆"
+      },
+      "description": {
+        "en": "Zero-shot game build from his series of Astra game experiments; playable per TechHalla's roundup (\"Not 'it looks like Fall Guys'\")",
+        "zh": "其 Astra 游戏实验系列中的零样本构建；按 TechHalla 汇总帖的说法「可玩——不是\"看起来像 Fall Guys\"」"
+      }
+    },
+    {
+      "id": 16,
+      "author": "DeryaTR_",
+      "url": "https://x.com/DeryaTR_/status/2095945186643710171",
+      "likes": 147,
+      "views": 12300,
+      "postedAt": "2026-09-04T18:40:00Z",
+      "category": "web3d",
+      "tech": { "en": "three.js", "zh": "three.js" },
+      "demos": [],
+      "title": {
+        "en": "Mario Kart–style browser racer",
+        "zh": "马里奥赛车风格浏览器游戏"
+      },
+      "description": {
+        "en": "First attempt at a Mario Kart–style racing game, fully in the browser with Three.js: six toy cars, four festival-themed tracks, close overtakes, collisions, coins and garage upgrades — playable alpha v0.3 (link in replies)",
+        "zh": "首次尝试用 Three.js 做马里奥赛车风格竞速游戏，完全在浏览器运行：6 辆玩具车、4 条节日主题赛道、近距离超车、碰撞、金币与车库改装——可玩 alpha v0.3（链接在回复中）"
+      }
+    },
+    {
+      "id": 17,
+      "author": "KinasRemek",
+      "url": "https://x.com/KinasRemek/status/2095973918775382487",
+      "likes": 135,
+      "views": 6801,
+      "postedAt": "2026-09-04T20:34:00Z",
+      "category": "web3d",
+      "tech": { "en": "Codex (2D + 3D sim)", "zh": "Codex（2D + 3D 模拟）" },
+      "demos": [],
+      "title": {
+        "en": "Chain-reaction machine, 2D and 3D",
+        "zh": "连锁反应机器（2D 与 3D）"
+      },
+      "description": {
+        "en": "One-shot chain-reaction machine in Codex Max mode — built in both 2D and a harder 3D version, with full token stats for each",
+        "zh": "Codex Max 模式下一次生成的连锁反应机器，含 2D 和难度更高的 3D 两个版本，并附完整 token 用量统计"
+      }
+    },
+    {
+      "id": 18,
+      "author": "HarshithLucky3",
+      "url": "https://x.com/HarshithLucky3/status/2095973405111849025",
+      "likes": 61,
+      "views": 2146,
+      "postedAt": "2026-09-04T20:32:00Z",
+      "category": "modeling",
+      "tech": { "en": "3D model (tool not stated)", "zh": "3D 模型（工具未注明）" },
+      "demos": [],
+      "title": {
+        "en": "BMW M4 CS 3D model, one shot",
+        "zh": "一次性生成宝马 M4 CS 3D 模型"
+      },
+      "description": {
+        "en": "\"GPT-6 Astra is a beast model for 3D generations — BMW M4 CS 3D model, max effort and one shot\"",
+        "zh": "「GPT-6 Astra 是 3D 生成的野兽——宝马 M4 CS 3D 模型，最大力度、一次性完成」"
+      }
+    },
+    {
+      "id": 19,
+      "author": "Loofyb0i",
+      "url": "https://x.com/Loofyb0i/status/2095941061390573621",
+      "likes": 27,
+      "views": 1710,
+      "postedAt": "2026-09-04T18:24:00Z",
+      "category": "modeling",
+      "tech": { "en": "Blender", "zh": "Blender" },
+      "demos": [],
+      "title": {
+        "en": "Entire city in Blender",
+        "zh": "Blender 里的整座城市"
+      },
+      "description": {
+        "en": "\"I asked GPT-6 Astra to build an entire city in Blender. This is what it gave me. In a couple of years, full movies and TV shows will be generated by AI\"",
+        "zh": "「我让 GPT-6 Astra 在 Blender 里建一整座城市，这是它给出的结果。再过几年，完整的电影和剧集都将由 AI 生成」"
+      }
+    },
+    {
+      "id": 20,
+      "author": "karankendre",
+      "url": "https://x.com/karankendre/status/2095838107635679325",
+      "likes": 23,
+      "views": 13500,
+      "postedAt": "2026-09-04T11:35:00Z",
+      "category": "modeling",
+      "tech": { "en": "Blender", "zh": "Blender" },
+      "demos": [],
+      "title": {
+        "en": "Interior villa: Fable 5.1 vs Astra",
+        "zh": "室内别墅：Fable 5.1 vs Astra"
+      },
+      "description": {
+        "en": "Built an interior villa scene in Blender with Fable 5.1 and compared it with GPT-6 Astra — \"3D artists are cooked 💀\"",
+        "zh": "用 Fable 5.1 和 GPT-6 Astra 分别在 Blender 中构建室内别墅场景并对比——「3D 艺术家要完了 💀」"
+      }
+    },
+    {
+      "id": 21,
+      "author": "SafaElmali",
+      "url": "https://x.com/SafaElmali/status/2095989925627789490",
+      "likes": 0,
+      "views": 19,
+      "postedAt": "2026-09-04T21:38:00Z",
+      "category": "web3d",
+      "tech": { "en": "three.js", "zh": "three.js" },
+      "demos": [
+        { "kind": "play", "url": "https://dualsense-controller.netlify.app" },
+        { "kind": "source", "url": "https://github.com/SafaElmali/dualsense-controller" }
+      ],
+      "title": {
+        "en": "Interactive DualSense (PS5) controller",
+        "zh": "可交互 DualSense（PS5）手柄"
+      },
+      "description": {
+        "en": "Interactive PS5 controller in Three.js: rotate it, press buttons, drag the sticks — or connect a real controller to mirror your inputs",
+        "zh": "Three.js 制作的 PS5 手柄：可旋转、按按键、推摇杆——还能连接真实手柄镜像映射你的输入"
+      }
+    }
+  ]
+}
