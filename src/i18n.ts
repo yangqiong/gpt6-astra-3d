@@ -17,6 +17,7 @@ export const ui: Record<Locale, {
   categories: Record<string, string>;
   playLabel: string;
   sourceLabel: string;
+  openPostLabel: string;
   utcNote: string;
   footerCollected: string;
   footerBuilt: string;
@@ -29,7 +30,7 @@ export const ui: Record<Locale, {
     kicker: 'Sep 3–5, 2026 · the first 48 hours after release',
     title: 'GPT-6 Astra 3D Creations',
     subtitle:
-      'The standout 3D works built with OpenAI’s GPT-6 Astra in its first 48 hours — collected from X, sorted by engagement. Click an author handle to open the original post.',
+      'The standout 3D works built with OpenAI’s GPT-6 Astra in its first 48 hours — collected from X, sorted by engagement. Click any card to open the original post on X.',
     statWorks: 'works',
     statLikes: 'likes',
     statViews: 'views',
@@ -42,6 +43,7 @@ export const ui: Record<Locale, {
     },
     playLabel: 'Play',
     sourceLabel: 'Source',
+    openPostLabel: 'Open original post on X',
     utcNote: 'UTC',
     footerCollected: 'Data collected Sep 5, 2026 · curated from X',
     footerBuilt: 'Built with Astro · Hosted on Cloudflare Pages',
@@ -54,7 +56,7 @@ export const ui: Record<Locale, {
     kicker: '2026 年 9 月 3–5 日 · 发布后 48 小时',
     title: 'GPT-6 Astra 3D 作品集',
     subtitle:
-      'OpenAI GPT-6 Astra 发布后 48 小时内涌现的精彩 3D 作品——收集自 X，按热度排序。点击作者 @handle 可打开原帖。',
+      'OpenAI GPT-6 Astra 发布后 48 小时内涌现的精彩 3D 作品——收集自 X，按热度排序。点击任意卡片即可在 X 上打开原帖。',
     statWorks: '作品',
     statLikes: '点赞',
     statViews: '浏览',
@@ -67,6 +69,7 @@ export const ui: Record<Locale, {
     },
     playLabel: '在线体验',
     sourceLabel: '源码',
+    openPostLabel: '在 X 上打开原帖',
     utcNote: 'UTC',
     footerCollected: '数据收集于 2026 年 9 月 5 日 · 来自 X',
     footerBuilt: '使用 Astro 构建 · 托管于 Cloudflare Pages',
