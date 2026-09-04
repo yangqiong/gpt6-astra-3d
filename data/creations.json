@@ -1,10 +1,18 @@
 {
   "meta": {
     "collectedAt": "2026-09-05",
-    "coverage": { "en": "Sep 3–5, 2026 — the first 48 hours after release", "zh": "2026 年 9 月 3–5 日（发布后 48 小时）" },
+    "coverage": {
+      "en": "Sep 3–5, 2026 — the first 48 hours after release",
+      "zh": "2026 年 9 月 3–5 日（发布后 48 小时）"
+    },
     "announcement": "https://x.com/OpenAI/status/2095595757072191802"
   },
-  "categoryOrder": ["world", "web3d", "modeling", "video"],
+  "categoryOrder": [
+    "world",
+    "web3d",
+    "modeling",
+    "video"
+  ],
   "creations": [
     {
       "id": 1,
@@ -14,7 +22,10 @@
       "views": 6920000,
       "postedAt": "2026-09-03T19:33:00Z",
       "category": "world",
-      "tech": { "en": "Unreal Engine", "zh": "Unreal Engine" },
+      "tech": {
+        "en": "Unreal Engine",
+        "zh": "Unreal Engine"
+      },
       "demos": [],
       "title": {
         "en": "Unreal survival world of talking agents",
@@ -33,7 +44,10 @@
       "views": 3380000,
       "postedAt": "2026-09-03T20:27:00Z",
       "category": "world",
-      "tech": { "en": "Unreal Engine", "zh": "Unreal Engine" },
+      "tech": {
+        "en": "Unreal Engine",
+        "zh": "Unreal Engine"
+      },
       "demos": [],
       "title": {
         "en": "Manhattan recreated in Unreal Engine",
@@ -52,7 +66,10 @@
       "views": 2290000,
       "postedAt": "2026-09-03T19:36:00Z",
       "category": "world",
-      "tech": { "en": "Blender + Unreal Engine 5", "zh": "Blender + Unreal Engine 5" },
+      "tech": {
+        "en": "Blender + Unreal Engine 5",
+        "zh": "Blender + Unreal Engine 5"
+      },
       "demos": [],
       "title": {
         "en": "Launch demo house: Blender → UE5",
@@ -71,7 +88,10 @@
       "views": 1210000,
       "postedAt": "2026-09-03T20:37:00Z",
       "category": "video",
-      "tech": { "en": "3D model + promo video", "zh": "3D 建模 + 宣传视频" },
+      "tech": {
+        "en": "3D model + promo video",
+        "zh": "3D 建模 + 宣传视频"
+      },
       "demos": [],
       "title": {
         "en": "Zillow listing → 3D house tour video",
@@ -90,7 +110,10 @@
       "views": 697000,
       "postedAt": "2026-09-03T19:37:00Z",
       "category": "world",
-      "tech": { "en": "Voxel game (Minecraft clone)", "zh": "体素游戏（Minecraft 克隆）" },
+      "tech": {
+        "en": "Voxel game (Minecraft clone)",
+        "zh": "体素游戏（Minecraft 克隆）"
+      },
       "demos": [],
       "title": {
         "en": "One-shot Minecraft",
@@ -109,7 +132,10 @@
       "views": 1240000,
       "postedAt": "2026-09-03T19:43:00Z",
       "category": "modeling",
-      "tech": { "en": "Blender", "zh": "Blender" },
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
       "demos": [],
       "title": {
         "en": "Full 3D house reconstruction from an image",
@@ -128,7 +154,10 @@
       "views": 714000,
       "postedAt": "2026-09-04T06:09:00Z",
       "category": "modeling",
-      "tech": { "en": "Blender", "zh": "Blender" },
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
       "demos": [],
       "title": {
         "en": "Steam-train drawing → 3,295 editable objects",
@@ -147,7 +176,10 @@
       "views": 1490000,
       "postedAt": "2026-09-03T23:22:00Z",
       "category": "modeling",
-      "tech": { "en": "Blender", "zh": "Blender" },
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
       "demos": [],
       "title": {
         "en": "Palace of Fine Arts recreated in Blender",
@@ -166,9 +198,15 @@
       "views": 115000,
       "postedAt": "2026-09-04T07:31:00Z",
       "category": "web3d",
-      "tech": { "en": "three.js", "zh": "three.js" },
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
       "demos": [
-        { "kind": "play", "url": "https://van-goghs-town.surge.sh/" }
+        {
+          "kind": "play",
+          "url": "https://van-goghs-town.surge.sh/"
+        }
       ],
       "title": {
         "en": "Van Gogh Town",
@@ -187,7 +225,10 @@
       "views": 69500,
       "postedAt": "2026-09-03T19:53:00Z",
       "category": "modeling",
-      "tech": { "en": "Blender", "zh": "Blender" },
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
       "demos": [],
       "title": {
         "en": "Humanoid wolf in 8 minutes",
@@ -206,7 +247,10 @@
       "views": 40300,
       "postedAt": "2026-09-04T11:44:00Z",
       "category": "web3d",
-      "tech": { "en": "three.js", "zh": "three.js" },
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
       "demos": [],
       "title": {
         "en": "Naval war scene in a single turn",
@@ -225,10 +269,19 @@
       "views": 73000,
       "postedAt": "2026-09-04T00:42:00Z",
       "category": "web3d",
-      "tech": { "en": "three.js / WebGL", "zh": "three.js / WebGL" },
+      "tech": {
+        "en": "three.js / WebGL",
+        "zh": "three.js / WebGL"
+      },
       "demos": [
-        { "kind": "play", "url": "https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1" },
-        { "kind": "source", "url": "https://github.com/emollick/abyssal-living-deep" }
+        {
+          "kind": "play",
+          "url": "https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1"
+        },
+        {
+          "kind": "source",
+          "url": "https://github.com/emollick/abyssal-living-deep"
+        }
       ],
       "title": {
         "en": "Abyssal Living Deep — procedural ocean world",
@@ -247,7 +300,10 @@
       "views": 19300,
       "postedAt": "2026-09-04T02:22:00Z",
       "category": "web3d",
-      "tech": { "en": "three.js", "zh": "three.js" },
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
       "demos": [],
       "title": {
         "en": "Ship in a bottle — 17th-century voxel ship",
@@ -266,7 +322,10 @@
       "views": 7336,
       "postedAt": "2026-09-04T20:08:00Z",
       "category": "web3d",
-      "tech": { "en": "three.js", "zh": "three.js" },
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
       "demos": [],
       "title": {
         "en": "PS5 controller in three.js",
@@ -285,7 +344,10 @@
       "views": 42200,
       "postedAt": "2026-09-03T19:32:00Z",
       "category": "world",
-      "tech": { "en": "WebGL game (not stated)", "zh": "WebGL 游戏（未注明）" },
+      "tech": {
+        "en": "WebGL game (not stated)",
+        "zh": "WebGL 游戏（未注明）"
+      },
       "demos": [],
       "title": {
         "en": "Fall Guys Clone",
@@ -304,7 +366,10 @@
       "views": 12300,
       "postedAt": "2026-09-04T18:40:00Z",
       "category": "web3d",
-      "tech": { "en": "three.js", "zh": "three.js" },
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
       "demos": [],
       "title": {
         "en": "Mario Kart–style browser racer",
@@ -323,7 +388,10 @@
       "views": 6801,
       "postedAt": "2026-09-04T20:34:00Z",
       "category": "web3d",
-      "tech": { "en": "Codex (2D + 3D sim)", "zh": "Codex（2D + 3D 模拟）" },
+      "tech": {
+        "en": "Codex (2D + 3D sim)",
+        "zh": "Codex（2D + 3D 模拟）"
+      },
       "demos": [],
       "title": {
         "en": "Chain-reaction machine, 2D and 3D",
@@ -342,7 +410,10 @@
       "views": 2146,
       "postedAt": "2026-09-04T20:32:00Z",
       "category": "modeling",
-      "tech": { "en": "3D model (tool not stated)", "zh": "3D 模型（工具未注明）" },
+      "tech": {
+        "en": "3D model (tool not stated)",
+        "zh": "3D 模型（工具未注明）"
+      },
       "demos": [],
       "title": {
         "en": "BMW M4 CS 3D model, one shot",
@@ -361,7 +432,10 @@
       "views": 1710,
       "postedAt": "2026-09-04T18:24:00Z",
       "category": "modeling",
-      "tech": { "en": "Blender", "zh": "Blender" },
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
       "demos": [],
       "title": {
         "en": "Entire city in Blender",
@@ -380,7 +454,10 @@
       "views": 13500,
       "postedAt": "2026-09-04T11:35:00Z",
       "category": "modeling",
-      "tech": { "en": "Blender", "zh": "Blender" },
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
       "demos": [],
       "title": {
         "en": "Interior villa: Fable 5.1 vs Astra",
@@ -399,10 +476,19 @@
       "views": 19,
       "postedAt": "2026-09-04T21:38:00Z",
       "category": "web3d",
-      "tech": { "en": "three.js", "zh": "three.js" },
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
       "demos": [
-        { "kind": "play", "url": "https://dualsense-controller.netlify.app" },
-        { "kind": "source", "url": "https://github.com/SafaElmali/dualsense-controller" }
+        {
+          "kind": "play",
+          "url": "https://dualsense-controller.netlify.app"
+        },
+        {
+          "kind": "source",
+          "url": "https://github.com/SafaElmali/dualsense-controller"
+        }
       ],
       "title": {
         "en": "Interactive DualSense (PS5) controller",
@@ -411,6 +497,292 @@
       "description": {
         "en": "Interactive PS5 controller in Three.js: rotate it, press buttons, drag the sticks — or connect a real controller to mirror your inputs",
         "zh": "Three.js 制作的 PS5 手柄：可旋转、按按键、推摇杆——还能连接真实手柄镜像映射你的输入"
+      }
+    },
+    {
+      "id": 22,
+      "author": "kitlangton",
+      "url": "https://x.com/kitlangton/status/2095959455238164566",
+      "likes": 551,
+      "views": 20385,
+      "postedAt": "2026-09-04T19:37:00Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "Dax Raad recreated in Blender",
+        "zh": "用 Blender 复刻 Dax Raad"
+      },
+      "description": {
+        "en": "Asked Astra to recreate Dax Raad in Blender — the model can now be scaled, rotated and moved along the Z axis; a viral joke post that is also a genuine 3D character build",
+        "zh": "让 Astra 在 Blender 里复刻 Dax Raad——模型可以缩放、旋转、沿 Z 轴移动；一条病毒式玩笑帖，同时也是一次真正的 3D 人物建模"
+      }
+    },
+    {
+      "id": 23,
+      "author": "yasei_no_otoko",
+      "url": "https://x.com/yasei_no_otoko/status/2095975195312029889",
+      "likes": 468,
+      "views": 51771,
+      "postedAt": "2026-09-04T20:40:00Z",
+      "category": "web3d",
+      "tech": {
+        "en": "WebGL",
+        "zh": "WebGL"
+      },
+      "demos": [],
+      "title": {
+        "en": "Panzer Dragoon Episode 1 in 24 minutes",
+        "zh": "24 分钟做出《铁甲飞龙》第一关"
+      },
+      "description": {
+        "en": "Half-jokingly asked Astra Pro to build Episode 1 of Panzer Dragoon in WebGL — 24 minutes later the on-rails dragon shooter came out; the biggest Japanese Astra game demo so far",
+        "zh": "半开玩笑地让 Astra Pro 用 WebGL 做一道《铁甲飞龙》第一关——24 分钟后就输出了这个轨道射击游戏，是日本区目前最火的 Astra 游戏演示"
+      }
+    },
+    {
+      "id": 24,
+      "author": "bridgemindai",
+      "url": "https://x.com/bridgemindai/status/2095993644389982294",
+      "likes": 347,
+      "views": 14669,
+      "postedAt": "2026-09-04T21:53:00Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "Office recreated as a 3D model",
+        "zh": "把办公室复刻成 3D 模型"
+      },
+      "description": {
+        "en": "Astra built a 3D model of his office in Blender — \"basically a perfect replica\" of the real room, down to the details",
+        "zh": "Astra 用 Blender 把他的办公室做成了 3D 模型——细节到位，与真实房间几乎一模一样"
+      }
+    },
+    {
+      "id": 25,
+      "author": "bridgemindai",
+      "url": "https://x.com/bridgemindai/status/2095986279666037087",
+      "likes": 340,
+      "views": 9723,
+      "postedAt": "2026-09-04T21:24:00Z",
+      "category": "world",
+      "tech": {
+        "en": "3D racing game (tool not stated)",
+        "zh": "3D 赛车游戏（工具未注明）"
+      },
+      "demos": [],
+      "title": {
+        "en": "F1 racing game in 13 minutes",
+        "zh": "13 分钟做出 F1 赛车游戏"
+      },
+      "description": {
+        "en": "An F1 racing game that took Fable 5.1 hours to build was done by Astra in 13 minutes — \"the fastest frontier model I have ever used in my life\"",
+        "zh": "Fable 5.1 要花数小时的 F1 赛车游戏，Astra 只用 13 分钟完成——「我这辈子用过的最快的前沿模型」"
+      }
+    },
+    {
+      "id": 26,
+      "author": "DeryaTR_",
+      "url": "https://x.com/DeryaTR_/status/2095719731860750613",
+      "likes": 304,
+      "views": 67207,
+      "postedAt": "2026-09-04T03:44:00Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "Playable voxel train table",
+        "zh": "可玩的体素火车桌"
+      },
+      "description": {
+        "en": "A childhood train table rebuilt as a three.js voxel scene — start and stop the trains, orbit around the table, zoom in and explore the tiny details, playable directly on the website (link in thread)",
+        "zh": "把童年玩具火车桌重现为 three.js 体素场景——可启停火车、环绕整桌旋转视角、缩放查看微小细节，网页上直接可玩（链接在帖子串中）"
+      }
+    },
+    {
+      "id": 27,
+      "author": "Angaisb_",
+      "url": "https://x.com/Angaisb_/status/2095688995564884361",
+      "likes": 214,
+      "views": 12755,
+      "postedAt": "2026-09-04T01:42:00Z",
+      "category": "world",
+      "tech": {
+        "en": "Voxel (Minecraft)",
+        "zh": "体素（Minecraft）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Zero-shot Minecraft wooden house in 9 minutes",
+        "zh": "零样本 9 分钟生成 Minecraft 木屋"
+      },
+      "description": {
+        "en": "His standard Minecraft benchmark on Astra Ultra: a zero-shot wooden house in about 9 minutes — near-perfect stairs and good decoration, with entrance-placement choices similar to Fable",
+        "zh": "他的固定 Minecraft 基准测试：Astra Ultra 零样本约 9 分钟生成一座木屋——楼梯近乎完美、装饰可圈可点，入口朝向的选择习惯与 Fable 相似"
+      }
+    },
+    {
+      "id": 28,
+      "author": "AiBattle_",
+      "url": "https://x.com/AiBattle_/status/2095994051354919049",
+      "likes": 211,
+      "views": 9975,
+      "postedAt": "2026-09-04T21:54:00Z",
+      "category": "world",
+      "tech": {
+        "en": "Godot",
+        "zh": "Godot"
+      },
+      "demos": [],
+      "title": {
+        "en": "3D Sonic game in Godot — Max vs Medium",
+        "zh": "Godot 3D 索尼克游戏：Max 对比 Medium"
+      },
+      "description": {
+        "en": "Built a simple 3D Sonic game in Godot with both Astra tiers: Max took 53 minutes and 4% of a Pro x5 weekly quota, Medium finished in 25 minutes on just 1%",
+        "zh": "用 Godot 分别以两档 Astra 构建 3D 索尼克游戏：Max 耗时 53 分钟、消耗 Pro x5 每周额度的 4%，Medium 仅 25 分钟、1% 额度"
+      }
+    },
+    {
+      "id": 29,
+      "author": "DeryaTR_",
+      "url": "https://x.com/DeryaTR_/status/2095952101000016076",
+      "likes": 141,
+      "views": 7181,
+      "postedAt": "2026-09-04T19:08:00Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "WoW-inspired browser RPG",
+        "zh": "魔兽风格的浏览器 RPG"
+      },
+      "description": {
+        "en": "A single-player browser RPG mixing World of Warcraft and RuneScape — combat, tree chopping and resource gathering already work; quests, loot, item tables and progression are being built out",
+        "zh": "混合《魔兽世界》与《RuneScape》元素的浏览器单机 RPG——战斗、砍树、采集已经可玩，任务、掉落、物品表和成长系统正在扩展"
+      }
+    },
+    {
+      "id": 30,
+      "author": "blueemi99",
+      "url": "https://x.com/blueemi99/status/2095984946846355510",
+      "likes": 136,
+      "views": 4238,
+      "postedAt": "2026-09-04T21:18:00Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (MCP)",
+        "zh": "Blender（MCP）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Cozy sushi shop in Blender via MCP",
+        "zh": "用 MCP 在 Blender 里做温馨寿司店"
+      },
+      "description": {
+        "en": "\"Make me a cozy sushi japanese shop in blender using its mcp… with details and extreme quality\" — a fully dressed shop interior he calls \"3D AGI\"",
+        "zh": "「用 Blender 的 MCP 给我做一家日式温馨寿司店，细节和品质拉满」——一间道具陈设齐全的店铺内饰，作者称其为「3D AGI」"
+      }
+    },
+    {
+      "id": 31,
+      "author": "superalesha",
+      "url": "https://x.com/superalesha/status/2095967568825582044",
+      "likes": 93,
+      "views": 6770,
+      "postedAt": "2026-09-04T20:09:00Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js + Blender",
+        "zh": "three.js + Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "Wipeout-style anti-gravity racer, one prompt",
+        "zh": "一条提示词的反重力竞速游戏"
+      },
+      "description": {
+        "en": "One prompt and 25 minutes: a neon Wipeout/Redout-style combat racer in Three.js with drift, boost and weapon pickups — Astra even detected Blender on his Mac on its own and built the models there",
+        "zh": "一条提示词、25 分钟：霓虹风格的《Wipeout/Redout》式战斗竞速游戏，带漂移、加速与武器拾取——Astra 还自动发现他 Mac 上的 Blender，主动用它建模"
+      }
+    },
+    {
+      "id": 32,
+      "author": "nemumusitocha",
+      "url": "https://x.com/nemumusitocha/status/2095989696094720158",
+      "likes": 87,
+      "views": 6320,
+      "postedAt": "2026-09-04T21:37:00Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (MCP)",
+        "zh": "Blender（MCP）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Japanese castle in Blender MCP",
+        "zh": "用 Blender MCP 建日式城堡"
+      },
+      "description": {
+        "en": "Took on a full Japanese castle via Blender MCP — about one hour end to end, including the showcase video",
+        "zh": "通过 Blender MCP 挑战完整日式城堡——连同展示视频约一小时完成"
+      }
+    },
+    {
+      "id": 33,
+      "author": "WoahWurdz",
+      "url": "https://x.com/WoahWurdz/status/2095958882732355908",
+      "likes": 62,
+      "views": 6109,
+      "postedAt": "2026-09-04T19:35:00Z",
+      "category": "world",
+      "tech": {
+        "en": "WebGL game (not stated)",
+        "zh": "WebGL 游戏（未注明）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Call of Duty clone one-shot in 30 minutes",
+        "zh": "30 分钟一次性生成《使命召唤》"
+      },
+      "description": {
+        "en": "His first game output with Astra: a Call of Duty-style game one-shot in 30 minutes — the same prompt took Fable 5.1 almost 5 hours and many more tokens",
+        "zh": "他用 Astra 的第一个游戏作品：30 分钟一次性生成《使命召唤》风格游戏——同一提示词 Fable 5.1 花了近 5 小时，token 消耗也多得多"
+      }
+    },
+    {
+      "id": 34,
+      "author": "notjazii",
+      "url": "https://x.com/notjazii/status/2095987126290817084",
+      "likes": 49,
+      "views": 3808,
+      "postedAt": "2026-09-04T21:27:00Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "Rocket launch one-shot in Blender",
+        "zh": "Blender 一次性生成火箭发射"
+      },
+      "description": {
+        "en": "A complete rocket-launch scene one-shot in Blender in about an hour, using just 4% of a Pro x5 weekly quota",
+        "zh": "在 Blender 中约一小时一次性完成整个火箭发射场景，仅消耗 Pro 5x 每周额度的 4%"
       }
     }
   ]
