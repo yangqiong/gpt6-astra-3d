@@ -873,6 +873,231 @@
         "en": "Let Astra run on xHigh for 3 hours (only 3% of his weekly quota) building the Roman Colosseum in Blender — progress shots in the thread",
         "zh": "让 Astra 以 xHigh 档连续运行 3 小时（仅消耗每周额度的 3%）在 Blender 里建造罗马斗兽场——帖子内附进度截图"
       }
+    },
+    {
+      "id": 39,
+      "author": "emollick",
+      "url": "https://x.com/emollick/status/2096047660662722620",
+      "likes": 356,
+      "views": 19906,
+      "postedAt": "2026-09-05T01:27:59Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [
+        {
+          "kind": "play",
+          "url": "https://zork-underground-empire.netlify.app/"
+        }
+      ],
+      "title": {
+        "en": "Zork remade as a 3D action-adventure",
+        "zh": "把《Zork》重制成 3D 动作冒险游戏"
+      },
+      "description": {
+        "en": "Asked Astra to turn the 1977 text adventure Zork into a full 3D action-adventure — it kept the original plot and puzzles, added fight scenes, and built every character and environment in Three.js",
+        "zh": "让 Astra 把 1977 年文字冒险《Zork》改成完整 3D 动作冒险——保留原剧情与谜题、加入战斗场面，所有角色和场景都用 three.js 搭建"
+      }
+    },
+    {
+      "id": 40,
+      "author": "posi_posi8",
+      "url": "https://x.com/posi_posi8/status/2096017956325224851",
+      "likes": 322,
+      "views": 39301,
+      "postedAt": "2026-09-04T23:29:57Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "Character 3D modeling, zero manual edits",
+        "zh": "角色 3D 建模，全程零手动干预"
+      },
+      "description": {
+        "en": "Character modeling in Blender from scratch — no Meshy or Tripo, no manual intervention at all; \"an area Fable 5.1 and GPT-5.6 Sol couldn't touch, and the quality jump took just two months\"",
+        "zh": "在 Blender 中从零开始角色建模——不用 Meshy/Tripo3D，一次手动干预都没有；「这是 Fable 5.1 和 GPT-5.6 Sol 完全做不到的领域，两个月内质量提升惊人」"
+      }
+    },
+    {
+      "id": 41,
+      "author": "GOROman",
+      "url": "https://x.com/GOROman/status/2096020818103078966",
+      "likes": 85,
+      "views": 5288,
+      "postedAt": "2026-09-04T23:41:19Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "Virtua Fighter's Sarah modeled, bones included",
+        "zh": "《VR战士》莎拉建模，连骨骼都有"
+      },
+      "description": {
+        "en": "Had Astra operate Blender to model Sarah from Virtua Fighter 1 — the model even comes with an armature rigged inside",
+        "zh": "让 Astra 亲自操作 Blender 为《VR战士 1》的莎拉建模——模型内部连骨骼绑定都做好了"
+      }
+    },
+    {
+      "id": 42,
+      "author": "LufzzLiz",
+      "url": "https://x.com/LufzzLiz/status/2096033610369483104",
+      "likes": 81,
+      "views": 9642,
+      "postedAt": "2026-09-05T00:32:09Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Blender + three.js",
+        "zh": "Blender + three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "Blender-modeled assets + three.js, first playable",
+        "zh": "Blender 建模 + three.js，首个可玩版"
+      },
+      "description": {
+        "en": "\"Finally got to play with GPT-6 Astra — first the simple version: Blender modeling + three.js + your creativity; better materials coming in the next version\"",
+        "zh": "「终于玩上 GPT-6 Astra 了，先来个简单版：Blender 建模 + three.js + 你的创意即可，下一版再增加质感」——中文社区的早期 Astra 3D 可玩演示"
+      }
+    },
+    {
+      "id": 43,
+      "author": "onofumi_AI",
+      "url": "https://x.com/onofumi_AI/status/2096020860121596003",
+      "likes": 66,
+      "views": 3041,
+      "postedAt": "2026-09-04T23:41:29Z",
+      "category": "world",
+      "tech": {
+        "en": "Blender (MCP)",
+        "zh": "Blender（MCP）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Walkable 3D room via Blender MCP",
+        "zh": "用 Blender MCP 做「能走进去的 3D 房间」"
+      },
+      "description": {
+        "en": "Built a walkable 3D space with Blender MCP — every furniture piece can be pulled out and rotated, you can walk around inside the room, and the editable Blender data remains; a Midjourney→Blender pipeline is next",
+        "zh": "用 Blender MCP 搭建可行走的 3D 空间——家具可单独取出旋转、可以在房间里走动，可编辑的 Blender 数据也保留；下一步尝试 Midjourney→Blender 流程"
+      }
+    },
+    {
+      "id": 44,
+      "author": "Alpha10six",
+      "url": "https://x.com/Alpha10six/status/2096042985775386739",
+      "likes": 47,
+      "views": 2804,
+      "postedAt": "2026-09-05T01:09:25Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender + STEP/CAD",
+        "zh": "Blender + STEP/CAD"
+      },
+      "demos": [],
+      "title": {
+        "en": "3D-scan mesh → Blender model → STEP file",
+        "zh": "3D 扫描网格 → Blender 建模 → STEP 文件"
+      },
+      "description": {
+        "en": "Fed Astra a raw, incomplete mesh straight from his 3D scanner — it modeled it completely in Blender and exported an actual STEP CAD file, verified opening in SolidWorks on screen recording",
+        "zh": "把自己 3D 扫描仪导出的原始残缺网格交给 Astra——它在 Blender 里完整建模并导出真正的 STEP CAD 文件，录屏中在 SolidWorks 里打开验证"
+      }
+    },
+    {
+      "id": 45,
+      "author": "masahirochaen",
+      "url": "https://x.com/masahirochaen/status/2096061462032826495",
+      "likes": 37,
+      "views": 5495,
+      "postedAt": "2026-09-05T02:22:50Z",
+      "category": "world",
+      "tech": {
+        "en": "3D game (tool not stated)",
+        "zh": "3D 游戏（工具未注明）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Precision game from a one-line prompt",
+        "zh": "一行提示词生成高精度游戏"
+      },
+      "description": {
+        "en": "\"Astra's 3D modeling is scary — it clearly surpasses Fable 5.1. Games this precise were impossible before, and the prompt was just a casual one-liner\"",
+        "zh": "「Astra 的 3D 建模太厉害了，确实凌驾于 Fable 5.1 之上。这么精密的游戏以前做不出来，而提示词只是随手写的一行」"
+      }
+    },
+    {
+      "id": 46,
+      "author": "DeryaTR_",
+      "url": "https://x.com/DeryaTR_/status/2096062355692048605",
+      "likes": 37,
+      "views": 2062,
+      "postedAt": "2026-09-05T02:26:23Z",
+      "category": "world",
+      "tech": {
+        "en": "Blender + Mac app",
+        "zh": "Blender + Mac 应用"
+      },
+      "demos": [],
+      "title": {
+        "en": "Sinclair ZX Spectrum 48K simulator",
+        "zh": "Sinclair ZX Spectrum 48K 模拟器"
+      },
+      "description": {
+        "en": "A Mac app simulation of his first computer from 40+ years ago, built with Astra + Blender: clickable rubber keyboard, working Sinclair BASIC, cassette loading with real tones, CRT scanlines, and a bundled playable game (Gridrunner)",
+        "zh": "用 Astra + Blender 复刻他 40 多年前的第一台电脑并做成 Mac 应用仿真：可点击的橡胶键盘、能写程序的 Sinclair BASIC、带真实加载音的磁带装载、CRT 扫描线，还内置可玩的 Gridrunner 游戏"
+      }
+    },
+    {
+      "id": 47,
+      "author": "aniketjart",
+      "url": "https://x.com/aniketjart/status/2096019868713984080",
+      "likes": 32,
+      "views": 2155,
+      "postedAt": "2026-09-04T23:37:33Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "Pacific Rim–style mecha battle game",
+        "zh": "环太平洋风格机甲战斗游戏"
+      },
+      "description": {
+        "en": "One prompt pointing Astra at his ongoing mecha project produced a Pacific Rim–style battle game; parts of the Three.js work ran through his own harness",
+        "zh": "一条提示词让 Astra 基于他进行中的机甲项目做出环太平洋风格战斗游戏；部分 three.js 环节通过他自己的 harness 完成"
+      }
+    },
+    {
+      "id": 48,
+      "author": "op7418",
+      "url": "https://x.com/op7418/status/2096065904828416286",
+      "likes": 19,
+      "views": 2008,
+      "postedAt": "2026-09-05T02:40:29Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "The classic Blender donut, in 10 minutes",
+        "zh": "经典 Blender 甜甜圈，10 分钟出炉"
+      },
+      "description": {
+        "en": "Slow mode took just 10 minutes to render a highly detailed donut in Blender — \"the tutorial I always started with and never finished, which takes an hour or two of video to teach\"",
+        "zh": "慢速模式仅 10 分钟就在 Blender 里渲染出非常精细的甜甜圈模型——「那个我每次学 Blender 都从它开始、从没学完的教程，视频都得教一两个小时」"
+      }
     }
   ]
 }
