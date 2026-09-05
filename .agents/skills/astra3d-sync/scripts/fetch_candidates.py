@@ -105,6 +105,13 @@ def api_search(key, query, cursor="", retries=3):
             if e.code == 401:
                 sys.exit("ERROR: twitterapi.io returned 401 — key expired/revoked")
             raise
+        except OSError:
+            # URLError, ssl.SSLError, ConnectionError — transient network
+            # failures (TLS handshake resets etc.) deserve a backoff retry.
+            if attempt < retries:
+                time.sleep(5 * attempt)
+                continue
+            raise
     return {}
 
 

@@ -1098,6 +1098,319 @@
         "en": "Slow mode took just 10 minutes to render a highly detailed donut in Blender — \"the tutorial I always started with and never finished, which takes an hour or two of video to teach\"",
         "zh": "慢速模式仅 10 分钟就在 Blender 里渲染出非常精细的甜甜圈模型——「那个我每次学 Blender 都从它开始、从没学完的教程，视频都得教一两个小时」"
       }
+    },
+    {
+      "id": 49,
+      "author": "tomkrcha",
+      "url": "https://x.com/tomkrcha/status/2096082580554777041",
+      "likes": 4702,
+      "views": 250479,
+      "postedAt": "2026-09-05T03:46:45Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "Trains as living code, zero model files",
+        "zh": "用代码「活」出来的火车，零模型文件"
+      },
+      "description": {
+        "en": "Two trains built entirely at runtime from TypeScript/Three.js code — dimensions, profiles and geometry functions instead of 3D model files; wheel motion and the explode/reassemble animation are fully code-driven and run smoothly in the browser",
+        "zh": "两列火车完全由 TypeScript/three.js 代码在运行时生成——用尺寸、轮廓和几何函数代替 3D 模型文件；车轮运动与拆解/重组动画全部由代码驱动，浏览器中流畅运行"
+      }
+    },
+    {
+      "id": 50,
+      "author": "birdabo",
+      "url": "https://x.com/birdabo/status/2096176846408945789",
+      "likes": 1719,
+      "views": 177819,
+      "postedAt": "2026-09-05T10:01:19Z",
+      "category": "world",
+      "tech": {
+        "en": "Unreal Engine",
+        "zh": "Unreal Engine"
+      },
+      "demos": [],
+      "title": {
+        "en": "Unreal Engine demo clip",
+        "zh": "Unreal Engine 引擎实录演示"
+      },
+      "description": {
+        "en": "His in-engine Unreal Engine demo clip went viral on the strength of the footage — 1.7K likes within hours",
+        "zh": "他的 Unreal Engine 引擎实录演示短片凭画面实力走红——数小时内拿下 1.7K 赞"
+      }
+    },
+    {
+      "id": 51,
+      "author": "birdabo",
+      "url": "https://x.com/birdabo/status/2096156461365960837",
+      "likes": 1067,
+      "views": 279920,
+      "postedAt": "2026-09-05T08:40:19Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "GTA 6-style Singapore street, iPhone POV",
+        "zh": "GTA 6 画质新加坡街头，iPhone 视角"
+      },
+      "description": {
+        "en": "Asked Astra for a hyper-realistic GTA 6-style Singapore street in Three.js, rendered from an iPhone POV — a playable demo is coming",
+        "zh": "让 Astra 用 three.js 生成 GTA 6 画质的超写实新加坡街头，以 iPhone 第一人称视角呈现——作者预告可玩 demo 即将推出"
+      }
+    },
+    {
+      "id": 52,
+      "author": "Angaisb_",
+      "url": "https://x.com/Angaisb_/status/2096199660687745134",
+      "likes": 873,
+      "views": 35426,
+      "postedAt": "2026-09-05T11:31:59Z",
+      "category": "world",
+      "tech": {
+        "en": "Voxel (Minecraft)",
+        "zh": "体素（Minecraft）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Animated OpenAI logo screen in Minecraft",
+        "zh": "Minecraft 里的动画版 OpenAI logo 屏幕"
+      },
+      "description": {
+        "en": "A working in-game screen showing the OpenAI logo morphing into \"6 Astra\" — built entirely inside Minecraft",
+        "zh": "一块真正能显示画面的游戏内屏幕：OpenAI logo 逐渐变成「6 Astra」——全部在 Minecraft 里完成"
+      }
+    },
+    {
+      "id": 53,
+      "author": "ashebytes",
+      "url": "https://x.com/ashebytes/status/2096221988763173186",
+      "likes": 609,
+      "views": 17643,
+      "postedAt": "2026-09-05T13:00:42Z",
+      "category": "web3d",
+      "tech": {
+        "en": "3D website (tool not stated)",
+        "zh": "3D 网站（工具未注明）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Male anatomy pulled apart into 2,234 pieces",
+        "zh": "男性解剖结构拆成 2,234 个零件"
+      },
+      "description": {
+        "en": "Follow-up to the exploding Tesla: a 3D learning website that dissects the male anatomy into 2,234 modeled pieces — \"we are in a renaissance of learning\"",
+        "zh": "爆火「特斯拉拆解」的续作：把男性解剖结构拆成 2,234 个建模零件的 3D 学习网站——「我们正处在学习的文艺复兴时代」"
+      }
+    },
+    {
+      "id": 54,
+      "author": "NFT_Chen",
+      "url": "https://x.com/NFT_Chen/status/2096143589151756638",
+      "likes": 454,
+      "views": 49844,
+      "postedAt": "2026-09-05T07:49:10Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "Hangzhou recreated in Three.js in 24 minutes",
+        "zh": "24 分钟把杭州搬进 three.js 网页"
+      },
+      "description": {
+        "en": "West Lake, Leifeng Pagoda, Qianjiang New Town, the Olympic \"Big Lotus\" stadium and more in one interactive miniature Hangzhou — orbit, zoom, fly to landmarks and switch day/sunset/night; built in about 24 minutes",
+        "zh": "西湖、雷峰塔、钱江新城、奥体「大莲花」……整座杭州做成可交互微缩网页：拖拽旋转、滚轮缩放、点击地标自动飞达，还能切换白天/日落/夜景——约 24 分钟完成"
+      }
+    },
+    {
+      "id": 55,
+      "author": "lepadphone",
+      "url": "https://x.com/lepadphone/status/2096147245775331419",
+      "likes": 356,
+      "views": 29631,
+      "postedAt": "2026-09-05T08:03:42Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "Interactive Three.js build, full prompt shared",
+        "zh": "three.js 交互作品，附完整提示词"
+      },
+      "description": {
+        "en": "A smoothly interactive Three.js build posted with the complete prompt — \"might not even need Blender, the stuff you can build on the web now is wild\"; it cut his workflow from hours down to 30 minutes",
+        "zh": "一段流畅交互的 three.js 作品，作者附上完整提示词——「可能都不再需要 Blender，现在网页上能做的东西太疯狂」；工作流从几小时缩到 30 分钟"
+      }
+    },
+    {
+      "id": 56,
+      "author": "op7418",
+      "url": "https://x.com/op7418/status/2096205141187956887",
+      "likes": 144,
+      "views": 24004,
+      "postedAt": "2026-09-05T11:53:45Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Blender + three.js + ChatGPT Sites",
+        "zh": "Blender + three.js + ChatGPT Sites"
+      },
+      "demos": [
+        {
+          "kind": "play",
+          "url": "https://moonlit-forge-studio.op7418.chatgpt.site/"
+        }
+      ],
+      "title": {
+        "en": "Blender → Three.js → deployed site, one pipeline",
+        "zh": "Blender → three.js → 上线网站，一条流水线"
+      },
+      "description": {
+        "en": "Full pipeline in one go: modeling in Blender, importing into Three.js, then generating the site's animations and interactions and deploying online — \"the cost of making sites like this is now absurdly low\"",
+        "zh": "一条流水线跑通：Blender 建模 → 导入 three.js → 自动生成网站动效与交互并在线部署——「现在做这种网站的成本实在太低」"
+      }
+    },
+    {
+      "id": 57,
+      "author": "hqmank",
+      "url": "https://x.com/hqmank/status/2096082432197837065",
+      "likes": 77,
+      "views": 6087,
+      "postedAt": "2026-09-05T03:46:09Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "3D globe dashboard, pixel-perfect from one reference",
+        "zh": "一张参考图完美复刻 3D 地球仪表盘"
+      },
+      "description": {
+        "en": "His months-long frontend benchmark — rebuild a Three.js globe dashboard from one prompt and one reference image — was finally nailed in one shot: Astra even caught the day/night toggle and 2D/3D view switch that appeared only in the screenshot",
+        "zh": "他连续数月用各代模型测试的基准——仅凭一条提示词和一张参考图重建 three.js 地球仪表盘——首次被一次性完美复刻：Astra 连只在截图里出现的昼夜切换和 2D/3D 视图切换都自己做了"
+      }
+    },
+    {
+      "id": 58,
+      "author": "rionaifantasy",
+      "url": "https://x.com/rionaifantasy/status/2096163579925770671",
+      "likes": 74,
+      "views": 11704,
+      "postedAt": "2026-09-05T09:08:36Z",
+      "category": "modeling",
+      "tech": {
+        "en": "three.js + Blender",
+        "zh": "three.js + Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "Dorm room photos → interactive 3D scene",
+        "zh": "宿舍照片 → 可交互 3D 场景"
+      },
+      "description": {
+        "en": "Gave Astra a few photos of his Australian dorm room; about 20 minutes later he had an interactive 3D scene built with three.js and Blender, plus a demo video",
+        "zh": "把自己在澳洲留学住的宿舍照片交给 Astra——约二十分钟后得到 three.js + Blender 打造的可交互 3D 场景和演示视频"
+      }
+    },
+    {
+      "id": 59,
+      "author": "servasyy_ai",
+      "url": "https://x.com/servasyy_ai/status/2096137415895494816",
+      "likes": 21,
+      "views": 4591,
+      "postedAt": "2026-09-05T07:24:38Z",
+      "category": "world",
+      "tech": {
+        "en": "Blender + three.js",
+        "zh": "Blender + three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "Sci-fi industrial atrium you can walk and run in",
+        "zh": "能走能跑的科幻工业中庭"
+      },
+      "description": {
+        "en": "An interactive sci-fi industrial atrium recorded straight from the page — control the character to walk, run and turn; Blender modeling + Three.js interaction with licensed base models and motion assets, then polish on gear, materials, lighting and motion blending",
+        "zh": "可交互的科幻工业中庭，视频为页面实录——能操控角色走、跑、转向；Blender 建模 + three.js 交互，结合授权底模与动作素材，再打磨装备、材质、灯光与运动衔接"
+      }
+    },
+    {
+      "id": 60,
+      "author": "AethericaX",
+      "url": "https://x.com/AethericaX/status/2096204118486290509",
+      "likes": 26,
+      "views": 612,
+      "postedAt": "2026-09-05T11:49:42Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "Concept art turned into 3D models",
+        "zh": "概念画变成 3D 模型"
+      },
+      "description": {
+        "en": "Feeding his own concept art to Astra and getting 3D models back in Blender — \"a great time for visionaries who want to turn their ideas into worlds\"",
+        "zh": "把自己的概念画喂给 Astra，在 Blender 里得到 3D 模型——「这是想把想法变成世界的远见者们的最好时代」"
+      }
+    },
+    {
+      "id": 61,
+      "author": "luisnomad",
+      "url": "https://x.com/luisnomad/status/2096201196042145885",
+      "likes": 20,
+      "views": 2319,
+      "postedAt": "2026-09-05T11:38:05Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (Pixal3D + headless)",
+        "zh": "Blender（Pixal3D + 无界面）"
+      },
+      "demos": [],
+      "title": {
+        "en": "3D mummy: GPT 5.6 Sol vs Astra",
+        "zh": "3D 木乃伊：GPT 5.6 Sol 对比 Astra"
+      },
+      "description": {
+        "en": "The same 3D mummy generated by GPT 5.6 Sol (left) and GPT 6 Astra (right) via Pixal3D on ComfyUI + headless Blender — a clean A/B quality comparison",
+        "zh": "同一个 3D 木乃伊：左边 GPT 5.6 Sol、右边 GPT 6 Astra，经 ComfyUI 上的 Pixal3D + 无界面 Blender 生成——一组直观的 A/B 画质对比"
+      }
+    },
+    {
+      "id": 62,
+      "author": "RoVoider",
+      "url": "https://x.com/RoVoider/status/2096233676891988199",
+      "likes": 19,
+      "views": 967,
+      "postedAt": "2026-09-05T13:47:09Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (for Roblox)",
+        "zh": "Blender（Roblox 用）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Mercedes G63 for Roblox in 2 hours",
+        "zh": "两小时做出 Roblox 版奔驰 G63"
+      },
+      "description": {
+        "en": "In 2 hours Astra modeled a full Mercedes AMG G63 in Blender for Roblox, made its own PBR textures, and even drafted reference designs and review plans for itself along the way",
+        "zh": "两小时内 Astra 在 Blender 里为 Roblox 建出完整的奔驰 AMG G63：自制 PBR 贴图，过程中还给自己列了参考设计与复盘计划"
+      }
     }
   ]
 }
