@@ -1411,6 +1411,461 @@
         "en": "In 2 hours Astra modeled a full Mercedes AMG G63 in Blender for Roblox, made its own PBR textures, and even drafted reference designs and review plans for itself along the way",
         "zh": "两小时内 Astra 在 Blender 里为 Roblox 建出完整的奔驰 AMG G63：自制 PBR 贴图，过程中还给自己列了参考设计与复盘计划"
       }
+    },
+    {
+      "id": 63,
+      "author": "LexnLin",
+      "url": "https://x.com/LexnLin/status/2096263046918197609",
+      "likes": 2052,
+      "views": 185594,
+      "postedAt": "2026-09-05T15:43:51Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js + custom shaders",
+        "zh": "three.js + 自定义着色器"
+      },
+      "demos": [],
+      "title": {
+        "en": "5-hour forest: 3,808 trees, 2.5M grass clumps",
+        "zh": "5 小时森林：3,808 棵树、250 万草丛"
+      },
+      "description": {
+        "en": "Gave Astra about 5 hours to create a forest \"as detailed as possible\" — 3,808 trees, 2.5 million grass clumps and nearly 40,000 ferns, all three.js plus custom shaders",
+        "zh": "给 Astra 约 5 小时「尽可能细致地」创建一片森林——3,808 棵树、250 万个草丛、近 4 万株蕨类，全部由 three.js 加自定义着色器实现"
+      }
+    },
+    {
+      "id": 64,
+      "author": "goncalo_canhoto",
+      "url": "https://x.com/goncalo_canhoto/status/2096298425914450021",
+      "likes": 874,
+      "views": 111439,
+      "postedAt": "2026-09-05T18:04:26Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "Terreiro do Paço in one prompt",
+        "zh": "一条提示词做里斯本商业广场"
+      },
+      "description": {
+        "en": "One prompt on Astra (High) recreated Lisbon's Terreiro do Paço in Blender — personally meaningful: 5 years ago in college he failed a whole Computer Graphics course assignment on this exact scene",
+        "zh": "Astra（High 档）一条提示词在 Blender 里复刻里斯本商业广场——对他别有意义：五年前大学图形学课程作业正是在这个场景上挂了科"
+      }
+    },
+    {
+      "id": 65,
+      "author": "xikhar",
+      "url": "https://x.com/xikhar/status/2096382232403603752",
+      "likes": 413,
+      "views": 19183,
+      "postedAt": "2026-09-05T23:37:27Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js + Blender",
+        "zh": "three.js + Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "Open-world browser game, cars modeled in Blender",
+        "zh": "浏览器开放世界游戏，车辆用 Blender 建模"
+      },
+      "description": {
+        "en": "\"Astra is cracked at making games\" — a browser game running on three.js whose cars it also modeled in Blender; \"the next GTA will be made by AI\"",
+        "zh": "「Astra 做游戏太变态了」——跑在 three.js 上的浏览器游戏，车辆也是它自己在 Blender 里建模的；「下一部 GTA 将由 AI 制作」"
+      }
+    },
+    {
+      "id": 66,
+      "author": "adilinthewild",
+      "url": "https://x.com/adilinthewild/status/2096297824053063957",
+      "likes": 253,
+      "views": 39845,
+      "postedAt": "2026-09-05T18:02:03Z",
+      "category": "world",
+      "tech": {
+        "en": "Higgsfield + Astra",
+        "zh": "Higgsfield + Astra"
+      },
+      "demos": [],
+      "title": {
+        "en": "Konoha from Naruto in 10–15 minutes",
+        "zh": "10–15 分钟重建火影木叶村"
+      },
+      "description": {
+        "en": "Rebuilt Konoha from Naruto in 3D with Higgsfield + Astra — street lamps, market stalls and even the utility lines between rooftops made it in; took 10–15 minutes",
+        "zh": "用 Higgsfield + Astra 3D 重建《火影忍者》的木叶村——路灯、集市摊位、甚至屋顶间的电线都有；耗时 10–15 分钟"
+      }
+    },
+    {
+      "id": 67,
+      "author": "groovestreetgen",
+      "url": "https://x.com/groovestreetgen/status/2096377742916981247",
+      "likes": 216,
+      "views": 8859,
+      "postedAt": "2026-09-05T23:19:37Z",
+      "category": "video",
+      "tech": {
+        "en": "Blender + GPT Image 2 + Seedance 2.5",
+        "zh": "Blender + GPT Image 2 + Seedance 2.5"
+      },
+      "demos": [],
+      "title": {
+        "en": "Bikini Bottom: movie + playable game",
+        "zh": "比奇堡：电影 + 可玩游戏"
+      },
+      "description": {
+        "en": "Rebuilt SpongeBob's Bikini Bottom, then turned it into a 30-second 1080p movie AND a playable game — Blender → GPT Image 2 → Seedance 2.5, poster in Photoshop (unofficial AI fan concept)",
+        "zh": "重建海绵宝宝的比奇堡，再做成 30 秒 1080p 电影外加可玩游戏——Blender → GPT Image 2 → Seedance 2.5 流水线，海报用 Photoshop（非官方 AI 同人概念）"
+      }
+    },
+    {
+      "id": 68,
+      "author": "Dstudio_ai",
+      "url": "https://x.com/Dstudio_ai/status/2096420704636019105",
+      "likes": 160,
+      "views": 4459,
+      "postedAt": "2026-09-06T02:10:20Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Tripo + Blender",
+        "zh": "Tripo + Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "Character with expressions: Tripo + Astra setup",
+        "zh": "带表情的角色：Tripo 建模 + Astra 组装"
+      },
+      "description": {
+        "en": "Generated the model with Tripo and left rigging/setup to Astra — it even made the facial expressions (with a fairly unusual technique); \"Blender is simply usable now, next I'll leave rigging to Astra too\"",
+        "zh": "用 Tripo 生成模型、装配全交给 Astra——连表情都是它做的（手法相当特殊）；「Blender 现在真的能用了，接下来绑定也交给 Astra」"
+      }
+    },
+    {
+      "id": 69,
+      "author": "himanshubuildss",
+      "url": "https://x.com/himanshubuildss/status/2096269057544831175",
+      "likes": 106,
+      "views": 8474,
+      "postedAt": "2026-09-05T16:07:44Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js / WebGL (Next.js)",
+        "zh": "three.js / WebGL（Next.js）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Bioluminescent deep-sea 3D landing page",
+        "zh": "生物荧光深海 3D 落地页"
+      },
+      "description": {
+        "en": "Chained Astra with Claude Code to build a \"$15,000\" bioluminescent deep-sea interactive landing page in minutes — fluid physics and 3D in Three.js/WebGL, zero manual CSS fighting (prompt in thread)",
+        "zh": "把 Astra 与 Claude Code 串联，几分钟做出价值「1.5 万美元」的生物荧光深海交互落地页——Three.js/WebGL 流体物理与 3D 渲染，零手写 CSS（提示词见帖子串）"
+      }
+    },
+    {
+      "id": 70,
+      "author": "masahirochaen",
+      "url": "https://x.com/masahirochaen/status/2096409860615405764",
+      "likes": 56,
+      "views": 10448,
+      "postedAt": "2026-09-06T01:27:14Z",
+      "category": "world",
+      "tech": {
+        "en": "3D game (A/B, tool not stated)",
+        "zh": "3D 游戏（A/B 对比，工具未注明）"
+      },
+      "demos": [],
+      "title": {
+        "en": "3D Pokémon game: Claude vs Astra",
+        "zh": "3D 宝可梦游戏：Claude 对比 Astra"
+      },
+      "description": {
+        "en": "Ran the same \"3D Pokémon game\" prompt on Claude Fable 5.1 and GPT-6 Astra — the gap is large, especially in modeling texture and how built-out the world feels; Astra clearly stronger",
+        "zh": "用同一条「3D 宝可梦游戏」提示词分别跑 Claude Fable 5.1 和 GPT-6 Astra——差距明显，尤其建模质感与世界观的完成度，Astra 明显更强"
+      }
+    },
+    {
+      "id": 71,
+      "author": "tokifyi",
+      "url": "https://x.com/tokifyi/status/2096319441072255363",
+      "likes": 56,
+      "views": 3899,
+      "postedAt": "2026-09-05T19:27:57Z",
+      "category": "modeling",
+      "tech": {
+        "en": "3D scene (tool not stated)",
+        "zh": "3D 场景（工具未注明）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Vancouver Science World as a 3D scene",
+        "zh": "把温哥华科学世界做成 3D 场景"
+      },
+      "description": {
+        "en": "Asked Astra to turn Vancouver's iconic Science World dome into a 3D scene",
+        "zh": "让 Astra 把温哥华地标科学世界的球形场馆变成 3D 场景"
+      }
+    },
+    {
+      "id": 72,
+      "author": "Angaisb_",
+      "url": "https://x.com/Angaisb_/status/2096401746432033114",
+      "likes": 54,
+      "views": 2402,
+      "postedAt": "2026-09-06T00:55:00Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "5+ hours of autonomous Blender modeling",
+        "zh": "Astra 在 Blender 自主建模 5 小时+"
+      },
+      "description": {
+        "en": "Left Astra working in Blender for more than 5 hours straight — \"much cheaper than Fable 5.1, and in my opinion the 3D model is also better\"",
+        "zh": "让 Astra 在 Blender 里连续自主工作 5 个多小时——「比 Fable 5.1 便宜得多，而且我认为 3D 模型也更好」"
+      }
+    },
+    {
+      "id": 73,
+      "author": "DeryaTR_",
+      "url": "https://x.com/DeryaTR_/status/2096403246512287753",
+      "likes": 40,
+      "views": 3102,
+      "postedAt": "2026-09-06T01:00:57Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "3D chess vs Stockfish, Kasparov replay",
+        "zh": "3D 国际象棋：对战 Stockfish，复播卡帕罗夫名局"
+      },
+      "description": {
+        "en": "A 3D chess game with a beautiful wooden board and pieces — 7 difficulty levels from beginner up to full Stockfish; the video shows Astra replaying \"Kasparov's Immortal\" (1999) in 60 seconds, playable from the link",
+        "zh": "木质棋盘棋子精美的 3D 国际象棋——7 档难度从入门到满血 Stockfish；视频里 Astra 用 60 秒复播 1999 年「卡帕罗夫不朽之局」，链接可玩"
+      }
+    },
+    {
+      "id": 74,
+      "author": "insaneUEFN",
+      "url": "https://x.com/insaneUEFN/status/2096255563273314618",
+      "likes": 38,
+      "views": 2998,
+      "postedAt": "2026-09-05T15:14:07Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Tripo P2 + Blender + Substance Painter",
+        "zh": "Tripo P2 + Blender + Substance Painter"
+      },
+      "demos": [],
+      "title": {
+        "en": "Tripo mesh → Astra retopo + Substance texturing",
+        "zh": "Tripo 网格 → Astra 修拓扑 + Substance 贴图"
+      },
+      "description": {
+        "en": "A working game-asset pipeline: Tripo P2 for the base mesh, Astra fixed the wobbly wheel geometry and optimized UVs in Blender, then Substance Painter texturing — \"it understood everything instantly and made no mistakes\"",
+        "zh": "一条可用的游戏资产流水线：Tripo P2 出基础网格，Astra 在 Blender 里修正歪轮几何并优化 UV，再用 Substance Painter 贴图——「它全都秒懂，零失误」"
+      }
+    },
+    {
+      "id": 75,
+      "author": "aniketjart",
+      "url": "https://x.com/aniketjart/status/2096386207639052428",
+      "likes": 31,
+      "views": 1841,
+      "postedAt": "2026-09-05T23:53:15Z",
+      "category": "world",
+      "tech": {
+        "en": "Blender (MCP) + three.js",
+        "zh": "Blender（MCP）+ three.js"
+      },
+      "demos": [
+        {
+          "kind": "play",
+          "url": "https://app.usecrayon.ai/play/82e970f7-0d86-421a-bdfc-5ac113b22bc0"
+        }
+      ],
+      "title": {
+        "en": "Atlantis city, one-shot via Blender MCP",
+        "zh": "一条提示词的亚特兰蒂斯城"
+      },
+      "description": {
+        "en": "One-shot Atlantis city build through Blender MCP — \"it was beautiful to watch it come together\"",
+        "zh": "通过 Blender MCP 一次性建成亚特兰蒂斯城——「看着它一步步搭起来太美了」"
+      }
+    },
+    {
+      "id": 76,
+      "author": "tomkrcha",
+      "url": "https://x.com/tomkrcha/status/2096362653480562751",
+      "likes": 28,
+      "views": 7814,
+      "postedAt": "2026-09-05T22:19:39Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "Full 3D railway simulation game",
+        "zh": "完整 3D 铁路模拟游戏"
+      },
+      "description": {
+        "en": "Kept going after his runtime-generated trains demo: Astra built a full 3D railway simulation game in three.js — 3D and isometric camera modes, follow each train, and more",
+        "zh": "在「代码生成火车」演示之后继续加码：Astra 用 three.js 做出完整 3D 铁路模拟游戏——3D/等轴双视角、可跟随每列火车等"
+      }
+    },
+    {
+      "id": 77,
+      "author": "deedydas",
+      "url": "https://x.com/deedydas/status/2096428356757856696",
+      "likes": 25,
+      "views": 1968,
+      "postedAt": "2026-09-06T02:40:44Z",
+      "category": "web3d",
+      "tech": {
+        "en": "physics sim (tool not stated)",
+        "zh": "物理模拟（工具未注明）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Rube Goldberg machine, 70-second run",
+        "zh": "运行 70 秒的鲁布·戈德堡机械"
+      },
+      "description": {
+        "en": "Asked Astra for a 3D Rube Goldberg machine — it made a physics-accurate one that runs for 70 seconds",
+        "zh": "让 Astra 做 3D 鲁布·戈德堡连锁机械——它做出了一台物理精确、能连续运行 70 秒的版本"
+      }
+    },
+    {
+      "id": 78,
+      "author": "timourxyz",
+      "url": "https://x.com/timourxyz/status/2096379521926840339",
+      "likes": 22,
+      "views": 2004,
+      "postedAt": "2026-09-05T23:26:41Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [
+        {
+          "kind": "play",
+          "url": "https://edge-city-skyward-quests.vercel.app/"
+        }
+      ],
+      "title": {
+        "en": "Browser game with NPCs and quests: Edge City islands",
+        "zh": "带 NPC 与任务的浏览器游戏：Edge City 群岛"
+      },
+      "description": {
+        "en": "A fully playable 3D browser game with NPCs and quests, loosely inspired by Edge City — each island maps to a place the community has been (Bhutan, Cape Town, California…)",
+        "zh": "带 NPC 和任务的完整可玩 3D 浏览器游戏，灵感 loosely 来自 Edge City——每座岛对应大家去过的地方（不丹、开普敦、加州……）"
+      }
+    },
+    {
+      "id": 79,
+      "author": "Buusk3",
+      "url": "https://x.com/Buusk3/status/2096382949126222123",
+      "likes": 21,
+      "views": 2211,
+      "postedAt": "2026-09-05T23:40:18Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "Dragon Ball's Magic Mirror with interior",
+        "zh": "龙珠魔法镜子（带内部结构）"
+      },
+      "description": {
+        "en": "Had Astra build the Magic Mirror (Dragon Ball) in Blender — cross-section shows what's actually inside",
+        "zh": "让 Astra 在 Blender 里做《龙珠》里的魔镜——剖面展示内部真实结构"
+      }
+    },
+    {
+      "id": 80,
+      "author": "usecrayon",
+      "url": "https://x.com/usecrayon/status/2096385137625923682",
+      "likes": 21,
+      "views": 1771,
+      "postedAt": "2026-09-05T23:49:00Z",
+      "category": "world",
+      "tech": {
+        "en": "Blender (MCP) + Crayon",
+        "zh": "Blender（MCP）+ Crayon"
+      },
+      "demos": [
+        {
+          "kind": "play",
+          "url": "https://app.usecrayon.ai/play/5d89e610-23c5-4d2b-a15b-cd18652a9503"
+        }
+      ],
+      "title": {
+        "en": "Underwater Ghibli-style world",
+        "zh": "吉卜力风水下世界"
+      },
+      "description": {
+        "en": "An underwater Ghibli-style world built with Astra + Crayon Pro — assets made through Blender MCP, \"such a smooth workflow\"",
+        "zh": "用 Astra + Crayon Pro 打造的水下吉卜力风世界——资产经 Blender MCP 制作，「工作流顺滑得不行」"
+      }
+    },
+    {
+      "id": 81,
+      "author": "dzhohola",
+      "url": "https://x.com/dzhohola/status/2096339041679442428",
+      "likes": 18,
+      "views": 1630,
+      "postedAt": "2026-09-05T20:45:50Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js / WebGL",
+        "zh": "three.js / WebGL"
+      },
+      "demos": [],
+      "title": {
+        "en": "ORBITAL: solar system with spaceflight planning",
+        "zh": "ORBITAL：可规划太空飞行的太阳系"
+      },
+      "description": {
+        "en": "A solar system that runs in the browser with Three.js + WebGL — explore 8 planets and 20 moons, move the camera, and plan a simplified spaceflight",
+        "zh": "跑在浏览器里的太阳系（Three.js + WebGL）——探索 8 颗行星和 20 颗卫星，自由移动镜头，还能规划简化版太空飞行"
+      }
+    },
+    {
+      "id": 82,
+      "author": "mehrantsi",
+      "url": "https://x.com/mehrantsi/status/2096282317148885453",
+      "likes": 8,
+      "views": 6202,
+      "postedAt": "2026-09-05T17:00:26Z",
+      "category": "world",
+      "tech": {
+        "en": "WASM + WebGPU (connectome)",
+        "zh": "WASM + WebGPU（连接组）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Fruit-fly brain simulation driven by a real connectome",
+        "zh": "真连接组驱动的果蝇大脑模拟"
+      },
+      "description": {
+        "en": "The original behind the viral \"fly brain\" story (news posts racked up 3.3K+ likes): years of work wired published flight-neuron annotations to flight controls, calibrated against FlyBody data, then Astra integrated Google Research's full brain-and-nerve-cord dataset and brought it to the browser via WASM/WebGPU — live sim and GitHub in the thread",
+        "zh": "爆火「果蝇大脑」的原帖（新闻转述号拿了 3.3K+ 赞）：多年工作把已发表的飞行神经元注释接到飞行控制、用 FlyBody 数据校准身体，再由 Astra 整合 Google Research 的完整「大脑+神经索」数据集并移植到浏览器（WASM/WebGPU）——帖串内有在线模拟和 GitHub"
+      }
     }
   ]
 }
