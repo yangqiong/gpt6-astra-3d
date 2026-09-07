@@ -1866,6 +1866,417 @@
         "en": "The original behind the viral \"fly brain\" story (news posts racked up 3.3K+ likes): years of work wired published flight-neuron annotations to flight controls, calibrated against FlyBody data, then Astra integrated Google Research's full brain-and-nerve-cord dataset and brought it to the browser via WASM/WebGPU — live sim and GitHub in the thread",
         "zh": "爆火「果蝇大脑」的原帖（新闻转述号拿了 3.3K+ 赞）：多年工作把已发表的飞行神经元注释接到飞行控制、用 FlyBody 数据校准身体，再由 Astra 整合 Google Research 的完整「大脑+神经索」数据集并移植到浏览器（WASM/WebGPU）——帖串内有在线模拟和 GitHub"
       }
+    },
+    {
+      "id": 83,
+      "author": "wuyang_zhou",
+      "url": "https://x.com/wuyang_zhou/status/2096548032128942370",
+      "likes": 10513,
+      "views": 2026930,
+      "postedAt": "2026-09-06T10:36:17Z",
+      "category": "world",
+      "tech": {
+        "en": "Computer Use (Minecraft)",
+        "zh": "Computer Use（Minecraft）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Mined a diamond in Minecraft overnight, unsupervised",
+        "zh": "一夜无人值守，在 Minecraft 里挖到钻石"
+      },
+      "description": {
+        "en": "Asked Astra to mine a diamond in Minecraft using computer use, then went to sleep — woke up to a diamond sitting in its inventory (setup in the replies); the single biggest viral Astra moment so far",
+        "zh": "让 Astra 用 Computer Use 在 Minecraft 里挖一颗钻石，然后就去睡觉——醒来时物品栏里已经躺着钻石（配置见回复）；迄今传播最广的 Astra 时刻"
+      }
+    },
+    {
+      "id": 84,
+      "author": "mirochill",
+      "url": "https://x.com/mirochill/status/2096594739839586384",
+      "likes": 395,
+      "views": 22563,
+      "postedAt": "2026-09-06T13:41:53Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Minecraft skins",
+        "zh": "Minecraft 皮肤"
+      },
+      "demos": [],
+      "title": {
+        "en": "20 anime characters as high-quality Minecraft skins",
+        "zh": "20 个动漫角色做成高质 Minecraft 皮肤"
+      },
+      "description": {
+        "en": "Asked Astra to create 20 known anime characters as Minecraft skins, with several variants each — it captured each character's look remarkably well (FR)",
+        "zh": "让 Astra 把 20 个知名动漫角色做成 Minecraft 皮肤，每个角色还有多个变体——每个角色的神韵都抓得很准（法语帖）"
+      }
+    },
+    {
+      "id": 85,
+      "author": "everettfish0408",
+      "url": "https://x.com/everettfish0408/status/2096765359282061544",
+      "likes": 363,
+      "views": 21458,
+      "postedAt": "2026-09-07T00:59:52Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (packaged as a skill)",
+        "zh": "Blender（封装为 skill）"
+      },
+      "demos": [
+        {
+          "kind": "source",
+          "url": "https://github.com/EverettFish/holo-card-studio"
+        }
+      ],
+      "title": {
+        "en": "One-sentence 3D laser/holo cards, open-sourced",
+        "zh": "一句话生成 3D 镭射卡牌，已开源"
+      },
+      "description": {
+        "en": "Astra generates the art itself and drives Blender directly, so holographic 3D cards become a one-liner — works from real photos or anime art; the whole pipeline (split layers, parallax, laser effect, star sparkle) is packaged as an open-source skill",
+        "zh": "Astra 自己生图又能直接操作 Blender，全息 3D 卡牌于是变成一句话的事——真人照片、动漫立绘都可以；整套流程（拆图层、视差、镭射、闪星）封装成了开源 skill"
+      }
+    },
+    {
+      "id": 86,
+      "author": "omni1896837",
+      "url": "https://x.com/omni1896837/status/2096545878400004350",
+      "likes": 263,
+      "views": 11098,
+      "postedAt": "2026-09-06T10:27:44Z",
+      "category": "world",
+      "tech": {
+        "en": "Minecraft mod (100% by Astra)",
+        "zh": "Minecraft 模组（100% 由 Astra 完成）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Minecraft mod: Mjolnir and Sling Ring",
+        "zh": "Minecraft 模组：雷神之锤与传送环"
+      },
+      "description": {
+        "en": "Update to a Minecraft mod developed 100% by Astra — it has now built Mjolnir (Thor's hammer) and Doctor Strange's Sling Ring, each with unique abilities and VFX",
+        "zh": "完全由 Astra 开发的 Minecraft 模组更新——新做了雷神之锤和奇异博士的传送环，各有专属技能与特效"
+      }
+    },
+    {
+      "id": 87,
+      "author": "Angaisb_",
+      "url": "https://x.com/Angaisb_/status/2096679634247057684",
+      "likes": 240,
+      "views": 7516,
+      "postedAt": "2026-09-06T19:19:13Z",
+      "category": "world",
+      "tech": {
+        "en": "Minecraft + self-built harness",
+        "zh": "Minecraft + 自建 harness"
+      },
+      "demos": [],
+      "title": {
+        "en": "Astra built its own Minecraft harness, then showcased it",
+        "zh": "Astra 自建 Minecraft harness 并自制展示视频"
+      },
+      "description": {
+        "en": "Prompted Astra to build its own Minecraft testing harness and then record and edit a video showcasing it — and it just does it",
+        "zh": "让 Astra 自己搭建 Minecraft 测试 harness，再录制并剪辑一支展示视频——它就真做出来了"
+      }
+    },
+    {
+      "id": 88,
+      "author": "NickDevFE",
+      "url": "https://x.com/NickDevFE/status/2096584201374196188",
+      "likes": 109,
+      "views": 4513,
+      "postedAt": "2026-09-06T13:00:00Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js / WebGPU (tool)",
+        "zh": "three.js / WebGPU（工具）"
+      },
+      "demos": [],
+      "title": {
+        "en": "img2threejs: big update to the image-to-3D-web tool",
+        "zh": "img2threejs：图转 3D 网页工具大更新"
+      },
+      "description": {
+        "en": "Nearly two months after launch, a major update to img2threejs informed by where users struggled — turns images into interactive Three.js/WebGPU websites",
+        "zh": "发布近两个月后，img2threejs 根据用户痛点迎来大更新——把图片变成可交互的 Three.js/WebGPU 网站"
+      }
+    },
+    {
+      "id": 89,
+      "author": "NFT_Chen",
+      "url": "https://x.com/NFT_Chen/status/2096560367807643979",
+      "likes": 88,
+      "views": 9885,
+      "postedAt": "2026-09-06T11:25:18Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Blender + three.js",
+        "zh": "Blender + three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "Sydney as a walkable 3D living model",
+        "zh": "能逛的悉尼 3D 活模型"
+      },
+      "description": {
+        "en": "Input: maps + real photos. Blender for fine models, three.js for the interactive view — Opera House, Harbour Bridge, street proportions and building materials all line up; zoom, orbit and one-click day/night",
+        "zh": "输入：地图 + 实拍照片。Blender 出精细模型、three.js 做交互展示——歌剧院、海港大桥、街道比例和建筑材质基本对得上；可缩放、环绕旋转、一键切换昼夜光影"
+      }
+    },
+    {
+      "id": 90,
+      "author": "kalanyei",
+      "url": "https://x.com/kalanyei/status/2096506357868642342",
+      "likes": 77,
+      "views": 4097,
+      "postedAt": "2026-09-06T07:50:41Z",
+      "category": "world",
+      "tech": {
+        "en": "Blender (baked)",
+        "zh": "Blender（烘焙）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Self-intro made from your own room",
+        "zh": "用自己的房间做自我介绍"
+      },
+      "description": {
+        "en": "Saw the Astra launch on Saturday morning and immediately built the project he'd always wanted: an interactive self-introduction inside a 3D copy of his own room — Blender rendering and baking, first version in about two hours (ZH-TW)",
+        "zh": "周六早上看到 Astra 发布，立刻动手做了一直想做的项目：在自己房间的 3D 复刻里做互动自我介绍——Blender 渲染加烘焙，两小时出了初版"
+      }
+    },
+    {
+      "id": 91,
+      "author": "CtrlAltDwayne",
+      "url": "https://x.com/CtrlAltDwayne/status/2096777138204799103",
+      "likes": 70,
+      "views": 3194,
+      "postedAt": "2026-09-07T01:46:40Z",
+      "category": "world",
+      "tech": {
+        "en": "PS2 assets + Blender",
+        "zh": "PS2 资源 + Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "PS2 game extracted, being modernized in Blender",
+        "zh": "提取 PS2 游戏并用 Blender 现代化"
+      },
+      "description": {
+        "en": "Astra extracted a PS2 game including its original graphics and maps in about 15 minutes; it's now adding the characters and plans to use Blender to modernize the whole thing",
+        "zh": "Astra 约 15 分钟就提取出一款 PS2 游戏的原始画面与地图，正在补回角色，还计划用 Blender 把整体画质现代化"
+      }
+    },
+    {
+      "id": 92,
+      "author": "omarsar0",
+      "url": "https://x.com/omarsar0/status/2096692234196283511",
+      "likes": 63,
+      "views": 7332,
+      "postedAt": "2026-09-06T20:09:17Z",
+      "category": "web3d",
+      "tech": {
+        "en": "WebGL / GLSL shaders",
+        "zh": "WebGL / GLSL 着色器"
+      },
+      "demos": [],
+      "title": {
+        "en": "\"Journey into a Black Hole\"",
+        "zh": "《坠入黑洞之旅》"
+      },
+      "description": {
+        "en": "An animated journey into a black hole built with vanilla JavaScript, HTML/CSS and custom WebGL/GLSL shaders — \"just crazy that it can create animated scenes like this\"",
+        "zh": "用原生 JavaScript、HTML/CSS 和自定义 WebGL/GLSL 着色器做出的坠入黑洞动画之旅——「它居然能做出这种动画场景，太疯了」"
+      }
+    },
+    {
+      "id": 93,
+      "author": "adamlyttleapps",
+      "url": "https://x.com/adamlyttleapps/status/2096558995494543454",
+      "likes": 61,
+      "views": 8836,
+      "postedAt": "2026-09-06T11:19:51Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js (+ fal.ai MCP assets)",
+        "zh": "three.js（+ fal.ai MCP 资产）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Walkable photoreal subway station, 26 minutes",
+        "zh": "26 分钟做出可逛的写实地铁站"
+      },
+      "description": {
+        "en": "Sketch → Nano Banana 2 render → one Ultra prompt: a walkable photoreal subway station in three.js — trains arriving and departing, doors opening, first-person walk onto the platform, into carriages and upstairs to stocked shops; 26m 9s and 10.46M tokens, full prompt shared",
+        "zh": "手绘草图 → Nano Banana 2 出效果图 → 一条 Ultra 提示词：three.js 里可走动的写实地铁站——列车进出站、车门开合、第一人称上月台进车厢、上楼到便利店，26 分 09 秒、1046 万 token，完整提示词已公开"
+      }
+    },
+    {
+      "id": 94,
+      "author": "RealFedeURU",
+      "url": "https://x.com/RealFedeURU/status/2096571051161387456",
+      "likes": 41,
+      "views": 2526,
+      "postedAt": "2026-09-06T12:07:45Z",
+      "category": "world",
+      "tech": {
+        "en": "HTML + three.js",
+        "zh": "HTML + three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "Super Mario in HTML + three.js",
+        "zh": "HTML + three.js 版超级马力欧"
+      },
+      "description": {
+        "en": "A Super Mario–style game generated in HTML + three.js (ES)",
+        "zh": "用 HTML + three.js 生成的超级马力欧风格游戏（西语帖）"
+      }
+    },
+    {
+      "id": 95,
+      "author": "HandEManAI",
+      "url": "https://x.com/HandEManAI/status/2096730884040999364",
+      "likes": 39,
+      "views": 3113,
+      "postedAt": "2026-09-06T22:42:52Z",
+      "category": "video",
+      "tech": {
+        "en": "Open anatomy files + Astra",
+        "zh": "开源解剖模型 + Astra"
+      },
+      "demos": [],
+      "title": {
+        "en": "C-section medical animation exploration",
+        "zh": "剖腹产医学科普动画探索"
+      },
+      "description": {
+        "en": "His ongoing medical-animation series: adapting open-source anatomy (Open 3D Model, Z-Anatomy, BodyParts3D) from male baseline to female and pregnancy — many rounds of prompting, honest about what's still awkward; kept as a benchmark for future models",
+        "zh": "他的医学科普动画系列新篇：把开源解剖模型（Open 3D Model / Z-Anatomy / BodyParts3D）从男性基准改造为孕期女性——多轮提示打磨，坦承仍有生硬之处；留作未来模型的基准测试"
+      }
+    },
+    {
+      "id": 96,
+      "author": "TusharXo",
+      "url": "https://x.com/TusharXo/status/2096741535891251261",
+      "likes": 31,
+      "views": 5441,
+      "postedAt": "2026-09-06T23:25:12Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js + Crayon",
+        "zh": "three.js + Crayon"
+      },
+      "demos": [
+        {
+          "kind": "play",
+          "url": "https://app.usecrayon.ai/play/a9a3c165-74b3-4ff6-9588-ad97f829ddb5"
+        }
+      ],
+      "title": {
+        "en": "Indie game built with Astra + Crayon, now live",
+        "zh": "Astra + Crayon 做的独立游戏已上线"
+      },
+      "description": {
+        "en": "\"Game is live now!\" — built with GPT-6 Astra, three.js and Crayon, asking for feedback",
+        "zh": "「游戏正式上线！」——用 GPT-6 Astra、three.js 和 Crayon 制作，欢迎试玩反馈"
+      }
+    },
+    {
+      "id": 97,
+      "author": "superalesha",
+      "url": "https://x.com/superalesha/status/2096706133121540436",
+      "likes": 26,
+      "views": 6403,
+      "postedAt": "2026-09-06T21:04:31Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Blender (MCP) + three.js",
+        "zh": "Blender（MCP）+ three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "His 4×3090 rig rebuilt in 3D, Astra vs Fable",
+        "zh": "自己的 4×3090 主机 3D 复刻：Astra 对比 Fable"
+      },
+      "description": {
+        "en": "Gave Astra and Fable 5.1 four photos of his 4x3090 rig from different angles plus Blender MCP, had each rebuild it in 3D, then asked each to make an animated website — process and results in the thread",
+        "zh": "给 Astra 和 Fable 5.1 各四张不同角度的 4×3090 主机照片加 Blender MCP，让它们 3D 重建后再各做一个动效网站——过程与结果见帖子串"
+      }
+    },
+    {
+      "id": 98,
+      "author": "BubuStd",
+      "url": "https://x.com/BubuStd/status/2096587056755638553",
+      "likes": 23,
+      "views": 2601,
+      "postedAt": "2026-09-06T13:11:21Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [
+        {
+          "kind": "play",
+          "url": "https://storm-race.vercel.app/"
+        }
+      ],
+      "title": {
+        "en": "Bakusou Kyoudai Let's & Go!! racer",
+        "zh": "《爆走兄弟 Let's & Go!!》赛车游戏"
+      },
+      "description": {
+        "en": "A childhood-favorite anime racer: Astra Pro's first browser build \"blew past my expectations\", then pulled locally and polished further on Astra High — three.js, playable",
+        "zh": "童年最爱动画改编赛车游戏：Astra Pro 的首个浏览器版本「远超预期」，再拉回本地用 Astra High 继续打磨——three.js，可在线游玩"
+      }
+    },
+    {
+      "id": 99,
+      "author": "majidmanzarpour",
+      "url": "https://x.com/majidmanzarpour/status/2096740827179458717",
+      "likes": 17,
+      "views": 1563,
+      "postedAt": "2026-09-06T23:22:23Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Blender + three.js",
+        "zh": "Blender + three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "Robot with 3,875 parts, inspired by the exploding demos",
+        "zh": "3,875 个零件的机器人（致敬爆炸拆解系列）"
+      },
+      "description": {
+        "en": "Inspired by @ashebytes' exploding-parts demos: designed and built a robot with 3,875 parts in Blender, rendered in three.js — demo link in the post",
+        "zh": "受 @ashebytes 爆炸拆解系列启发：在 Blender 里设计建造一台 3,875 个零件的机器人，用 three.js 渲染——演示链接见原帖"
+      }
+    },
+    {
+      "id": 100,
+      "author": "tomkrcha",
+      "url": "https://x.com/tomkrcha/status/2096759046544252989",
+      "likes": 17,
+      "views": 1365,
+      "postedAt": "2026-09-07T00:34:47Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender + three.js (audit tool)",
+        "zh": "Blender + three.js（审计工具）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Custom Lego Golden Gate set, with a parts audit",
+        "zh": "定制乐高金门大桥套装，附零件审计"
+      },
+      "description": {
+        "en": "Astra created a custom Lego set of the San Francisco Golden Gate Bridge (inspired by @dkundel's one), built a three.js preview tool, and produced a complete visual audit list of every Lego piece",
+        "zh": "Astra 做了一套旧金山金门大桥的定制乐高（灵感来自 @dkundel 的套装），还建了 three.js 预览工具，并生成完整的乐高零件可视化审计清单"
+      }
     }
   ]
 }
