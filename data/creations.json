@@ -2277,6 +2277,385 @@
         "en": "Astra created a custom Lego set of the San Francisco Golden Gate Bridge (inspired by @dkundel's one), built a three.js preview tool, and produced a complete visual audit list of every Lego piece",
         "zh": "Astra 做了一套旧金山金门大桥的定制乐高（灵感来自 @dkundel 的套装），还建了 three.js 预览工具，并生成完整的乐高零件可视化审计清单"
       }
+    },
+    {
+      "id": 101,
+      "author": "CtrlAltDwayne",
+      "url": "https://x.com/CtrlAltDwayne/status/2096872309936287887",
+      "likes": 2117,
+      "views": 229936,
+      "postedAt": "2026-09-07T08:04:51Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js (PS2 reverse-engineered)",
+        "zh": "three.js（PS2 逆向）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Simpsons Hit & Run reverse-engineered to the web",
+        "zh": "《辛普森：横冲直撞》逆向重建为网页版"
+      },
+      "description": {
+        "en": "Follow-up to his PS2 extraction: Astra (xhigh) reverse-engineered Simpsons Hit and Run from the PS2 game and rebuilt it for the web in three.js — \"used a lot of my usage\" but it works",
+        "zh": "继 PS2 提取之后的成果：Astra（xhigh）把 PS2 游戏《辛普森：横冲直撞》逆向工程并用 three.js 重建为网页版——「烧掉了我不少额度」，但真跑起来了"
+      }
+    },
+    {
+      "id": 102,
+      "author": "Angaisb_",
+      "url": "https://x.com/Angaisb_/status/2096997844708168028",
+      "likes": 460,
+      "views": 15454,
+      "postedAt": "2026-09-07T16:23:41Z",
+      "category": "world",
+      "tech": {
+        "en": "Minecraft redstone",
+        "zh": "Minecraft 红石"
+      },
+      "demos": [],
+      "title": {
+        "en": "Working RGB display in Minecraft redstone",
+        "zh": "纯红石打造的可运行 RGB 显示屏"
+      },
+      "description": {
+        "en": "A fully functional RGB display built entirely with redstone in Minecraft, running a Sol–Terra–Luna animation — plus more in the thread",
+        "zh": "完全用 Minecraft 红石搭建的可运行 RGB 显示屏，正在播放「太阳–地球–月亮」动画——帖子串里还有更多"
+      }
+    },
+    {
+      "id": 103,
+      "author": "NickDevFE",
+      "url": "https://x.com/NickDevFE/status/2096946586781692297",
+      "likes": 149,
+      "views": 6773,
+      "postedAt": "2026-09-07T13:00:00Z",
+      "category": "web3d",
+      "tech": {
+        "en": "img2threejs + Hyper3D",
+        "zh": "img2threejs + Hyper3D"
+      },
+      "demos": [
+        {
+          "kind": "play",
+          "url": "https://img2threejs.io/#/x/monster-tree"
+        }
+      ],
+      "title": {
+        "en": "img2threejs × Astra × Hyper3D workflow",
+        "zh": "img2threejs × Astra × Hyper3D 工作流"
+      },
+      "description": {
+        "en": "Image → Hyper3D → img2threejs → Astra: \"probably one of the most commercially valuable workflows I've tested\" — live showcase linked",
+        "zh": "图片 → Hyper3D → img2threejs → Astra：「这大概是我测过最具商业价值的工作流」——附在线演示"
+      }
+    },
+    {
+      "id": 104,
+      "author": "adilinthewild",
+      "url": "https://x.com/adilinthewild/status/2097096121273504141",
+      "likes": 134,
+      "views": 6168,
+      "postedAt": "2026-09-07T22:54:12Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (Higgsfield MCP)",
+        "zh": "Blender（Higgsfield MCP）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Mr. President with a power ring, one-shot",
+        "zh": "一条提示词：「戴力量戒指的总统先生」"
+      },
+      "description": {
+        "en": "Astra + Higgsfield MCP one-shotted a 3D model of Mr. President wearing a power ring — \"if this is not AGI, then what is this?\"",
+        "zh": "Astra + Higgsfield MCP 一条提示词做出「戴力量戒指的总统先生」3D 模型——「如果这都不是 AGI，那这是什么？」"
+      }
+    },
+    {
+      "id": 105,
+      "author": "wairazzz",
+      "url": "https://x.com/wairazzz/status/2097113388191277399",
+      "likes": 86,
+      "views": 5024,
+      "postedAt": "2026-09-08T00:02:48Z",
+      "category": "video",
+      "tech": {
+        "en": "Blender (+ Higgsfield plugin)",
+        "zh": "Blender（+ Higgsfield 插件）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Shakira's viral dance recreated in 3D",
+        "zh": "3D 复刻夏奇拉爆火舞蹈"
+      },
+      "description": {
+        "en": "Recreated Shakira's viral dance with Astra + Higgsfield plugin + Blender",
+        "zh": "用 Astra + Higgsfield 插件 + Blender 复刻夏奇拉的爆火舞蹈"
+      }
+    },
+    {
+      "id": 106,
+      "author": "PettusWX",
+      "url": "https://x.com/PettusWX/status/2097096913963106654",
+      "likes": 59,
+      "views": 3111,
+      "postedAt": "2026-09-07T22:57:21Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "Neyland Stadium in Blender, still in progress",
+        "zh": "Blender 版尼兰体育场（进行中）"
+      },
+      "description": {
+        "en": "\"Not even done yet but still looks insane\" — a 3D model of the University of Tennessee's Neyland Stadium built in Blender",
+        "zh": "「还没做完就已经离谱」——用 Blender 建造的田纳西大学尼兰体育场 3D 模型"
+      }
+    },
+    {
+      "id": 107,
+      "author": "AmirMushich",
+      "url": "https://x.com/AmirMushich/status/2097040276829188420",
+      "likes": 58,
+      "views": 4256,
+      "postedAt": "2026-09-07T19:12:17Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "SVG logo deformer, built with a /goal prompt",
+        "zh": "用 /goal 提示词做的 SVG logo 变形器"
+      },
+      "description": {
+        "en": "\"Build Brand Instrument\": a polished browser-based 3D creative instrument matching a reference image, built via an autonomous /goal prompt on Astra + three.js",
+        "zh": "「Build Brand Instrument」：用一条自主执行的 /goal 提示词让 Astra + three.js 做出的精致浏览器 3D 创意工具，效果对齐参考图"
+      }
+    },
+    {
+      "id": 108,
+      "author": "akira_papa_IT",
+      "url": "https://x.com/akira_papa_IT/status/2096918149350457778",
+      "likes": 55,
+      "views": 5356,
+      "postedAt": "2026-09-07T11:07:00Z",
+      "category": "video",
+      "tech": {
+        "en": "three.js + cloned voice",
+        "zh": "three.js + 克隆语音"
+      },
+      "demos": [],
+      "title": {
+        "en": "Soldering technique explained in interactive 3D",
+        "zh": "用交互 3D 讲解焊接手法"
+      },
+      "description": {
+        "en": "A long-hard-to-explain craft made visible: a three.js demonstration of soldering — which spots to heat, the order to lift iron and solder — narrated by a clone of his own voice; he suggests using this to preserve artisan techniques",
+        "zh": "把「难以用语言解释的手艺」可视化：three.js 焊接实演解说——哪里要加热、烙铁和焊锡先撤哪个都做成 3D 演示，旁白是他自己的克隆语音；他提议用这招为传统工艺留教材"
+      }
+    },
+    {
+      "id": 109,
+      "author": "eugene_mindset",
+      "url": "https://x.com/eugene_mindset/status/2097035971309064275",
+      "likes": 52,
+      "views": 3686,
+      "postedAt": "2026-09-07T18:55:11Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js + GLSL + water sim",
+        "zh": "three.js + GLSL + 水体模拟"
+      },
+      "demos": [],
+      "title": {
+        "en": "Weather app with a unique 3D scene per city",
+        "zh": "每座城市一个专属 3D 场景的天气应用"
+      },
+      "description": {
+        "en": "A design test with Astra: a fully interactive weather app where each city gets its own scene capturing how the weather feels — three.js + GLSL shaders + real-time water simulation",
+        "zh": "一次 Astra 设计实验：完全交互的天气应用，每座城市一个专属场景来呈现「天气的感受」——three.js + GLSL 着色器 + 实时水体模拟"
+      }
+    },
+    {
+      "id": 110,
+      "author": "EngMoElgaraihy",
+      "url": "https://x.com/EngMoElgaraihy/status/2096954462904479856",
+      "likes": 50,
+      "views": 3507,
+      "postedAt": "2026-09-07T13:31:18Z",
+      "category": "web3d",
+      "tech": {
+        "en": "3D websites (A/B)",
+        "zh": "3D 网站（A/B 对比）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Interactive anatomy site: Gemini vs Astra",
+        "zh": "交互式解剖网站：Gemini 对比 Astra"
+      },
+      "description": {
+        "en": "His A/B test building a complex interactive 3D human-anatomy website with precise geometric detail — Gemini 3.8 Flash finished in 1m52s at $0 vs GPT-6 Astra as the comparison baseline (AR)",
+        "zh": "他的 A/B 实验：构建细节精良的交互式 3D 人体解剖网站——Gemini 3.8 Flash 用时 1 分 52 秒、成本 0 美元，与 GPT-6 Astra 对比（阿拉伯语帖）"
+      }
+    },
+    {
+      "id": 111,
+      "author": "karankendre",
+      "url": "https://x.com/karankendre/status/2097035475899064618",
+      "likes": 50,
+      "views": 2295,
+      "postedAt": "2026-09-07T18:53:13Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js + Seedance 2.5",
+        "zh": "three.js + Seedance 2.5"
+      },
+      "demos": [],
+      "title": {
+        "en": "Ancient Indian kingdom, then AI-reimagined",
+        "zh": "古印度王国，再让 AI 重新想象"
+      },
+      "description": {
+        "en": "Built an ancient Indian kingdom in three.js with Astra, then handed the footage to Seedance 2.5 — top is Astra's world, bottom is how the video model reimagined it",
+        "zh": "用 Astra 在 three.js 里建出古印度王国，再把画面交给 Seedance 2.5——上半是 Astra 的世界，下半是视频模型重新想象后的样子"
+      }
+    },
+    {
+      "id": 112,
+      "author": "konstantinsaifo",
+      "url": "https://x.com/konstantinsaifo/status/2096972561770827915",
+      "likes": 41,
+      "views": 2632,
+      "postedAt": "2026-09-07T14:43:13Z",
+      "category": "modeling",
+      "tech": {
+        "en": "CAD + Blender + factory sim",
+        "zh": "CAD + Blender + 工厂仿真"
+      },
+      "demos": [],
+      "title": {
+        "en": "A weekend of hardware: CAD, factory simulation",
+        "zh": "一个周末的硬件实验：CAD 与工厂仿真"
+      },
+      "description": {
+        "en": "Spent the weekend pushing Astra to its limits for hardware — CAD, Blender, factory simulation, physical systems: \"AI just crossed a line in hardware\"",
+        "zh": "整个周末用 Astra 冲击硬件极限——CAD、Blender、工厂仿真、物理系统：「AI 刚刚跨过了硬件领域的某条线」"
+      }
+    },
+    {
+      "id": 113,
+      "author": "Rasmic",
+      "url": "https://x.com/Rasmic/status/2097112745778847997",
+      "likes": 24,
+      "views": 1577,
+      "postedAt": "2026-09-08T00:00:15Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "Office space planning in Blender",
+        "zh": "用 Blender 规划办公室空间"
+      },
+      "description": {
+        "en": "Using Astra + Blender to plan out his office space layout",
+        "zh": "用 Astra + Blender 规划自己的办公室空间布局"
+      }
+    },
+    {
+      "id": 114,
+      "author": "DataChaz",
+      "url": "https://x.com/DataChaz/status/2097104840854008002",
+      "likes": 21,
+      "views": 2453,
+      "postedAt": "2026-09-07T23:28:51Z",
+      "category": "video",
+      "tech": {
+        "en": "Blender + Seedance 2.5 (clay render)",
+        "zh": "Blender + Seedance 2.5（黏土渲染）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Astra → Blender → Seedance render pipeline",
+        "zh": "Astra → Blender → Seedance 渲染流水线"
+      },
+      "description": {
+        "en": "A seamless pipeline: Astra codes the geometry into Blender, the Clay Renderer plugin shapes the look, and Dreamina's Seedance 2.5 does the final render",
+        "zh": "一条顺滑流水线：Astra 把几何写进 Blender，黏土渲染插件定风格，最后由 Seedance 2.5 完成渲染"
+      }
+    },
+    {
+      "id": 115,
+      "author": "RealFedeURU",
+      "url": "https://x.com/RealFedeURU/status/2096972755648364763",
+      "likes": 20,
+      "views": 1542,
+      "postedAt": "2026-09-07T14:43:59Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "Rafting game in three.js",
+        "zh": "three.js 漂流游戏"
+      },
+      "description": {
+        "en": "A rafting game built with Astra + three.js (ES)",
+        "zh": "用 Astra + three.js 做的漂流游戏（西语帖）"
+      }
+    },
+    {
+      "id": 116,
+      "author": "imjustnewatai",
+      "url": "https://x.com/imjustnewatai/status/2097039470285533440",
+      "likes": 20,
+      "views": 1381,
+      "postedAt": "2026-09-07T19:09:05Z",
+      "category": "world",
+      "tech": {
+        "en": "Unreal Engine",
+        "zh": "Unreal Engine"
+      },
+      "demos": [],
+      "title": {
+        "en": "Red Dead–style game in UE, 32 hours, no agents",
+        "zh": "32 小时无智能体做出荒野大镖客风游戏"
+      },
+      "description": {
+        "en": "A Red Dead Redemption–style game in Unreal Engine built by Astra Ultra — no agents, one day and 8 hours of runtime",
+        "zh": "Astra Ultra 做的《荒野大镖客》风格 Unreal Engine 游戏——没用任何智能体，连续跑了一天零八小时"
+      }
+    },
+    {
+      "id": 117,
+      "author": "hajimetwi3",
+      "url": "https://x.com/hajimetwi3/status/2096889449292689460",
+      "likes": 16,
+      "views": 3583,
+      "postedAt": "2026-09-07T09:12:57Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js (Ultra)",
+        "zh": "three.js（Ultra）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Coast simulation, 45.5 hours in",
+        "zh": "海岸模拟：45.5 小时进度"
+      },
+      "description": {
+        "en": "Two-shot build now complete at ~45.5 hours of Astra Ultra chasing \"AAA-grade\" — with a sub-agent review panel that won't sign off until it agrees (JA)",
+        "zh": "第二版完成，Astra Ultra 为冲「AAA 级」已连续打磨约 45.5 小时——还请了评审子智能体把关，它们不认可就不收工（日语帖）"
+      }
     }
   ]
 }
