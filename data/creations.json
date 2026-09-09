@@ -2656,6 +2656,336 @@
         "en": "Two-shot build now complete at ~45.5 hours of Astra Ultra chasing \"AAA-grade\" — with a sub-agent review panel that won't sign off until it agrees (JA)",
         "zh": "第二版完成，Astra Ultra 为冲「AAA 级」已连续打磨约 45.5 小时——还请了评审子智能体把关，它们不认可就不收工（日语帖）"
       }
+    },
+    {
+      "id": 118,
+      "author": "rpnickson",
+      "url": "https://x.com/rpnickson/status/2097488440489116111",
+      "likes": 410,
+      "views": 21637,
+      "postedAt": "2026-09-09T00:53:08Z",
+      "category": "modeling",
+      "tech": {
+        "en": "photos → interactive 3D",
+        "zh": "照片 → 可交互 3D"
+      },
+      "demos": [],
+      "title": {
+        "en": "9 messy photos → interactive 3D studio",
+        "zh": "9 张随手拍 → 可交互 3D 工作室"
+      },
+      "description": {
+        "en": "Fed Astra 9 \"crappy\" photos of his studio — it understood the spatial arrangement, stitched them together and produced a fully interactive 3D model of the space. \"Absurd\"",
+        "zh": "把工作室的 9 张「随手烂照」喂给 Astra——它理解了空间布局、拼接成整体，生成完全可交互的 3D 空间模型。「离谱」"
+      }
+    },
+    {
+      "id": 119,
+      "author": "Nin19536",
+      "url": "https://x.com/Nin19536/status/2097163153276796943",
+      "likes": 230,
+      "views": 17686,
+      "postedAt": "2026-09-08T03:20:33Z",
+      "category": "world",
+      "tech": {
+        "en": "Unreal Engine",
+        "zh": "Unreal Engine"
+      },
+      "demos": [],
+      "title": {
+        "en": "Astra made a game, beat it, and cut the devlog",
+        "zh": "Astra 做游戏、自己通关、还剪了开发实录"
+      },
+      "description": {
+        "en": "A 2D-action demo in Unreal Engine inspired by Hollow Knight: Silksong — Astra also played through the entire game itself, recorded the screen, and edited a devlog video (ZH)",
+        "zh": "灵感来自《丝之歌》的 UE 横版动作 demo——通关也是 Astra 自己打的，还自己录屏剪了一段开发实录（中文帖）"
+      }
+    },
+    {
+      "id": 120,
+      "author": "h4nkdog",
+      "url": "https://x.com/h4nkdog/status/2097308970431987857",
+      "likes": 154,
+      "views": 40378,
+      "postedAt": "2026-09-08T12:59:59Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js (multiplayer)",
+        "zh": "three.js（多人联机）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Chao Garden ported to the browser, multiplayer",
+        "zh": "《混沌花园》移植浏览器并加联机"
+      },
+      "description": {
+        "en": "Had Astra port Chao Garden from Sonic Adventure Battle 2 into the browser using three.js — and it made it multiplayer",
+        "zh": "让 Astra 把《索尼克冒险 2 战斗》里的混沌花园用 three.js 移植到浏览器——而且还做成了多人联机"
+      }
+    },
+    {
+      "id": 121,
+      "author": "SpenserFX",
+      "url": "https://x.com/SpenserFX/status/2097439078866166018",
+      "likes": 135,
+      "views": 10011,
+      "postedAt": "2026-09-08T21:36:59Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (Astra-driven)",
+        "zh": "Blender（Astra 操控）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Vintage gym: 10 hours, 21 revisions, 1.3M polygons",
+        "zh": "复古健身房：10 小时、21 轮修改、130 万面"
+      },
+      "description": {
+        "en": "A vintage gym built over about 10 hours and 21 rounds of revisions with Astra driving Blender on a MacBook Pro — 1.3M polygons; directing the hoop construction and flooring was a highlight",
+        "zh": "Astra 在 MacBook Pro 上操控 Blender，约 10 小时、21 轮修改建成的复古健身房——130 万多边形；指挥篮筐结构和地板铺设的过程尤其精彩"
+      }
+    },
+    {
+      "id": 122,
+      "author": "LarryGraham01",
+      "url": "https://x.com/LarryGraham01/status/2097347519759913093",
+      "likes": 117,
+      "views": 12772,
+      "postedAt": "2026-09-08T15:33:10Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js (Codex)",
+        "zh": "three.js（Codex）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Wave Rift: water racer with new-gen lighting",
+        "zh": "Wave Rift：换上新世代光照的水上竞速"
+      },
+      "description": {
+        "en": "Been using Astra in Codex to push Wave Rift, his three.js water racer — \"the water and lighting alone make it feel like a completely different game\"",
+        "zh": "持续用 Codex 里的 Astra 打磨他的 three.js 水上竞速游戏 Wave Rift——「光是水体和光照就让它像换了一个游戏」"
+      }
+    },
+    {
+      "id": 123,
+      "author": "givros",
+      "url": "https://x.com/givros/status/2097343467026289039",
+      "likes": 99,
+      "views": 5316,
+      "postedAt": "2026-09-08T15:17:03Z",
+      "category": "world",
+      "tech": {
+        "en": "Blender → three.js pipeline",
+        "zh": "Blender → three.js 流水线"
+      },
+      "demos": [],
+      "title": {
+        "en": "One scene description → full wetland world",
+        "zh": "一段场景描述 → 完整湿地世界"
+      },
+      "description": {
+        "en": "A single natural-language scene (cozy lakeside cabin, hidden abandoned house on the island, boat, reeds, jumping fish, paths) went through his two-step prompting workflow into a production prompt covering terrain, Blender assets, GLB exports and three.js assembly — Astra preserved the whole composition; \"the jump from GPT-5.6 is monstrous\"",
+        "zh": "一段自然语言场景（湖畔小屋、岛上废弃屋、小船、芦苇、跃出水面的鱼、小径）经他的两步提示工作流变成覆盖地形、Blender 资产、GLB 导出与 three.js 装配的生产级提示词——Astra 完整保留了全部构图；「相比 GPT-5.6 的提升是怪物级的」"
+      }
+    },
+    {
+      "id": 124,
+      "author": "goan999999",
+      "url": "https://x.com/goan999999/status/2097323734504017936",
+      "likes": 88,
+      "views": 10817,
+      "postedAt": "2026-09-08T13:58:39Z",
+      "category": "modeling",
+      "tech": {
+        "en": "3D model + web showcase",
+        "zh": "3D 模型 + 网页展示"
+      },
+      "demos": [],
+      "title": {
+        "en": "Temple of Heaven model with web showcase",
+        "zh": "天坛祈年殿模型 + 网页展示"
+      },
+      "description": {
+        "en": "Astra built the 3D model of the Temple of Heaven's Qinian Hall and put together the web showcase on its own — \"I fired the 3D designer I was paying $4,000\"; prompt in the replies (ZH)",
+        "zh": "Astra 做出天坛祈年殿 3D 模型，还自己搭好了网页效果展示——「我直接开掉了 4000 美金请的 3D 设计师」；提示词在评论区（中文帖）"
+      }
+    },
+    {
+      "id": 125,
+      "author": "chetanankola",
+      "url": "https://x.com/chetanankola/status/2097233668981117278",
+      "likes": 84,
+      "views": 2761,
+      "postedAt": "2026-09-08T08:00:46Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "Bike + guns + missiles game, cooking live",
+        "zh": "摩托+枪械+导弹游戏，边做边晒"
+      },
+      "description": {
+        "en": "A from-scratch browser game in three.js — bike riding, shooting and missile launches working already; missile types and enemy attacks coming next",
+        "zh": "three.js 从零打造的浏览器游戏——摩托骑行、射击、导弹发射都已可玩；接下来加导弹种类和敌方攻击"
+      }
+    },
+    {
+      "id": 126,
+      "author": "DarioVillescass",
+      "url": "https://x.com/DarioVillescass/status/2097175638012539085",
+      "likes": 75,
+      "views": 124403,
+      "postedAt": "2026-09-08T04:10:10Z",
+      "category": "world",
+      "tech": {
+        "en": "Blender (photos → layout)",
+        "zh": "Blender（照片 → 布局）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Dad's future tire shop, walkable in Blender",
+        "zh": "和爸爸要开的轮胎店，Blender 里先逛起来"
+      },
+      "description": {
+        "en": "Turned photos and videos of the storefront he and his dad are opening into a Blender layout — first time using Blender; now they walk through it together and plan where everything goes",
+        "zh": "把和他爸爸准备开业的轮胎店的照片视频变成 Blender 布局——从没用过 Blender；现在父子俩在里面边走边规划每样东西的位置"
+      }
+    },
+    {
+      "id": 127,
+      "author": "KimiDYOR",
+      "url": "https://x.com/KimiDYOR/status/2097205538329161941",
+      "likes": 45,
+      "views": 1845,
+      "postedAt": "2026-09-08T06:08:59Z",
+      "category": "world",
+      "tech": {
+        "en": "Unreal Engine",
+        "zh": "Unreal Engine"
+      },
+      "demos": [],
+      "title": {
+        "en": "Full Unreal game scene in half a day",
+        "zh": "半天做出完整 Unreal 游戏场景"
+      },
+      "description": {
+        "en": "Astra built an entire Unreal Engine game scene in half a day — he only provided a few texture/3D-model links plus a description of the world and its core ideas",
+        "zh": "Astra 半天建出完整的 Unreal Engine 游戏场景——他只提供了几个贴图/模型链接和对世界观的核心描述"
+      }
+    },
+    {
+      "id": 128,
+      "author": "adilinthewild",
+      "url": "https://x.com/adilinthewild/status/2097393812016681160",
+      "likes": 30,
+      "views": 1107,
+      "postedAt": "2026-09-08T18:37:07Z",
+      "category": "video",
+      "tech": {
+        "en": "Blender (Higgsfield)",
+        "zh": "Blender（Higgsfield）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Interstellar's docking sequence recreated",
+        "zh": "复刻《星际穿越》对接名场面"
+      },
+      "description": {
+        "en": "Astra + Higgsfield recreated one of cinema's greatest scenes in Blender: Interstellar's docking sequence — side by side with the original it still feels unreal",
+        "zh": "Astra + Higgsfield 在 Blender 里复刻影史名场面：《星际穿越》的空间站对接——与原片对照着看仍觉得不真实"
+      }
+    },
+    {
+      "id": 129,
+      "author": "mvkaran",
+      "url": "https://x.com/mvkaran/status/2097291620089508001",
+      "likes": 29,
+      "views": 927,
+      "postedAt": "2026-09-08T11:51:02Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "Infinite-zoom watchmaker's workshop",
+        "zh": "无限缩放的钟表匠工坊"
+      },
+      "description": {
+        "en": "An infinite-zoom 3D watchmaker's workshop in three.js, with worlds inside worlds — a tribute to those 2000s-era infinite-zoom Flash games",
+        "zh": "three.js 无限缩放的 3D 钟表匠工坊，世界中还有世界——致敬 2000 年代那些无限缩放 Flash 小游戏"
+      }
+    },
+    {
+      "id": 130,
+      "author": "karankendre",
+      "url": "https://x.com/karankendre/status/2097430655336620509",
+      "likes": 28,
+      "views": 4703,
+      "postedAt": "2026-09-08T21:03:31Z",
+      "category": "modeling",
+      "tech": {
+        "en": "sketch → GPT Image 2.5 → 3D",
+        "zh": "手绘 → GPT Image 2.5 → 3D"
+      },
+      "demos": [],
+      "title": {
+        "en": "Sketch → realistic image → 3D fighter jet",
+        "zh": "手绘 → 写实图 → 3D 战斗机"
+      },
+      "description": {
+        "en": "A three-model chain: drew a fighter jet with @/sketch, GPT Image 2.5 turned the sketch photoreal, then Astra turned that image into a 3D model — \"a killer combination\"",
+        "zh": "三段式链条：用 @/sketch 画战斗机、GPT Image 2.5 把草图变写实图、Astra 再把图变 3D 模型——「杀手级组合」"
+      }
+    },
+    {
+      "id": 131,
+      "author": "pankajkumar_dev",
+      "url": "https://x.com/pankajkumar_dev/status/2097390493978235359",
+      "likes": 27,
+      "views": 2401,
+      "postedAt": "2026-09-08T18:23:56Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "Spider-Man web-swinging between two cities",
+        "zh": "蜘蛛侠在双城之间荡蛛丝"
+      },
+      "description": {
+        "en": "A Spider-Man game in three.js: fast web swinging, wall running, free falling and flying between skyscrapers, with two cities facing each other",
+        "zh": "three.js 蜘蛛侠游戏：高速荡蛛丝、爬墙、自由落体、在摩天楼间飞行，两座城市隔空相望"
+      }
+    },
+    {
+      "id": 132,
+      "author": "DeryaTR_",
+      "url": "https://x.com/DeryaTR_/status/2097511175604916646",
+      "likes": 26,
+      "views": 1686,
+      "postedAt": "2026-09-09T02:23:28Z",
+      "category": "modeling",
+      "tech": {
+        "en": "CAD (3D-printable)",
+        "zh": "CAD（可 3D 打印）"
+      },
+      "demos": [],
+      "title": {
+        "en": "His own pipette, designed and nearly printable",
+        "zh": "设计自己的移液器，即将可打印"
+      },
+      "description": {
+        "en": "The instrument he has used \"tens of thousands of times\" in the biology lab: Astra designed his very own pipette from scratch in CAD — almost ready to 3D print and assemble, and it can iterate on any modification",
+        "zh": "生物实验室里他用过「上万次」的仪器：Astra 用 CAD 从零设计出他自己的移液器——几乎可以 3D 打印组装了，任何改动还能继续迭代"
+      }
     }
   ]
 }
