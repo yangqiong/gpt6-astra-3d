@@ -2986,6 +2986,341 @@
         "en": "The instrument he has used \"tens of thousands of times\" in the biology lab: Astra designed his very own pipette from scratch in CAD — almost ready to 3D print and assemble, and it can iterate on any modification",
         "zh": "生物实验室里他用过「上万次」的仪器：Astra 用 CAD 从零设计出他自己的移液器——几乎可以 3D 打印组装了，任何改动还能继续迭代"
       }
+    },
+    {
+      "id": 133,
+      "author": "alexandrosM",
+      "url": "https://x.com/alexandrosM/status/2097825301879554296",
+      "likes": 313,
+      "views": 16987,
+      "postedAt": "2026-09-09T23:11:42Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (3D-printable)",
+        "zh": "Blender（可 3D 打印）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Antikythera Mechanism, precise and printable",
+        "zh": "精确还原、可打印的安提基特拉机械"
+      },
+      "description": {
+        "en": "Asked Astra to build a precise 3D replica of the 2,000-year-old Antikythera Mechanism — \"nothing short of breathtaking\", and it even offers a download of parts ready to 3D print",
+        "zh": "让 Astra 精确复刻两千年前的安提基特拉机械（古希腊天文计算器）——「美得令人窒息」，甚至提供可 3D 打印零件的下载"
+      }
+    },
+    {
+      "id": 134,
+      "author": "petergostev",
+      "url": "https://x.com/petergostev/status/2097801248099479576",
+      "likes": 238,
+      "views": 25555,
+      "postedAt": "2026-09-09T21:36:07Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Blender → web",
+        "zh": "Blender → 网页"
+      },
+      "demos": [
+        {
+          "kind": "play",
+          "url": "https://navier-stokes-solution.petergostev.chatgpt.site/"
+        }
+      ],
+      "title": {
+        "en": "Navier–Stokes solution, visualized",
+        "zh": "把 Navier–Stokes 解法做成可视化"
+      },
+      "description": {
+        "en": "Fed OpenAI's new Navier–Stokes paper to Astra in Codex and had it produce a Blender visualization of their solution — explorable in the browser",
+        "zh": "把 OpenAI 新发的 Navier–Stokes 论文喂给 Codex 里的 Astra，让它把论文的解法做成 Blender 可视化——可在浏览器中探索"
+      }
+    },
+    {
+      "id": 135,
+      "author": "happy_modeling",
+      "url": "https://x.com/happy_modeling/status/2097832650534990331",
+      "likes": 200,
+      "views": 14408,
+      "postedAt": "2026-09-09T23:40:54Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (vs Meshy 7)",
+        "zh": "Blender（对比 Meshy 7）"
+      },
+      "demos": [],
+      "title": {
+        "en": "One illustration → 3D: Astra vs Meshy 7",
+        "zh": "一张插画 → 3D：Astra 对比 Meshy 7"
+      },
+      "description": {
+        "en": "Built the same character 3D model from one illustration with both GPT-6 Astra (High) and Meshy 7 — Astra reproduced the full-body shape and outfit, but Meshy won this round on facial and clothing detail; 8 min vs 3 min (JA)",
+        "zh": "用同一张插画分别在 GPT-6 Astra（High）和 Meshy 7 生成角色 3D 模型——Astra 还原了全身形体与服装特征，但本轮 Meshy 在脸部、头发和服饰细节上更胜一筹；耗时 8 分钟 vs 3 分钟（日语帖）"
+      }
+    },
+    {
+      "id": 136,
+      "author": "onofumi_AI",
+      "url": "https://x.com/onofumi_AI/status/2097665026647871515",
+      "likes": 194,
+      "views": 10440,
+      "postedAt": "2026-09-09T12:34:49Z",
+      "category": "world",
+      "tech": {
+        "en": "Unreal Engine",
+        "zh": "Unreal Engine"
+      },
+      "demos": [],
+      "title": {
+        "en": "Worlds built as narrative spaces, not previz",
+        "zh": "世界不是预演草图，而是叙事空间"
+      },
+      "description": {
+        "en": "World-building in UE with Astra — his point: don't just build backgrounds shot by shot; design the actual space the story happens in, what's behind each door, where characters come and go (JA)",
+        "zh": "用 Astra 在 UE 里做世界构建——他的观点：不是逐镜头做背景，而是设计故事真正发生的空间：每扇门后通向哪里、角色从哪来往哪去（日语帖）"
+      }
+    },
+    {
+      "id": 137,
+      "author": "henry19840301",
+      "url": "https://x.com/henry19840301/status/2097588270171660321",
+      "likes": 172,
+      "views": 11873,
+      "postedAt": "2026-09-09T07:29:49Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js (video → 3D)",
+        "zh": "three.js（视频 → 3D）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A short video, rebuilt entirely in three.js",
+        "zh": "一段短视频，整体重建进 three.js"
+      },
+      "description": {
+        "en": "Gave Astra a short clip and asked it to rebuild the whole thing in three.js — geometry, materials, lighting and motion; \"my jaw actually dropped\" (prompt in the replies)",
+        "zh": "给 Astra 一段短视频，要求在 three.js 里整体重建——几何、材质、光照和运动全部复刻；「我下巴真的掉了」（提示词在回复里）"
+      }
+    },
+    {
+      "id": 138,
+      "author": "SpenserFX",
+      "url": "https://x.com/SpenserFX/status/2097744080725774568",
+      "likes": 100,
+      "views": 6341,
+      "postedAt": "2026-09-09T17:48:57Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Gaussian Splats + Blender",
+        "zh": "高斯泼溅 + Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "Blender splash art as a Gaussian Splat",
+        "zh": "把 Blender 官方 splash 高斯泼溅化"
+      },
+      "description": {
+        "en": "Gaussian Splats as a bridge between 3D workflows: started from Panthera Spelaea — the Blender 5.2 splash artwork by Joanna Kobierska — and moved the complex asset across pipelines (credits the original artist)",
+        "zh": "用高斯泼溅在 3D 工作流之间搬资产：以 Blender 5.2 官方 splash 画作《Panthera Spelaea》（Joanna Kobierska 绘）为起点，把复杂资产跨管线搬运（已注明原作者）"
+      }
+    },
+    {
+      "id": 139,
+      "author": "Chengzilhy",
+      "url": "https://x.com/Chengzilhy/status/2097842854467117446",
+      "likes": 95,
+      "views": 6472,
+      "postedAt": "2026-09-10T00:21:27Z",
+      "category": "video",
+      "tech": {
+        "en": "Blender → Seedance 2.5",
+        "zh": "Blender → Seedance 2.5"
+      },
+      "demos": [],
+      "title": {
+        "en": "Astra blocks the scene, Seedance shoots it",
+        "zh": "Astra 排分镜，Seedance 出片"
+      },
+      "description": {
+        "en": "Video recipe: Astra drives Blender to build the 3D blocking — space, character positions and moves, camera placement and motion — then Seedance 2.5 generates from that; stable one-shot output and far fewer credits wasted on rerolls (ZH)",
+        "zh": "视频制作配方：先让 Astra 操控 Blender 生成 3D 模块，确定空间、人物站位走位、机位和镜头运动，再交给 Seedance 2.5 生成——一次出片、稳定，大幅减少抽卡浪费的积分（中文帖）"
+      }
+    },
+    {
+      "id": 140,
+      "author": "EvgenyKirilin",
+      "url": "https://x.com/EvgenyKirilin/status/2097758340105506917",
+      "likes": 88,
+      "views": 5984,
+      "postedAt": "2026-09-09T18:45:37Z",
+      "category": "video",
+      "tech": {
+        "en": "Blender (molecular animation)",
+        "zh": "Blender（分子动画）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Ligand transformation animated in 20 minutes",
+        "zh": "20 分钟做出来的配体转化动画"
+      },
+      "description": {
+        "en": "Real drug-discovery work: a nonequilibrium FEP-like transformation between two ligands from the new OpenBind dataset — Astra animated it in Blender in 20 minutes, then he moved on to analyzing distant pockets",
+        "zh": "真实药物发现工作：新 OpenBind 数据集中两个配体之间的非平衡 FEP 式转化——Astra 用 Blender 20 分钟做好动画，他随即继续分析远端口袋"
+      }
+    },
+    {
+      "id": 141,
+      "author": "simonw",
+      "url": "https://x.com/simonw/status/2097847628155523242",
+      "likes": 51,
+      "views": 6402,
+      "postedAt": "2026-09-10T00:40:25Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (from concept image)",
+        "zh": "Blender（由概念图生成）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A Pluribus Fabergé egg in Blender",
+        "zh": "Blender 版 Pluribus 法贝热彩蛋"
+      },
+      "description": {
+        "en": "Generated the concept image in ChatGPT Images 2.5, pasted it into Codex, and had Astra turn it into a Blender model of a Pluribus-themed Fabergé egg (write-up linked)",
+        "zh": "先用 ChatGPT Images 2.5 生成概念图，贴进 Codex 让 Astra 把它变成 Pluribus 主题法贝热彩蛋的 Blender 模型（附详细记录）"
+      }
+    },
+    {
+      "id": 142,
+      "author": "miya00907380",
+      "url": "https://x.com/miya00907380/status/2097807257639748070",
+      "likes": 48,
+      "views": 1139,
+      "postedAt": "2026-09-09T22:00:00Z",
+      "category": "world",
+      "tech": {
+        "en": "image → 3D game street",
+        "zh": "图片 → 3D 游戏街区"
+      },
+      "demos": [],
+      "title": {
+        "en": "Generated image → walkable game street",
+        "zh": "生成图 → 能走动的游戏街区"
+      },
+      "description": {
+        "en": "Generated a street image first, had Astra build the 3D game street model from it, then let characters from his in-development 2.5D game Mystic Forest Three walk around it — \"a wonderful 3D street in one shot\" (JA)",
+        "zh": "先生成街区图片，让 Astra 据此制作游戏街区的 3D 模型，再让开发中的 2.5D 游戏《Mystic Forest Three》的角色进去走动——「一发就做出了出色的 3D 街区」（日语帖）"
+      }
+    },
+    {
+      "id": 143,
+      "author": "CardilloSamuel",
+      "url": "https://x.com/CardilloSamuel/status/2097561717999870402",
+      "likes": 47,
+      "views": 4233,
+      "postedAt": "2026-09-09T05:44:19Z",
+      "category": "world",
+      "tech": {
+        "en": "Unreal Engine",
+        "zh": "Unreal Engine"
+      },
+      "demos": [],
+      "title": {
+        "en": "Game login screen assembled in UE, hands-off",
+        "zh": "放手让 Astra 在 UE 拼出游戏登录界面"
+      },
+      "description": {
+        "en": "After a few hours working in the background, Astra perfectly assembled a login screen for his game — it made the 3D models, assembled the scene and hooked everything up in Unreal Engine",
+        "zh": "后台自主工作几小时后，Astra 完美拼出他游戏的登录界面——3D 模型自己建、场景自己装、Unreal Engine 里全部接好线"
+      }
+    },
+    {
+      "id": 144,
+      "author": "ermanmalak",
+      "url": "https://x.com/ermanmalak/status/2097713416316370966",
+      "likes": 36,
+      "views": 3362,
+      "postedAt": "2026-09-09T15:47:06Z",
+      "category": "modeling",
+      "tech": {
+        "en": "hand-modeled + Astra animation",
+        "zh": "手工建模 + Astra 动画"
+      },
+      "demos": [],
+      "title": {
+        "en": "Hand-made Walkman, Astra-animated",
+        "zh": "手搓随身听，Astra 来拍"
+      },
+      "description": {
+        "en": "Division of labor: he modeled the Walkman by hand part by part — Astra rigged it, animated it, lit it, shot it and made it interactive, all inside Blender plus a custom three.js viewer, with him art-directing",
+        "zh": "分工明确的协作：他逐零件手工建出随身听——Astra 负责绑定、动画、打光、运镜并做成可交互，全部在 Blender 加自建 three.js 查看器中完成，他做艺术指导"
+      }
+    },
+    {
+      "id": 145,
+      "author": "posi_posi8",
+      "url": "https://x.com/posi_posi8/status/2097819079994466635",
+      "likes": 36,
+      "views": 2031,
+      "postedAt": "2026-09-09T22:46:58Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Tripo3D + Blender",
+        "zh": "Tripo3D + Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "Monster diorama with a home for every monster",
+        "zh": "给每只怪物安家的怪兽立体景"
+      },
+      "description": {
+        "en": "Made a batch of monsters with Tripo3D + Astra + Blender, then modeled a place to display them all; BGM by AceStep 1.5, CC0 trees from Poly Haven — \"combining tools is just fun\" (JA)",
+        "zh": "用 Tripo3D + Astra + Blender 做了一批怪物，再建模一个场所把它们全部陈列起来；BGM 用 AceStep 1.5 生成、树木来自 Poly Haven（CC0）——「组合各种工具真的好玩」（日语帖）"
+      }
+    },
+    {
+      "id": 146,
+      "author": "hammertime_one",
+      "url": "https://x.com/hammertime_one/status/2097728500270793029",
+      "likes": 22,
+      "views": 787,
+      "postedAt": "2026-09-09T16:47:03Z",
+      "category": "world",
+      "tech": {
+        "en": "Godot + Blender MCP",
+        "zh": "Godot + Blender MCP"
+      },
+      "demos": [],
+      "title": {
+        "en": "Post-apocalyptic game one-shotted in half a day",
+        "zh": "半天一次性生成末日风游戏"
+      },
+      "description": {
+        "en": "Astra \"basically one-shotted\" an entire post-apocalyptic game in half a day with Godot + Blender MCP — rideable bike, gunplay, XP drops, NPCs, a resource hub, even a live speedometer",
+        "zh": "Astra 用 Godot + Blender MCP「基本一次性」在半天里做出完整末日风游戏——可骑摩托、枪战、经验掉落、NPC、资源站，甚至还有实时速度表"
+      }
+    },
+    {
+      "id": 147,
+      "author": "orcdev",
+      "url": "https://x.com/orcdev/status/2097813781988495684",
+      "likes": 16,
+      "views": 860,
+      "postedAt": "2026-09-09T22:25:55Z",
+      "category": "world",
+      "tech": {
+        "en": "3D models for a Godot RTS",
+        "zh": "Godot RTS 的 3D 模型"
+      },
+      "demos": [],
+      "title": {
+        "en": "Warcraft III–style game, Astra-made models",
+        "zh": "魔兽争霸 3 风格游戏，模型出自 Astra"
+      },
+      "description": {
+        "en": "Building a Warcraft III-style game inspired by the legendary Enfo's scenario, using Astra to generate all the 3D models — \"the entire process has been pretty easy\"",
+        "zh": "做一款致敬经典 Enfo's 玩法的魔兽争霸 3 风格游戏，全部 3D 模型由 Astra 生成——「整个过程相当轻松」"
+      }
     }
   ]
 }
