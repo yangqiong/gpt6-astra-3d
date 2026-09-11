@@ -3321,6 +3321,395 @@
         "en": "Building a Warcraft III-style game inspired by the legendary Enfo's scenario, using Astra to generate all the 3D models — \"the entire process has been pretty easy\"",
         "zh": "做一款致敬经典 Enfo's 玩法的魔兽争霸 3 风格游戏，全部 3D 模型由 Astra 生成——「整个过程相当轻松」"
       }
+    },
+    {
+      "id": 148,
+      "author": "xenit_v0",
+      "url": "https://x.com/xenit_v0/status/2097908321718071433",
+      "likes": 357,
+      "views": 45478,
+      "postedAt": "2026-09-10T04:41:35Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js + Capacitor (Android)",
+        "zh": "three.js + Capacitor（安卓）"
+      },
+      "demos": [
+        {
+          "kind": "play",
+          "url": "https://play.google.com/store/apps/details?id=com.owlapp.mola"
+        }
+      ],
+      "title": {
+        "en": "Café tycoon game shipped to Google Play in 44 hours",
+        "zh": "44 小时上架 Google Play 的咖啡馆游戏"
+      },
+      "description": {
+        "en": "From first message to Google Play submission in ~44 hours, entirely in one chat session: the arcade idle tycoon \"Mola\" — three.js + Capacitor, no coding knowledge, agents handled tests, Android packaging, ad/purchase integration and store submission; he played and gave feedback (TR)",
+        "zh": "从第一条消息到提交 Google Play 仅约 44 小时，且全程在单个会话中完成：街机放置类《Mola》——three.js + Capacitor，作者不懂编程，测试、安卓打包、广告内购接入和商店提交全由智能体完成，他只负责玩和提意见（土耳其语帖）"
+      }
+    },
+    {
+      "id": 149,
+      "author": "LexnLin",
+      "url": "https://x.com/LexnLin/status/2098024285512343979",
+      "likes": 205,
+      "views": 8194,
+      "postedAt": "2026-09-10T12:22:23Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "Beach with waves and a day/night cycle",
+        "zh": "有海浪和昼夜循环的海滩"
+      },
+      "description": {
+        "en": "A beach in three.js with a dense forest, sand, water, waves and a full day/night cycle",
+        "zh": "three.js 海滩：茂密森林、沙地、水面、海浪，外加完整昼夜循环"
+      }
+    },
+    {
+      "id": 150,
+      "author": "DFintelligence",
+      "url": "https://x.com/DFintelligence/status/2098003282874474711",
+      "likes": 177,
+      "views": 14295,
+      "postedAt": "2026-09-10T10:58:56Z",
+      "category": "world",
+      "tech": {
+        "en": "Unreal Engine + VR",
+        "zh": "Unreal Engine + VR"
+      },
+      "demos": [],
+      "title": {
+        "en": "Childhood dream: a Pokémon battle game in VR",
+        "zh": "童年梦想成真：VR 宝可梦对战游戏"
+      },
+      "description": {
+        "en": "Gave Astra the classic Pokémon Stadium, had it extract the attack database, soundtrack and 3D models, and import everything into Unreal Engine with VR support — now he plays it with his nephews; just missing multiplayer (FR)",
+        "zh": "把经典《宝可梦竞技场》交给 Astra，让它提取招式数据库、原声和 3D 模型，全部导入 Unreal Engine 并支持 VR——现在已经拿着跟侄子们玩一下午了，就差多人模式（法语帖）"
+      }
+    },
+    {
+      "id": 151,
+      "author": "Motion_Viz",
+      "url": "https://x.com/Motion_Viz/status/2097943908684587330",
+      "likes": 98,
+      "views": 7106,
+      "postedAt": "2026-09-10T07:03:00Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js / WebGL (+ Julius)",
+        "zh": "three.js / WebGL（+ Julius）"
+      },
+      "demos": [],
+      "title": {
+        "en": "2D concept render → 3D game environment in an hour",
+        "zh": "2D 概念图 → 1 小时变 3D 游戏环境"
+      },
+      "description": {
+        "en": "Turned a 2D concept render into an interactive 3D WebGL game environment in under an hour using Astra inside Julius — workflow inspired by @anshuc's original share",
+        "zh": "在 Julius 里用 Astra 把一张 2D 概念渲染图在 1 小时内变成可交互的 3D WebGL 游戏环境——工作流灵感来自 @anshuc 的最初分享"
+      }
+    },
+    {
+      "id": 152,
+      "author": "Ananth7e",
+      "url": "https://x.com/Ananth7e/status/2098127862033506342",
+      "likes": 98,
+      "views": 5361,
+      "postedAt": "2026-09-10T19:13:58Z",
+      "category": "world",
+      "tech": {
+        "en": "Blender + Unreal Engine",
+        "zh": "Blender + Unreal Engine"
+      },
+      "demos": [],
+      "title": {
+        "en": "Game environment one-shot: Blender + UE",
+        "zh": "一次性生成的游戏环境：Blender + UE"
+      },
+      "description": {
+        "en": "Astra one-shotted this game environment using Blender + Unreal Engine",
+        "zh": "Astra 用 Blender + Unreal Engine 一次性生成这个游戏环境"
+      }
+    },
+    {
+      "id": 153,
+      "author": "DeryaTR_",
+      "url": "https://x.com/DeryaTR_/status/2098172998486266142",
+      "likes": 83,
+      "views": 4844,
+      "postedAt": "2026-09-10T22:13:19Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "Calm lakeshore loop, 4.91M triangles",
+        "zh": "宁静湖岸循环场景，491 万三角形"
+      },
+      "description": {
+        "en": "A calm lakeshore scene built in Blender — about 396,000 unique mesh triangles and 4.91 million evaluated ones; he keeps making bigger ones and looping them \"for some positive relaxation\"",
+        "zh": "Blender 打造的宁静湖岸场景——约 39.6 万唯一网格三角形、491 万求值三角形；他不断做更大的场景循环播放，「用来放松身心」"
+      }
+    },
+    {
+      "id": 154,
+      "author": "sayoclips",
+      "url": "https://x.com/sayoclips/status/2097972094331953288",
+      "likes": 82,
+      "views": 3969,
+      "postedAt": "2026-09-10T08:55:00Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js + TSL shaders (Tripo GLB)",
+        "zh": "three.js + TSL 着色器（Tripo GLB）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Watch lungs age: morphing smoking-damage viz",
+        "zh": "亲眼看肺老化：渐变式吸烟伤害可视化"
+      },
+      "description": {
+        "en": "Instead of ten static lung models, one Tripo 3D model that changes as you watch: Astra edited the GLB directly in three.js and used morph targets + TSL shaders to show tissue deteriorating year by year, compressed 84% with Meshopt + WebP",
+        "zh": "不是十个静态肺模型，而是一个会随观看逐渐变化的 Tripo 3D 模型：Astra 直接用 three.js 编辑 GLB，以变形目标 + TSL 着色器呈现组织逐年劣化，并用 Meshopt + WebP 压缩了 84%"
+      }
+    },
+    {
+      "id": 155,
+      "author": "GuoMh14",
+      "url": "https://x.com/GuoMh14/status/2098115689508684130",
+      "likes": 38,
+      "views": 2490,
+      "postedAt": "2026-09-10T18:25:36Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (3D-printed)",
+        "zh": "Blender（已 3D 打印）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Jansen linkage designed by Astra, actually printed",
+        "zh": "Astra 设计的扬森机构，真的打印出来了"
+      },
+      "description": {
+        "en": "After watching the Astra + Blender demos he asked for a Jansen walking linkage — and actually 3D-printed it; \"seeing parts that started as a prompt walk across the desk hits different\"",
+        "zh": "围观了一阵 Astra + Blender 演示后，他让 Astra 做了一个扬森行走连杆机构——并且真的 3D 打印了出来；「看着从一句提示词开始的零件在桌上走起来，感觉完全不同」"
+      }
+    },
+    {
+      "id": 156,
+      "author": "Kiratchi0328",
+      "url": "https://x.com/Kiratchi0328/status/2098179340756480328",
+      "likes": 33,
+      "views": 1559,
+      "postedAt": "2026-09-10T22:38:31Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Tripo API + Astra (VRM tool)",
+        "zh": "Tripo API + Astra（VRM 工具）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Easy VRM avatar creation, no Blender needed",
+        "zh": "免 Blender 的轻量 VRM 制作"
+      },
+      "description": {
+        "en": "A system in development: Tripo API + Astra so anyone can create VRM avatars with zero 3D knowledge — model generation works today, expressions/blinks/lip-sync planned (JA)",
+        "zh": "开发中的系统：Tripo API + Astra，让零 3D 知识的人也能做 VRM 虚拟形象——目前支持模型生成，表情差分、眨眼、口型同步在计划中（日语帖）"
+      }
+    },
+    {
+      "id": 157,
+      "author": "youtooljp",
+      "url": "https://x.com/youtooljp/status/2098210445094219999",
+      "likes": 33,
+      "views": 367,
+      "postedAt": "2026-09-11T00:42:07Z",
+      "category": "web3d",
+      "tech": {
+        "en": "3D app (kanji study)",
+        "zh": "3D 应用（汉字学习）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Kanji stroke-order app moving into 3D",
+        "zh": "汉字笔顺应用走进 3D"
+      },
+      "description": {
+        "en": "His kanji stroke-order app \"Junko\" now creates in 3D space with Astra — from 2D to 3D, and from 3D toward reality? (JA)",
+        "zh": "他的汉字笔顺学习应用「順子」开始用 Astra 在 3D 空间里创作——从 2D 到 3D，再从 3D 到现实？（日语帖）"
+      }
+    },
+    {
+      "id": 158,
+      "author": "princess414141",
+      "url": "https://x.com/princess414141/status/2098076839096819828",
+      "likes": 28,
+      "views": 562,
+      "postedAt": "2026-09-10T15:51:13Z",
+      "category": "world",
+      "tech": {
+        "en": "Astra + Grok bots",
+        "zh": "Astra + Grok 机器人"
+      },
+      "demos": [],
+      "title": {
+        "en": "A little world with a very important dog named Astro",
+        "zh": "有个重要狗狗 Astro 的小世界"
+      },
+      "description": {
+        "en": "A 3D simulation world built with Astra and her Grok bots — cozy cottages, a library with a conference room, and a very important dog named Astro; the artwork title \"Lucy's Love Bear\" was entirely the Grok chief-of-staff's artistic decision",
+        "zh": "用 Astra 和她的 Grok 机器人搭建的 3D 模拟世界——温馨小屋、带会议室的图书馆，还有一只非常重要的狗狗 Astro；作品标题《Lucy 的爱之熊》完全出自 Grok 参谋长的艺术决定"
+      }
+    },
+    {
+      "id": 159,
+      "author": "sizhe_lester_li",
+      "url": "https://x.com/sizhe_lester_li/status/2097972412088263063",
+      "likes": 20,
+      "views": 9339,
+      "postedAt": "2026-09-10T08:56:16Z",
+      "category": "world",
+      "tech": {
+        "en": "Minecraft (survival building)",
+        "zh": "Minecraft（生存模式建造）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Apartment photos rebuilt in Minecraft, survival rules",
+        "zh": "公寓照片搬进 Minecraft，按生存规则来"
+      },
+      "description": {
+        "en": "Gave Astra photos of things in his apartment to rebuild in Minecraft — the little agent walked, jumped and built scaffolding to place blocks in survival mode, no flying or direct world edits",
+        "zh": "把公寓里物品的照片给 Astra，让它在 Minecraft 里复刻——小家伙自己走路、跳跃、搭脚手架，在生存模式里一块块放方块，不开飞行、不直接改世界"
+      }
+    },
+    {
+      "id": 160,
+      "author": "TusharXo",
+      "url": "https://x.com/TusharXo/status/2098156783181467801",
+      "likes": 19,
+      "views": 803,
+      "postedAt": "2026-09-10T21:08:53Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js + Crayon",
+        "zh": "three.js + Crayon"
+      },
+      "demos": [
+        {
+          "kind": "play",
+          "url": "https://app.usecrayon.ai/play/d09bb865-2259-42e2-86cc-fb609a9d6f28"
+        }
+      ],
+      "title": {
+        "en": "Cozy kite-flying game: paint and fly",
+        "zh": "温馨放风筝游戏：涂鸦再放飞"
+      },
+      "description": {
+        "en": "A cozy 2.5D kite-flying game in three.js — paint your kites and fly them above the rooftops; built with Astra + Crayon, images by Images 2.5",
+        "zh": "three.js 温馨 2.5D 放风筝游戏——自己涂鸦风筝，再放到屋顶之上；由 Astra + Crayon 制作，插画出自 Images 2.5"
+      }
+    },
+    {
+      "id": 161,
+      "author": "aniketjart",
+      "url": "https://x.com/aniketjart/status/2098207146647433534",
+      "likes": 18,
+      "views": 1035,
+      "postedAt": "2026-09-11T00:29:01Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js + Blender MCP + Crayon",
+        "zh": "three.js + Blender MCP + Crayon"
+      },
+      "demos": [
+        {
+          "kind": "play",
+          "url": "https://app.usecrayon.ai/play/362ae1e7-29bd-4fbc-9103-00649265d942"
+        }
+      ],
+      "title": {
+        "en": "Surrealist galaxy racing game",
+        "zh": "超现实主义星系竞速游戏"
+      },
+      "description": {
+        "en": "A surrealist space game where you race on a galaxy — built with Astra, some Blender MCP and Crayon's harness",
+        "zh": "在星系上赛车的超现实主义太空游戏——用 Astra、部分 Blender MCP 和 Crayon 的 harness 完成"
+      }
+    },
+    {
+      "id": 162,
+      "author": "jinglian",
+      "url": "https://x.com/jinglian/status/2098220638909722815",
+      "likes": 18,
+      "views": 931,
+      "postedAt": "2026-09-11T01:22:38Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (from 2D blueprint)",
+        "zh": "Blender（由 2D 蓝图生成）"
+      },
+      "demos": [],
+      "title": {
+        "en": "2D blueprint → the Ore steam locomotive in 3D",
+        "zh": "2D 蓝图 → 3D 版「欧雷号」蒸汽机车"
+      },
+      "description": {
+        "en": "One flat engineering drawing was all it took: Astra rebuilt the Silverton Railroad No. 100 \"Ore\" steam locomotive — an icon of the 19th-century Rocky Mountain mining boom — as a high-precision Blender model (ZH)",
+        "zh": "只给一张平面图纸：Astra 重建了希弗顿铁路 100 号「欧雷号」蒸汽机车——19 世纪落基山采矿热潮的工程标志——成为高精度 Blender 模型（中文帖）"
+      }
+    },
+    {
+      "id": 163,
+      "author": "AILogDev",
+      "url": "https://x.com/AILogDev/status/2098017600223777237",
+      "likes": 16,
+      "views": 890,
+      "postedAt": "2026-09-10T11:55:49Z",
+      "category": "world",
+      "tech": {
+        "en": "Unreal Engine 5",
+        "zh": "Unreal Engine 5"
+      },
+      "demos": [],
+      "title": {
+        "en": "UE5 in-game event: a spaceship takeoff",
+        "zh": "UE5 游戏内事件：飞船起飞"
+      },
+      "description": {
+        "en": "Had Astra create an in-game event scene of a spaceship taking off, in Unreal Engine 5 (JA)",
+        "zh": "让 Astra 在 Unreal Engine 5 里制作了一段宇宙船起飞的游戏内事件演出（日语帖）"
+      }
+    },
+    {
+      "id": 164,
+      "author": "soosiesays",
+      "url": "https://x.com/soosiesays/status/2098164645077082150",
+      "likes": 16,
+      "views": 702,
+      "postedAt": "2026-09-10T21:40:08Z",
+      "category": "web3d",
+      "tech": {
+        "en": "photos → browser 3D world",
+        "zh": "照片 → 浏览器 3D 世界"
+      },
+      "demos": [],
+      "title": {
+        "en": "SF apartment rebuilt as an interactive 3D world",
+        "zh": "旧金山公寓重建成可交互 3D 世界"
+      },
+      "description": {
+        "en": "Gave Astra a few photos of her San Francisco apartment — it rebuilt the whole thing as an interactive 3D world, entirely in the browser",
+        "zh": "给 Astra 几张旧金山公寓的照片——它把整套公寓重建成完全运行在浏览器里的可交互 3D 世界"
+      }
     }
   ]
 }
