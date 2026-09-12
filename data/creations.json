@@ -3710,6 +3710,324 @@
         "en": "Gave Astra a few photos of her San Francisco apartment — it rebuilt the whole thing as an interactive 3D world, entirely in the browser",
         "zh": "给 Astra 几张旧金山公寓的照片——它把整套公寓重建成完全运行在浏览器里的可交互 3D 世界"
       }
+    },
+    {
+      "id": 165,
+      "author": "0xRishi",
+      "url": "https://x.com/0xRishi/status/2098439358537990194",
+      "likes": 2398,
+      "views": 909367,
+      "postedAt": "2026-09-11T15:51:44Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js + Meshy + Blender",
+        "zh": "three.js + Meshy + Blender"
+      },
+      "demos": [
+        {
+          "kind": "play",
+          "url": "https://smashroyale.io"
+        }
+      ],
+      "title": {
+        "en": "Super Smash Royale: 45 characters, browser battle royale",
+        "zh": "Super Smash Royale：45 角色浏览器大乱斗"
+      },
+      "description": {
+        "en": "\"My best creation yet\" — battle royale in the browser with 45 characters from Melee + Brawl; built in a few days with Astra, ElevenLabs voices, Meshy, Blender and three.js — solo, multiplayer and controller support",
+        "zh": "「我迄今最好的作品」——浏览器大乱斗吃鸡，收录《大乱斗 Melee+Brawl》45 名角色；几天内用 Astra、ElevenLabs 配音、Meshy、Blender 和 three.js 做成，支持单人、多人与手柄"
+      }
+    },
+    {
+      "id": 166,
+      "author": "leilamakes",
+      "url": "https://x.com/leilamakes/status/2098450393277595841",
+      "likes": 271,
+      "views": 53048,
+      "postedAt": "2026-09-11T16:35:35Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (+ PixVerse pass)",
+        "zh": "Blender（+ PixVerse 成片）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Griffith Observatory rotunda, fully editable",
+        "zh": "格里菲斯天文台穹顶大厅，完全可编辑"
+      },
+      "description": {
+        "en": "From a reference of the observatory's iconic central rotunda to a fully editable 3D recreation in Blender, with Astra planning the workflow — then an animation pass brought it to life",
+        "zh": "从天文台标志性中央穹顶的参考图，到 Blender 里完全可编辑的 3D 复刻，工作流由 Astra 规划——再经动画加工赋予生命"
+      }
+    },
+    {
+      "id": 167,
+      "author": "aimikoda",
+      "url": "https://x.com/aimikoda/status/2098449653633052816",
+      "likes": 129,
+      "views": 5872,
+      "postedAt": "2026-09-11T16:32:39Z",
+      "category": "video",
+      "tech": {
+        "en": "Blender previs + MiniMax H3",
+        "zh": "Blender 预演 + MiniMax H3"
+      },
+      "demos": [],
+      "title": {
+        "en": "3D previs first, video model second",
+        "zh": "先 3D 预演，再视频生成"
+      },
+      "description": {
+        "en": "His two-stage workflow: GPT-6 Astra + Blender creates the base video as a simple 3D previs, then MiniMax H3 turns it into the final shot with far more camera control than text-to-video alone",
+        "zh": "他的两段式工作流：GPT-6 Astra + Blender 先做一个简单 3D 预演视频，再交给 MiniMax H3 生成成片——镜头控制力远超纯文生视频"
+      }
+    },
+    {
+      "id": 168,
+      "author": "k1rallik",
+      "url": "https://x.com/k1rallik/status/2098505825467912527",
+      "likes": 90,
+      "views": 5175,
+      "postedAt": "2026-09-11T20:15:51Z",
+      "category": "world",
+      "tech": {
+        "en": "fly-brain controller + three.js",
+        "zh": "果蝇大脑控制器 + three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "FLYHUMAN: a fly brain driving a virtual human",
+        "zh": "FLYHUMAN：果蝇大脑操控虚拟人"
+      },
+      "description": {
+        "en": "After a full day, thousands of control steps and 100 simulations, a fly-inspired digital brain learned to control a virtual human — it can walk, balance and more",
+        "zh": "整整一天、数千个控制步、100 次仿真之后，一个果蝇启发的数字大脑学会了操控虚拟人——能行走、能保持平衡等"
+      }
+    },
+    {
+      "id": 169,
+      "author": "frankzydou",
+      "url": "https://x.com/frankzydou/status/2098460193319186578",
+      "likes": 75,
+      "views": 4730,
+      "postedAt": "2026-09-11T17:14:32Z",
+      "category": "modeling",
+      "tech": {
+        "en": "agentic pipeline (ViPE + Blender DSL)",
+        "zh": "智能体流水线（ViPE + Blender DSL）"
+      },
+      "demos": [
+        {
+          "kind": "play",
+          "url": "https://frank-zy-dou.github.io/kitchen-twin/"
+        }
+      ],
+      "title": {
+        "en": "A 20-second phone video → full 3D asset pipeline",
+        "zh": "20 秒手机视频 → 完整 3D 资产流水线"
+      },
+      "description": {
+        "en": "Built the pipeline himself out of curiosity: one handheld walkthrough of the MIT CSAIL lab kitchen (~20s, no depth sensor, no CAD) — monocular scan for camera poses, GPT-6 lists and models each object as a program in a small Blender DSL, a separate verifier session must justify every complaint with a rendered frame, and out comes MJCF/URDF with joints; ~1 day end to end",
+        "zh": "出于好奇自建流水线：一段约 20 秒的 MIT CSAIL 实验室厨房手持走拍（无深度传感器、无 CAD）——单目扫描定相机位姿，GPT-6 逐物体用小型 Blender DSL「以程序写模型」，另一个独立校验会话必须用渲染帧举证每条意见，最终输出带关节的 MJCF/URDF；全程约一天"
+      }
+    },
+    {
+      "id": 170,
+      "author": "gaoqian2580",
+      "url": "https://x.com/gaoqian2580/status/2098360464799592732",
+      "likes": 55,
+      "views": 3377,
+      "postedAt": "2026-09-11T10:38:15Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js R185 / WebGL",
+        "zh": "three.js R185 / WebGL"
+      },
+      "demos": [],
+      "title": {
+        "en": "NEX 3D logo page: metal, particles, rings",
+        "zh": "NEX 3D logo 页：金属质感、粒子与光环"
+      },
+      "description": {
+        "en": "A three.js R185 page for his \"NEX\" brand logo — TextGeometry with bevels and PBR metal, breathing glow, a rotating particle starfield, blue wireframe rings and more, rendered live in the browser (ZH)",
+        "zh": "为他的「NEX」品牌 logo 做的 three.js R185 展示页——TextGeometry 倒角挤出加 PBR 金属材质、呼吸式自发光、自转粒子星海、蓝色线框环等，浏览器实时渲染（中文帖）"
+      }
+    },
+    {
+      "id": 171,
+      "author": "startupideaspod",
+      "url": "https://x.com/startupideaspod/status/2098441127653491046",
+      "likes": 48,
+      "views": 4641,
+      "postedAt": "2026-09-11T15:58:46Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender + agent repo",
+        "zh": "Blender + 智能体仓库"
+      },
+      "demos": [],
+      "title": {
+        "en": "Jarvis begins: a HomePod-style smart speaker",
+        "zh": "贾维斯起步：HomePod 风格智能音箱"
+      },
+      "description": {
+        "en": "Childhood Jarvis dream, step one: told Astra to model a HomePod-style speaker in Blender and wired it toward his agent repo to see how far the \"butler\" can go",
+        "zh": "童年贾维斯梦第一步：让 Astra 在 Blender 里建模一台 HomePod 风格音箱，并接上他的智能体仓库，看这个「管家」能走多远"
+      }
+    },
+    {
+      "id": 172,
+      "author": "Damir_Akaza",
+      "url": "https://x.com/Damir_Akaza/status/2098442556744863794",
+      "likes": 31,
+      "views": 492,
+      "postedAt": "2026-09-11T16:04:27Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "A 3D character that models her own clothes",
+        "zh": "会给自己做衣服的 3D 角色"
+      },
+      "description": {
+        "en": "His 3D character \"came to life\" in Blender and started modeling her own clothes right inside the viewport — the video shows the real redesign process",
+        "zh": "他的 3D 角色「活了过来」，在 Blender 视口里当场给自己设计衣服——视频记录了真实的重设计过程"
+      }
+    },
+    {
+      "id": 173,
+      "author": "AiWithBDN",
+      "url": "https://x.com/AiWithBDN/status/2098429673374158877",
+      "likes": 30,
+      "views": 2494,
+      "postedAt": "2026-09-11T15:13:15Z",
+      "category": "world",
+      "tech": {
+        "en": "Tripo + Blender + web",
+        "zh": "Tripo + Blender + 网页"
+      },
+      "demos": [],
+      "title": {
+        "en": "Scroll-through 3D sci-fi world",
+        "zh": "滚动浏览的 3D 科幻世界"
+      },
+      "description": {
+        "en": "A 3D sci-fi world with Tripo building the scenes in Blender and Astra coding the website that scrolls you through it — \"building video games is stupidly easy now\"",
+        "zh": "一个 3D 科幻世界：Tripo 在 Blender 里搭场景，Astra 写出带你滚动游览的网站——「现在做游戏简单得离谱」"
+      }
+    },
+    {
+      "id": 174,
+      "author": "hammertime_one",
+      "url": "https://x.com/hammertime_one/status/2098511652375445825",
+      "likes": 21,
+      "views": 612,
+      "postedAt": "2026-09-11T20:39:01Z",
+      "category": "video",
+      "tech": {
+        "en": "Blender previs + Seedance 2.5",
+        "zh": "Blender 预演 + Seedance 2.5"
+      },
+      "demos": [],
+      "title": {
+        "en": "Two green boxes → cinematic horror scene",
+        "zh": "两个绿箱子 → 电影级恐怖场景"
+      },
+      "description": {
+        "en": "Placeholder blocking turned into a finished shot: Astra + Blender handle storyboarding, camera movement, framing and timing over rough geometry, then Seedance 2.5 with reference images outputs the actual lighting, atmosphere and characters",
+        "zh": "占位白模直接变成品镜头：Astra + Blender 在粗糙几何上搞定分镜、运镜、构图与节奏，Seedance 2.5 参考图片后输出真正的光影、氛围与角色"
+      }
+    },
+    {
+      "id": 175,
+      "author": "RealFedeURU",
+      "url": "https://x.com/RealFedeURU/status/2098455436890403242",
+      "likes": 20,
+      "views": 1728,
+      "postedAt": "2026-09-11T16:55:38Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js + Tripo",
+        "zh": "three.js + Tripo"
+      },
+      "demos": [],
+      "title": {
+        "en": "Toy monster vs the city: throw buses at a giant boss",
+        "zh": "玩具怪兽大战城市：向巨型 Boss 扔公交车"
+      },
+      "description": {
+        "en": "A playable 3D game with Tripo models — you play as a toy monster, throw buses at buildings and fight a giant boss (ES)",
+        "zh": "Tripo 模型搭建的可玩 3D 游戏——扮演玩具怪兽，向大楼扔公交车，对战巨型 Boss（西语帖）"
+      }
+    },
+    {
+      "id": 176,
+      "author": "xbh_artist",
+      "url": "https://x.com/xbh_artist/status/2098419166210609574",
+      "likes": 20,
+      "views": 1289,
+      "postedAt": "2026-09-11T14:31:30Z",
+      "category": "world",
+      "tech": {
+        "en": "Quest 3 (WebXR)",
+        "zh": "Quest 3（WebXR）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Matrix-style LiDAR world for Quest 3",
+        "zh": "Quest 3 版《黑客帝国》风激光雷达世界"
+      },
+      "description": {
+        "en": "Built for Quest 3 with Astra, inspired by a Matrix-style LiDAR scan effect — not real LiDAR, but a coded illusion of reality's \"source\" leaking",
+        "zh": "用 Astra 为 Quest 3 打造，灵感来自《黑客帝国》式激光雷达扫描效果——并非真 LiDAR，而是用代码伪装出「现实源代码泄露」的错觉"
+      }
+    },
+    {
+      "id": 177,
+      "author": "genex_games",
+      "url": "https://x.com/genex_games/status/2098485271289356642",
+      "likes": 17,
+      "views": 1567,
+      "postedAt": "2026-09-11T18:54:11Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js (source shared)",
+        "zh": "three.js（已开源）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Half Sword–inspired physics duel, 1v1 online",
+        "zh": "《Half Sword》风物理对决，支持 1v1 联机"
+      },
+      "description": {
+        "en": "A Half Sword-inspired game with three.js — \"love the physics, and it's actually fun\"; source code shared and you can challenge someone 1v1 online",
+        "zh": "three.js 版《Half Sword》风格游戏——「物理效果很棒，而且真的好玩」；已分享源码，还能在线约人 1v1 对决"
+      }
+    },
+    {
+      "id": 178,
+      "author": "Kiratchi0328",
+      "url": "https://x.com/Kiratchi0328/status/2098582575258513471",
+      "likes": 17,
+      "views": 1031,
+      "postedAt": "2026-09-12T01:20:50Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Tripo + VRM + ARDY motion",
+        "zh": "Tripo + VRM + ARDY 动作"
+      },
+      "demos": [],
+      "title": {
+        "en": "Avatar to animation, zero Blender in the chain",
+        "zh": "从形象到动画，全程零 Blender"
+      },
+      "description": {
+        "en": "Update to his no-Blender VRM pipeline: Tripo + Astra generate the 3D model, convert to VRM, then ARDY generates motion from text (Text-to-VRMA) — all stitched together by his own tooling, no 3D background needed (JA)",
+        "zh": "他的免 Blender VRM 流水线更新：Tripo + Astra 生成 3D 模型，转 VRM，再用 ARDY 从文本生成动作（Text-to-VRMA）——全部由自研工具串起，作者并无 3D 制作背景（日语帖）"
+      }
     }
   ]
 }
