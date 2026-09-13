@@ -4028,6 +4028,236 @@
         "en": "Update to his no-Blender VRM pipeline: Tripo + Astra generate the 3D model, convert to VRM, then ARDY generates motion from text (Text-to-VRMA) — all stitched together by his own tooling, no 3D background needed (JA)",
         "zh": "他的免 Blender VRM 流水线更新：Tripo + Astra 生成 3D 模型，转 VRM，再用 ARDY 从文本生成动作（Text-to-VRMA）——全部由自研工具串起，作者并无 3D 制作背景（日语帖）"
       }
+    },
+    {
+      "id": 179,
+      "author": "Mortezabihzadeh",
+      "url": "https://x.com/Mortezabihzadeh/status/2098784071614603647",
+      "likes": 356,
+      "views": 65574,
+      "postedAt": "2026-09-12T14:41:30Z",
+      "category": "world",
+      "tech": {
+        "en": "Tripo Smart Mesh P2.0 + Astra",
+        "zh": "Tripo Smart Mesh P2.0 + Astra"
+      },
+      "demos": [],
+      "title": {
+        "en": "One 2D drawing → a full 3D endless runner",
+        "zh": "一张 2D 涂鸦 → 完整 3D 跑酷游戏"
+      },
+      "description": {
+        "en": "Made a whole 3D game from one 2D drawing: Tripo turned the sketch into a 3D model in seconds, then Astra built an endless runner around his character — \"Astra did the coding, I did the doodling\"",
+        "zh": "用一张 2D 手绘做出完整 3D 游戏：Tripo 几秒把涂鸦变成 3D 模型，Astra 再围绕他的角色搭出无尽跑酷——「代码 Astra 写，涂鸦我来画」"
+      }
+    },
+    {
+      "id": 180,
+      "author": "irinatoxi",
+      "url": "https://x.com/irinatoxi/status/2098718107904712827",
+      "likes": 253,
+      "views": 114998,
+      "postedAt": "2026-09-12T10:19:23Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "\"Make me a woman\" → a full 3D character",
+        "zh": "「给我做一个女人」→ 完整 3D 角色"
+      },
+      "description": {
+        "en": "\"The most dangerous Astra demo I've seen has nothing to do with code\" — one sentence produced an actual character inside Blender: not a render, not a concept image, a full 3D asset",
+        "zh": "「我见过最危险的 Astra 演示与代码无关」——一句话就在 Blender 里得到一个真实角色：不是渲染图、不是概念图，而是完整 3D 资产"
+      }
+    },
+    {
+      "id": 181,
+      "author": "chongdashu",
+      "url": "https://x.com/chongdashu/status/2098680404291228136",
+      "likes": 146,
+      "views": 11926,
+      "postedAt": "2026-09-12T07:49:34Z",
+      "category": "world",
+      "tech": {
+        "en": "Blender + Wasm/WebGPU",
+        "zh": "Blender + Wasm/WebGPU"
+      },
+      "demos": [],
+      "title": {
+        "en": "Browser game with rigged character, rain and reflections",
+        "zh": "浏览器游戏：绑定角色、雨景与反射"
+      },
+      "description": {
+        "en": "Astra built out the rest of the game world in Blender, then rigged, animated and integrated a playable character — running smoothly in the browser with reflections and rain via Wasm + WebGPU",
+        "zh": "Astra 用 Blender 补全游戏世界的其余部分，还为可玩角色做了绑定、动画与整合——浏览器里流畅运行，含实时反射和雨效果（Wasm + WebGPU）"
+      }
+    },
+    {
+      "id": 182,
+      "author": "posi_posi8",
+      "url": "https://x.com/posi_posi8/status/2098789409424633934",
+      "likes": 132,
+      "views": 21560,
+      "postedAt": "2026-09-12T15:02:43Z",
+      "category": "world",
+      "tech": {
+        "en": "Unreal Engine 5",
+        "zh": "Unreal Engine 5"
+      },
+      "demos": [],
+      "title": {
+        "en": "An Unreal Engine 5 game, on request",
+        "zh": "点单式 UE5 游戏"
+      },
+      "description": {
+        "en": "Simply asked Astra to make him an Unreal Engine 5 game — and it did (JA)",
+        "zh": "直接让 Astra 给他做一个 Unreal Engine 5 游戏——然后就成了（日语帖）"
+      }
+    },
+    {
+      "id": 183,
+      "author": "BubuStd",
+      "url": "https://x.com/BubuStd/status/2098797910804848646",
+      "likes": 112,
+      "views": 6787,
+      "postedAt": "2026-09-12T15:36:30Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js + WebGL2",
+        "zh": "three.js + WebGL2"
+      },
+      "demos": [
+        {
+          "kind": "play",
+          "url": "https://qingming-riverside.vercel.app/"
+        }
+      ],
+      "title": {
+        "en": "Along the River During the Qingming Festival, playable",
+        "zh": "《清明上河图》可游玩版"
+      },
+      "description": {
+        "en": "Astra Pro laid the foundation of the famous Song-dynasty scroll painting as a 3D world, then he fine-tuned locally: 584 animated people, 475 enterable buildings, boats passing beneath the bridges — three.js + WebGL2, playable",
+        "zh": "Astra Pro 打底、再经本地精修，把北宋名画《清明上河图》变成 3D 世界：584 个动画人物、475 栋可进入的建筑、桥下穿行的船只——three.js + WebGL2，可在线游玩"
+      }
+    },
+    {
+      "id": 184,
+      "author": "axultan",
+      "url": "https://x.com/axultan/status/2098875837949071716",
+      "likes": 109,
+      "views": 18068,
+      "postedAt": "2026-09-12T20:46:09Z",
+      "category": "web3d",
+      "tech": {
+        "en": "interactive 3D viz (Higgsfield)",
+        "zh": "交互式 3D 可视化（Higgsfield）"
+      },
+      "demos": [],
+      "title": {
+        "en": "The viral 3D fly, now in a wind tunnel",
+        "zh": "爆火 3D 果蝇，进风洞了"
+      },
+      "description": {
+        "en": "Gave the viral 3D fly its first aerodynamics test: a Navier–Stokes wind tunnel with Astra visualizing the vortex in interactive 3D",
+        "zh": "给爆火的 3D 果蝇做了第一次空气动力学测试：Navier–Stokes 风洞，Astra 用交互式 3D 呈现涡流"
+      }
+    },
+    {
+      "id": 185,
+      "author": "kunal_twts",
+      "url": "https://x.com/kunal_twts/status/2098724866728038645",
+      "likes": 37,
+      "views": 2005,
+      "postedAt": "2026-09-12T10:46:15Z",
+      "category": "world",
+      "tech": {
+        "en": "3D game (in Julius)",
+        "zh": "3D 游戏（Julius 中构建）"
+      },
+      "demos": [],
+      "title": {
+        "en": "From a 3D model to a walking, shooting character",
+        "zh": "从一个 3D 模型到能走能射的角色"
+      },
+      "description": {
+        "en": "\"Started with a 3D model. Now it walks, aims, shoots, uses physics\" — the opening intro of his Astra-built game inside Julius, with apologies to their team for the token usage",
+        "zh": "「从一个 3D 模型开始。现在它会走、会瞄准、会开枪、有物理」——他在 Julius 里用 Astra 做的游戏开场，顺便向官方道歉 token 用量"
+      }
+    },
+    {
+      "id": 186,
+      "author": "harrisonitsme",
+      "url": "https://x.com/harrisonitsme/status/2098724048846856363",
+      "likes": 34,
+      "views": 2717,
+      "postedAt": "2026-09-12T10:43:00Z",
+      "category": "video",
+      "tech": {
+        "en": "Blender + Seedance",
+        "zh": "Blender + Seedance"
+      },
+      "demos": [],
+      "title": {
+        "en": "Kill the blind-reroll problem with 3D blocking",
+        "zh": "用 3D 分镜消灭盲抽卡"
+      },
+      "description": {
+        "en": "The pain: blind text-to-video rerolls burning tokens with no control. His fix: Astra + Blender build the blocking first — space, camera, motion made visible — then Seedance generates from it: fewer rerolls, fewer wasted tokens (ZH)",
+        "zh": "痛点：文生视频全靠盲抽、烧 token 且不可控。他的解法：先用 Astra + Blender 做分镜占位——空间、镜头、运动全部可视化——再交给 Seedance 生成：抽卡更少、token 更省（中文帖）"
+      }
+    },
+    {
+      "id": 187,
+      "author": "SafaElmali",
+      "url": "https://x.com/SafaElmali/status/2098818394187301224",
+      "likes": 21,
+      "views": 13632,
+      "postedAt": "2026-09-12T16:57:53Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [
+        {
+          "kind": "play",
+          "url": "https://object-lab-3d.netlify.app/"
+        }
+      ],
+      "title": {
+        "en": "Object Lab: 9 interactive 3D experiments",
+        "zh": "Object Lab：9 个交互 3D 实验"
+      },
+      "description": {
+        "en": "Inspired by @fkadev's CAN/DO: Object Lab — nine interactive 3D experiments, all you need to do is scroll; built with Astra and three.js",
+        "zh": "受 @fkadev 的 CAN/DO 启发：Object Lab——九个交互式 3D 实验，只需滚动即可体验；用 Astra 和 three.js 构建"
+      }
+    },
+    {
+      "id": 188,
+      "author": "huoshan007",
+      "url": "https://x.com/huoshan007/status/2098697876155076820",
+      "likes": 15,
+      "views": 3560,
+      "postedAt": "2026-09-12T08:59:00Z",
+      "category": "video",
+      "tech": {
+        "en": "3D demo video (MP4)",
+        "zh": "3D 演示视频（MP4）"
+      },
+      "demos": [],
+      "title": {
+        "en": "\"Zen temple\" miniature, design-to-render demo",
+        "zh": "「禅境·古寺」微缩模型，从设计到成品"
+      },
+      "description": {
+        "en": "Used a shared prompt to have Astra produce a full design-to-finish 3D demo video: a 2.5D miniature zen temple on a stone plinth — 45° orthographic view, PBR materials, soft lighting (ZH)",
+        "zh": "用一条公开提示词让 Astra 产出从设计到成品的完整 3D 演示视频：石质底座上的 2.5D 微缩禅寺——45° 正交俯视、PBR 材质、柔和光照（中文帖）"
+      }
     }
   ]
 }
