@@ -4258,6 +4258,500 @@
         "en": "Used a shared prompt to have Astra produce a full design-to-finish 3D demo video: a 2.5D miniature zen temple on a stone plinth — 45° orthographic view, PBR materials, soft lighting (ZH)",
         "zh": "用一条公开提示词让 Astra 产出从设计到成品的完整 3D 演示视频：石质底座上的 2.5D 微缩禅寺——45° 正交俯视、PBR 材质、柔和光照（中文帖）"
       }
+    },
+    {
+      "id": 189,
+      "author": "Stefan_3D_AI",
+      "url": "https://x.com/Stefan_3D_AI/status/2099078934185070721",
+      "likes": 1039,
+      "views": 145252,
+      "postedAt": "2026-09-13T10:13:11Z",
+      "category": "world",
+      "tech": {
+        "en": "Blender + mocap hybrid",
+        "zh": "Blender + 动捕混合"
+      },
+      "demos": [],
+      "title": {
+        "en": "Day 11 of the 15-year dream game",
+        "zh": "15 年梦想游戏，第 11 天"
+      },
+      "description": {
+        "en": "Building the game he's dreamed of for 15 years with AI, day 11: Astra couldn't nail the awkward broken-skeleton attack animation alone, so he recorded himself swinging, converted the video to mocap, and had Codex graft it onto the working parts — a hybrid human/AI animation workflow",
+        "zh": "用 AI 构建他梦想了 15 年的游戏，第 11 天：Astra 单独搞不定那种笨拙破碎的骷髅攻击动画，于是他录下自己挥臂的动作转成动捕，让 Codex 把它嫁接到已正常的部分上——人机混合动画工作流"
+      }
+    },
+    {
+      "id": 190,
+      "author": "Angaisb_",
+      "url": "https://x.com/Angaisb_/status/2100381633031356859",
+      "likes": 448,
+      "views": 23968,
+      "postedAt": "2026-09-17T00:29:39Z",
+      "category": "world",
+      "tech": {
+        "en": "Unity",
+        "zh": "Unity"
+      },
+      "demos": [],
+      "title": {
+        "en": "Voxel game in Unity, a few hours in",
+        "zh": "Unity 体素游戏，几小时就有这效果"
+      },
+      "description": {
+        "en": "\"Astra is a beast with Unity\" — his voxel game already looks this good after just a few hours, with a long feature list still to come",
+        "zh": "「Astra 玩 Unity 太猛了」——他的体素游戏仅几小时就有这样的观感，还有一大串功能待加"
+      }
+    },
+    {
+      "id": 191,
+      "author": "aniketjart",
+      "url": "https://x.com/aniketjart/status/2100382480658518492",
+      "likes": 447,
+      "views": 26909,
+      "postedAt": "2026-09-17T00:33:01Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js + Crayon",
+        "zh": "three.js + Crayon"
+      },
+      "demos": [
+        {
+          "kind": "play",
+          "url": "https://app.usecrayon.ai/play/bda1b910-b840-48cb-bb4c-28d0cde29107"
+        }
+      ],
+      "title": {
+        "en": "Ghibli train sim: midnight mode + garage town",
+        "zh": "吉卜力火车模拟：午夜模式 + 车库小镇"
+      },
+      "description": {
+        "en": "His Ghibli-themed train sim keeps growing: a midnight mode and a dedicated garage town with \"sick updates\" — built with Astra, Crayon and three.js, playable",
+        "zh": "他的吉卜力主题火车模拟持续进化：新增午夜模式与专属车库小镇——用 Astra、Crayon 和 three.js 构建，可在线游玩"
+      }
+    },
+    {
+      "id": 192,
+      "author": "wuyang_zhou",
+      "url": "https://x.com/wuyang_zhou/status/2100727660875808913",
+      "likes": 402,
+      "views": 55066,
+      "postedAt": "2026-09-17T23:24:38Z",
+      "category": "world",
+      "tech": {
+        "en": "agentic Minecraft (Jev + Astra)",
+        "zh": "智能体 Minecraft（Jev + Astra）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Jev and Astra play Minecraft together in real time",
+        "zh": "Jev 与 Astra 实时联机玩 Minecraft"
+      },
+      "description": {
+        "en": "The overnight-diamond developer's new experiment: two models playing Minecraft together in real time through his agentic system, fighting multiple zombies at once — \"Jev makes quick decisions while Astra plans ahead\"",
+        "zh": "「睡一觉醒来自动挖到钻石」作者的新实验：两个模型通过他的智能体系统实时联玩 Minecraft，还能同时打多只僵尸——「Jev 反应快，Astra 会规划」"
+      }
+    },
+    {
+      "id": 193,
+      "author": "zavrenn",
+      "url": "https://x.com/zavrenn/status/2100672315780460720",
+      "likes": 288,
+      "views": 9869,
+      "postedAt": "2026-09-17T19:44:43Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Blender + three.js",
+        "zh": "Blender + three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "First experiment: models in Blender, explore in browser",
+        "zh": "首试：Blender 建模，浏览器漫游"
+      },
+      "description": {
+        "en": "His first time with Astra + Blender + Three.js — create 3D models, then bring them into the browser as a scene you can actually explore; \"just experimenting and learning as I go\"",
+        "zh": "他第一次尝试 Astra + Blender + Three.js——创建 3D 模型，再带进浏览器成为可漫游的场景；「边实验边学习」"
+      }
+    },
+    {
+      "id": 194,
+      "author": "techartist_",
+      "url": "https://x.com/techartist_/status/2099536288592658802",
+      "likes": 191,
+      "views": 7444,
+      "postedAt": "2026-09-14T16:30:33Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "SIGNAL website prototype in 5 hours",
+        "zh": "5 小时做出的 SIGNAL 网站原型"
+      },
+      "description": {
+        "en": "Built an entire website prototype in about 5 hours — \"SIGNAL is about staying curious and following the signal to your dreams\" — with a few animation ideas inspired by Igloo Inc; code by Astra using three.js",
+        "zh": "约 5 小时建好整个网站原型——「SIGNAL 讲的是保持好奇、追随通往梦想的信号」——部分动效灵感来自 Igloo Inc；代码由 Astra 用 three.js 完成"
+      }
+    },
+    {
+      "id": 195,
+      "author": "techartist_",
+      "url": "https://x.com/techartist_/status/2100283403249897610",
+      "likes": 173,
+      "views": 11421,
+      "postedAt": "2026-09-16T17:59:19Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js + TSL + Suno",
+        "zh": "three.js + TSL + Suno"
+      },
+      "demos": [],
+      "title": {
+        "en": "A quiet forest you can step into",
+        "zh": "一片可以走进的静谧森林"
+      },
+      "description": {
+        "en": "\"Trees all around, a river flowing beside you, leaves moving in the breeze\" — a nature scene coded by Astra with three.js + TSL, scored by Suno",
+        "zh": "「四周是树，身旁是河流，树叶在微风中摇动」——Astra 用 three.js + TSL 写出的自然场景，配乐来自 Suno"
+      }
+    },
+    {
+      "id": 196,
+      "author": "MehowLipa",
+      "url": "https://x.com/MehowLipa/status/2099229500122751255",
+      "likes": 88,
+      "views": 6331,
+      "postedAt": "2026-09-13T20:11:29Z",
+      "category": "world",
+      "tech": {
+        "en": "custom WebGPU engine (no three.js)",
+        "zh": "自研 WebGPU 引擎（无 three.js）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Big City Life Sim on a homegrown WebGPU engine",
+        "zh": "自研 WebGPU 引擎上的大都市生活模拟"
+      },
+      "description": {
+        "en": "Built a Big City Life Sim over the weekend with Astra — on his own custom WebGPU engine, no three.js; he plans to keep developing both the game and the engine",
+        "zh": "周末用 Astra 做出「大都市生活模拟」——跑在他自研的 WebGPU 引擎上，不用 three.js；游戏和引擎他都打算继续做下去"
+      }
+    },
+    {
+      "id": 197,
+      "author": "SunnyVStudio",
+      "url": "https://x.com/SunnyVStudio/status/2100566676664172806",
+      "likes": 87,
+      "views": 5634,
+      "postedAt": "2026-09-17T12:44:57Z",
+      "category": "world",
+      "tech": {
+        "en": "Unity (official Codex plugin)",
+        "zh": "Unity（官方 Codex 插件）"
+      },
+      "demos": [],
+      "title": {
+        "en": "One image → a 3D island in Unity",
+        "zh": "一张图 → Unity 3D 岛屿"
+      },
+      "description": {
+        "en": "Gave Astra one image and asked it to build a 3D island in Unity using the new official Codex plugin",
+        "zh": "给 Astra 一张图片，让它用新出的官方 Codex 插件在 Unity 里建一座 3D 岛屿"
+      }
+    },
+    {
+      "id": 198,
+      "author": "fMinZhou",
+      "url": "https://x.com/fMinZhou/status/2100556366717026436",
+      "likes": 69,
+      "views": 2873,
+      "postedAt": "2026-09-17T12:03:58Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (+ tilt shift)",
+        "zh": "Blender（+ 移轴效果）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A little 3D island with a Blender bridge",
+        "zh": "有 Blender 桥梁的小 3D 岛"
+      },
+      "description": {
+        "en": "Made a little 3D island in Blender via Astra, \"with a bridge connecting it to Blender!\" — plus a tilt-shift trick he learned that day to give scenes a miniature-photography look",
+        "zh": "用 Astra 在 Blender 里做了个小 3D 岛，「还有一座桥连着 Blender！」——外加当天学到的移轴技巧，让场景呈现微缩摄影感"
+      }
+    },
+    {
+      "id": 199,
+      "author": "fMinZhou",
+      "url": "https://x.com/fMinZhou/status/2099807979969315323",
+      "likes": 62,
+      "views": 4336,
+      "postedAt": "2026-09-15T10:30:09Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "Liquid metal creature loose among inflatable furniture",
+        "zh": "液态金属小生物闯进充气家具房间"
+      },
+      "description": {
+        "en": "Created a tiny liquid metal creature and let it loose in a room full of inflatable furniture — built entirely with Astra + three.js, link to try in the comments",
+        "zh": "造了一只小小的液态金属生物，放进满是充气家具的房间——全部用 Astra + three.js 完成，试玩链接在评论区"
+      }
+    },
+    {
+      "id": 200,
+      "author": "TokenGremlin",
+      "url": "https://x.com/TokenGremlin/status/2099560329176830238",
+      "likes": 51,
+      "views": 3445,
+      "postedAt": "2026-09-14T18:06:05Z",
+      "category": "world",
+      "tech": {
+        "en": "Tripo Smart Mesh + browser game",
+        "zh": "Tripo Smart Mesh + 浏览器游戏"
+      },
+      "demos": [],
+      "title": {
+        "en": "Armored-vehicle arena game, assets to code",
+        "zh": "装甲车竞技场游戏：从资产到代码"
+      },
+      "description": {
+        "en": "Idea to playable 3D game in one flow: vehicle concepts generated in ChatGPT, turned into 3D models in Tripo, Smart Mesh to simplify the geometry for the browser, then the game built around them",
+        "zh": "从点子到可玩 3D 游戏一条龙：ChatGPT 出载具概念图、Tripo 转 3D 模型、Smart Mesh 为浏览器简化几何，再围绕资产搭出游戏"
+      }
+    },
+    {
+      "id": 201,
+      "author": "goan999999",
+      "url": "https://x.com/goan999999/status/2100390026429538692",
+      "likes": 72,
+      "views": 22752,
+      "postedAt": "2026-09-17T01:03:00Z",
+      "category": "modeling",
+      "tech": {
+        "en": "photo → 3D + web showcase",
+        "zh": "照片 → 3D + 网页展示"
+      },
+      "demos": [],
+      "title": {
+        "en": "One Forbidden City photo → walkable 3D scene",
+        "zh": "一张故宫照片 → 有纵深的 3D 场景"
+      },
+      "description": {
+        "en": "Gave Astra a single photo of the Forbidden City: it understood the architectural layers, generated a 3D scene and a web showcase that auto-orbits — \"the moment the camera rounds the palace gate, a flat photo suddenly becomes spatial\" (ZH)",
+        "zh": "只给 Astra 一张故宫照片：它理解建筑层次，生成 3D 场景与自动旋转的网页展示——「镜头绕过宫门那一刻，平面照片突然有了空间感」（中文帖）"
+      }
+    },
+    {
+      "id": 202,
+      "author": "Ayu_AI_0912",
+      "url": "https://x.com/Ayu_AI_0912/status/2099324505105776742",
+      "likes": 38,
+      "views": 2782,
+      "postedAt": "2026-09-14T02:29:00Z",
+      "category": "world",
+      "tech": {
+        "en": "Unreal Engine",
+        "zh": "Unreal Engine"
+      },
+      "demos": [],
+      "title": {
+        "en": "First UE build, following onofumi's lead",
+        "zh": "参照 onofumi 玩法做出首个 UE 作品"
+      },
+      "description": {
+        "en": "Following @onofumi_AI's posts as a guide, had Astra drive Unreal Engine and made his first build — \"polish this further and you could genuinely ship a game with original CG assets\" (JA)",
+        "zh": "参考 @onofumi_AI 的帖子，让 Astra 操控 Unreal Engine 做出自己的首个作品——「再打磨下去，用原创 CG 素材真的能发布游戏了」（日语帖）"
+      }
+    },
+    {
+      "id": 203,
+      "author": "RealFedeURU",
+      "url": "https://x.com/RealFedeURU/status/2100356546022584826",
+      "likes": 35,
+      "views": 2545,
+      "postedAt": "2026-09-16T22:49:57Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js + Next.js + Blender",
+        "zh": "three.js + Next.js + Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "A metaverse game, full stack",
+        "zh": "全栈元宇宙游戏"
+      },
+      "description": {
+        "en": "A metaverse game built with three.js + Next.js + Higgsfield + Blender, deployed on Vercel (ES)",
+        "zh": "用 three.js + Next.js + Higgsfield + Blender 构建的元宇宙游戏，部署在 Vercel（西语帖）"
+      }
+    },
+    {
+      "id": 204,
+      "author": "wizardbrainz",
+      "url": "https://x.com/wizardbrainz/status/2100629912701022350",
+      "likes": 29,
+      "views": 4560,
+      "postedAt": "2026-09-17T16:56:13Z",
+      "category": "web3d",
+      "tech": {
+        "en": "path tracing on RTX 5090",
+        "zh": "RTX 5090 路径追踪"
+      },
+      "demos": [],
+      "title": {
+        "en": "Cyberpunk Japan Redux, path traced at near-realtime",
+        "zh": "赛博朋克日本 Redux：近实时路径追踪"
+      },
+      "description": {
+        "en": "His Cyberpunk Japan Redux scene path traced on an RTX 5090 — dropped to 1080p for near-realtime, with better light sampling, SER and RESTIR; credits a better art-directed variant by @kvickart",
+        "zh": "他的赛博朋克日本 Redux 场景在 RTX 5090 上做路径追踪——降到 1080p 后接近实时，改进了光采样、SER 与 RESTIR；并推荐了 @kvickart 艺术指导更佳的版本"
+      }
+    },
+    {
+      "id": 205,
+      "author": "Lianhuiq",
+      "url": "https://x.com/Lianhuiq/status/2100251834845942128",
+      "likes": 29,
+      "views": 2752,
+      "postedAt": "2026-09-16T15:53:52Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js (Code4Scene)",
+        "zh": "three.js（Code4Scene）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A harbor built by Astra — go find the mistakes",
+        "zh": "Astra 建的港口——来找茬"
+      },
+      "description": {
+        "en": "A stress-test for 3D reasoning: Astra generated a harbor in their Code4Scene tool, made fully explorable in three.js — \"walk in and look for floating objects, odd geometry, impossible spatial relationships; reply with a screenshot\"",
+        "zh": "一种 3D 推理压力测试：Astra 在他们的 Code4Scene 里生成了一座港口，并做成 three.js 全可探索——「走进去找穿模、奇怪几何、不可能的空间关系，截图回复」"
+      }
+    },
+    {
+      "id": 206,
+      "author": "givros",
+      "url": "https://x.com/givros/status/2099556587618607265",
+      "likes": 28,
+      "views": 2843,
+      "postedAt": "2026-09-14T17:51:13Z",
+      "category": "world",
+      "tech": {
+        "en": "Blender + three.js (Codex)",
+        "zh": "Blender + three.js（Codex）"
+      },
+      "demos": [
+        {
+          "kind": "play",
+          "url": "https://givros.github.io/cozylake/"
+        }
+      ],
+      "title": {
+        "en": "Four scenes joined into one 2×2 map",
+        "zh": "四个场景拼成一张 2×2 大地图"
+      },
+      "description": {
+        "en": "His cozy lake grew into a larger world: four scenes assembled into a 2×2 layout with paths connecting them — explore from area to area, built with Astra in Codex, Blender for terrain and assets, three.js for the browser",
+        "zh": "他的温馨湖泊长成了更大的世界：四个场景拼成 2×2 布局、小径互相连通——跨区域漫游；由 Codex 里的 Astra 构建，Blender 做地形与资产，three.js 负责浏览器端"
+      }
+    },
+    {
+      "id": 207,
+      "author": "RealFedeURU",
+      "url": "https://x.com/RealFedeURU/status/2099817767759229100",
+      "likes": 18,
+      "views": 1508,
+      "postedAt": "2026-09-15T11:09:03Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "Tabletop racing, Scalextric style",
+        "zh": "桌面赛车，Scalextric 风"
+      },
+      "description": {
+        "en": "A tabletop racing game inspired by Scalextric slot cars, with three.js and Astra (ES)",
+        "zh": "受 Scalextric 轨道车启发的桌面赛车游戏，three.js + Astra（西语帖）"
+      }
+    },
+    {
+      "id": 208,
+      "author": "ironbru_net",
+      "url": "https://x.com/ironbru_net/status/2099215969377833018",
+      "likes": 17,
+      "views": 2689,
+      "postedAt": "2026-09-13T19:17:43Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Python + headless Blender + three.js",
+        "zh": "Python + 无界面 Blender + three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "100+ photos → Glanford Park stadium in 3D",
+        "zh": "100+ 张照片 → 3D 版格兰福德公园球场"
+      },
+      "description": {
+        "en": "Over 100 photos turned into a 3D recreation of Scunthorpe United's Glanford Park — built with Astra, Python, headless Blender and three.js; still in development",
+        "zh": "用 100 多张照片重建斯肯索普联队主场格兰福德公园的 3D 版——Astra + Python + 无界面 Blender + three.js，仍在开发中"
+      }
+    },
+    {
+      "id": 209,
+      "author": "vib3coded",
+      "url": "https://x.com/vib3coded/status/2100752564832616652",
+      "likes": 15,
+      "views": 1068,
+      "postedAt": "2026-09-18T01:03:36Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js / WebGL (single HTML)",
+        "zh": "three.js / WebGL（单 HTML 文件）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Tidehaven: a tide-and-wind island diorama",
+        "zh": "Tidehaven：潮汐与风向皆可调的岛屿立体景"
+      },
+      "description": {
+        "en": "An interactive 3D diorama in a single HTML file: copper-roofed cabin, wooden pier, crystal lagoon with swimming rays — launch a kayak, dive the camera underwater, adjust tide, wind and time of day; lanterns light up at sunset",
+        "zh": "单个 HTML 文件里的交互 3D 立体景：铜顶小屋、木栈桥、有鳐鱼游弋的清澈泻湖——可划皮划艇、潜入水下，调节潮汐、风向与时刻；日落时灯笼亮起"
+      }
+    },
+    {
+      "id": 210,
+      "author": "vib3coded",
+      "url": "https://x.com/vib3coded/status/2100680328973029755",
+      "likes": 15,
+      "views": 1068,
+      "postedAt": "2026-09-18T01:03:36Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js / WebGL (single HTML)",
+        "zh": "three.js / WebGL（单 HTML 文件）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A samurai meditating in the rain",
+        "zh": "雨中冥想的武士"
+      },
+      "description": {
+        "en": "A samurai who meditates, drinks tea and practices with a katana in the rain — change the weather, switch the time of day, orbit the camera; wet reflections, falling leaves and rain sounds, all in one browser HTML file",
+        "zh": "一位在雨中冥想、喝茶、练刀的武士——可切换天气与时刻、环绕镜头；湿地面反射、落叶与雨声，全部装进一个浏览器 HTML 文件"
+      }
     }
   ]
 }
