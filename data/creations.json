@@ -4752,6 +4752,292 @@
         "en": "A samurai who meditates, drinks tea and practices with a katana in the rain — change the weather, switch the time of day, orbit the camera; wet reflections, falling leaves and rain sounds, all in one browser HTML file",
         "zh": "一位在雨中冥想、喝茶、练刀的武士——可切换天气与时刻、环绕镜头；湿地面反射、落叶与雨声，全部装进一个浏览器 HTML 文件"
       }
+    },
+    {
+      "id": 211,
+      "author": "misakism13",
+      "url": "https://x.com/misakism13/status/2100806514051371178",
+      "likes": 590,
+      "views": 148673,
+      "postedAt": "2026-09-18T04:37:58Z",
+      "category": "video",
+      "tech": {
+        "en": "Blender + Unreal Engine",
+        "zh": "Blender + Unreal Engine"
+      },
+      "demos": [],
+      "title": {
+        "en": "Preview video of the new home, before it's built",
+        "zh": "新房还没建好，先看入住预览视频"
+      },
+      "description": {
+        "en": "Used Astra to create an image video of her soon-to-be-built new home — software like Blender and Unreal Engine that she'd never even heard of before, now driven by AI (JA)",
+        "zh": "用 Astra 制作「很快就能入住的新家」形象视频——Blender、Unreal Engine 这些她此前听都没听过的制作软件，如今都由 AI 操控完成（日语帖）"
+      }
+    },
+    {
+      "id": 212,
+      "author": "MengTo",
+      "url": "https://x.com/MengTo/status/2100927517108404632",
+      "likes": 210,
+      "views": 15060,
+      "postedAt": "2026-09-18T12:38:48Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Hyper3D Rodin MCP",
+        "zh": "Hyper3D Rodin MCP"
+      },
+      "demos": [],
+      "title": {
+        "en": "Kids' learning site with 3D shelf souvenirs",
+        "zh": "给孩子的学习网站，配 3D 书架摆件"
+      },
+      "description": {
+        "en": "A grades 1–7 learning site with math, English and science books — \"my kids loved it\"; the 3D shelf souvenirs, candles, lamps and pins were made with Astra + Hyper3D Rodin MCP, richly detailed down to the candelabra's metalwork",
+        "zh": "一个 1–7 年级学习网站，含数学、英语、科学书目——「孩子们很喜欢」；书架上的 3D 纪念品、蜡烛、灯具与挂件由 Astra + Hyper3D Rodin MCP 制作，连烛台的金属工艺细节都很丰富"
+      }
+    },
+    {
+      "id": 213,
+      "author": "BlendiByl",
+      "url": "https://x.com/BlendiByl/status/2100893670086185042",
+      "likes": 164,
+      "views": 7702,
+      "postedAt": "2026-09-18T10:24:18Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js + fal + Blender/Mixamo",
+        "zh": "three.js + fal + Blender/Mixamo"
+      },
+      "demos": [],
+      "title": {
+        "en": "Full browser boss fight, start to finish",
+        "zh": "全程浏览器里的 Boss 战"
+      },
+      "description": {
+        "en": "A full runthrough of the boss fight in his game — \"all running in the browser, which feels crazy to say\": fal-generated assets, three.js rendering, Blender + Mixamo for rigging",
+        "zh": "他游戏里 Boss 战的完整通关演示——「全部跑在浏览器里，说出来都觉得疯狂」：fal 生成资产、three.js 渲染、Blender + Mixamo 做绑定"
+      }
+    },
+    {
+      "id": 214,
+      "author": "gagarot200",
+      "url": "https://x.com/gagarot200/status/2100793649579925999",
+      "likes": 121,
+      "views": 13097,
+      "postedAt": "2026-09-18T03:46:51Z",
+      "category": "video",
+      "tech": {
+        "en": "Codex + Blender + MiniMax H3",
+        "zh": "Codex + Blender + MiniMax H3"
+      },
+      "demos": [],
+      "title": {
+        "en": "A movie trailer for ¥500",
+        "zh": "500 日元做完一支电影预告"
+      },
+      "description": {
+        "en": "Designed in Blender first, then MiniMax H3 + Astra finished a movie trailer for about ¥500 — he wrote up the full step-by-step workflow (JA)",
+        "zh": "先在 Blender 里做设计，再由 MiniMax H3 + Astra 以约 500 日元完成一支电影预告——完整制作步骤他已写成帖子（日语帖）"
+      }
+    },
+    {
+      "id": 215,
+      "author": "techartist_",
+      "url": "https://x.com/techartist_/status/2101003536444359043",
+      "likes": 109,
+      "views": 4618,
+      "postedAt": "2026-09-18T17:40:52Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "Flamethrower from a screen recording, two iterations",
+        "zh": "对着录屏复刻火焰喷射器，两轮搞定"
+      },
+      "description": {
+        "en": "A flamethrower inspired by Dan Greenheck — starting from only a screen recording as visual reference, it took two iterations to achieve the result, built with Astra using three.js",
+        "zh": "受 Dan Greenheck 启发的火焰喷射器——仅以一段屏幕录像作视觉参考，两轮迭代成型，Astra + three.js 构建"
+      }
+    },
+    {
+      "id": 216,
+      "author": "SPAC89",
+      "url": "https://x.com/SPAC89/status/2101010612264616050",
+      "likes": 65,
+      "views": 9706,
+      "postedAt": "2026-09-18T18:08:59Z",
+      "category": "world",
+      "tech": {
+        "en": "3D scene (A/B test)",
+        "zh": "3D 场景（A/B 测试）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Gemini 4 Pro Preview vs Astra, his own 3D test",
+        "zh": "Gemini 4 Pro Preview 对比 Astra，亲测 3D"
+      },
+      "description": {
+        "en": "Tried the new Gemini-4 Pro Preview and put it up against Fable 5.1 and GPT-6 Astra on 3D work — \"right up there, all in a single shot; I genuinely didn't expect it to be this good\"",
+        "zh": "亲测新出的 Gemini-4 Pro Preview，在 3D 制作上与 Fable 5.1、GPT-6 Astra 正面对比——「一发成型已经能打，说实话没想到它这么好」"
+      }
+    },
+    {
+      "id": 217,
+      "author": "Argona0x",
+      "url": "https://x.com/Argona0x/status/2101055500599054437",
+      "likes": 51,
+      "views": 3210,
+      "postedAt": "2026-09-18T21:07:21Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js / WebGL",
+        "zh": "three.js / WebGL"
+      },
+      "demos": [],
+      "title": {
+        "en": "A galaxy built overnight, on a laptop",
+        "zh": "一夜之间，笔记本上造出银河"
+      },
+      "description": {
+        "en": "\"Still can't believe this is real: I built a galaxy overnight, on a laptop, and it cost me nothing\" — a star-by-star Milky Way inspired by Japan's first full simulation last November",
+        "zh": "「还是不敢相信这是真的：一夜之间、一台笔记本，造出一条银河，还没花一分钱」——受去年日本首次逐星模拟银河系的启发"
+      }
+    },
+    {
+      "id": 218,
+      "author": "HerozaZhan73432",
+      "url": "https://x.com/HerozaZhan73432/status/2100785074828607771",
+      "likes": 28,
+      "views": 1914,
+      "postedAt": "2026-09-18T03:12:47Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "Cornell campus in 3D, open-sourced",
+        "zh": "康奈尔校园 3D 版，已开源"
+      },
+      "description": {
+        "en": "\"As a Cornellian, I'm open-sourcing a 3D version of my favorite place\" — Cornell's campus in three.js with Astra; only part of campus is modeled so far",
+        "zh": "「作为康奈尔人，开源我最爱的地方的 3D 版」——three.js + Astra 打造的康奈尔校园，目前建模了部分区域"
+      }
+    },
+    {
+      "id": 219,
+      "author": "RealFedeURU",
+      "url": "https://x.com/RealFedeURU/status/2100943031331405855",
+      "likes": 28,
+      "views": 1312,
+      "postedAt": "2026-09-18T13:40:26Z",
+      "category": "web3d",
+      "tech": {
+        "en": "3D map (Astra)",
+        "zh": "3D 地图（Astra）"
+      },
+      "demos": [],
+      "title": {
+        "en": "3D map of Seoul",
+        "zh": "首尔 3D 地图"
+      },
+      "description": {
+        "en": "A 3D map of Seoul built with Astra (ES)",
+        "zh": "用 Astra 构建的首尔 3D 地图（西语帖）"
+      }
+    },
+    {
+      "id": 220,
+      "author": "vib3coded",
+      "url": "https://x.com/vib3coded/status/2101098954964275322",
+      "likes": 20,
+      "views": 797,
+      "postedAt": "2026-09-19T00:00:02Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js / WebGL",
+        "zh": "three.js / WebGL"
+      },
+      "demos": [],
+      "title": {
+        "en": "Interactive island with a full tornado",
+        "zh": "整座龙卷风肆虐的交互岛屿"
+      },
+      "description": {
+        "en": "Gave Astra a prompt and an image, and it created an entire interactive island with a tornado — cars fly, roofs tear off, debris swirls through the storm",
+        "zh": "给 Astra 一条提示词和一张图，它做出一整座带龙卷风的交互岛屿——汽车飞起、屋顶掀翻、碎片在风暴中盘旋"
+      }
+    },
+    {
+      "id": 221,
+      "author": "VonGodel",
+      "url": "https://x.com/VonGodel/status/2100881618961563885",
+      "likes": 15,
+      "views": 26352,
+      "postedAt": "2026-09-18T09:36:25Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js + Tripo assets",
+        "zh": "three.js + Tripo 资产"
+      },
+      "demos": [],
+      "title": {
+        "en": "GTA6: Shenzhen Lite, 100+ hours in",
+        "zh": "《GTA6：深圳 Lite》，已投入 100+ 小时"
+      },
+      "description": {
+        "en": "GTA6: Shenzhen Lite — mainly Astra with some Fable 5.1 help; cars, tanks and maid characters generated as images first, then 3D via Tripo AI; 100+ hours in, it blew up on Douyin, Rednote and Bilibili, and he's open-sourcing it",
+        "zh": "《GTA6：深圳 Lite》——以 Astra 为主、Fable 5.1 辅助；汽车、坦克与女仆角色的资产先出图、再经 Tripo AI 转 3D；已投入 100+ 小时，在抖音/小红书/B 站三平台走红，作者宣布开源"
+      }
+    },
+    {
+      "id": 222,
+      "author": "LukaszTreder",
+      "url": "https://x.com/LukaszTreder/status/2100942322045231342",
+      "likes": 15,
+      "views": 2456,
+      "postedAt": "2026-09-18T13:37:37Z",
+      "category": "modeling",
+      "tech": {
+        "en": "interactive HTML (offline)",
+        "zh": "交互式 HTML（离线可用）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Raptor 3 engine modeled without CAD files",
+        "zh": "没有 CAD 文件也能建模 Raptor 3 发动机"
+      },
+      "description": {
+        "en": "Built an educational model of SpaceX's Raptor 3 engine with Astra — no official CAD, only public sources and visuals: 12 explorable modules, 3D rotation, part extraction, simulated telemetry and thrust vectoring, all in one offline HTML that took 58m 5s of model time (PL)",
+        "zh": "用 Astra 构建 SpaceX Raptor 3 发动机的教学模型——没有官方 CAD，全凭公开资料与图像：12 个可探索模块、3D 旋转、零件拆解、模拟遥测与推力矢量，全部装进一个离线可用的 HTML，模型累计耗时 58 分 05 秒（波兰语帖）"
+      }
+    },
+    {
+      "id": 223,
+      "author": "RealFedeURU",
+      "url": "https://x.com/RealFedeURU/status/2100900501931933822",
+      "likes": 15,
+      "views": 1152,
+      "postedAt": "2026-09-18T10:51:27Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Scenario MCP",
+        "zh": "Scenario MCP"
+      },
+      "demos": [],
+      "title": {
+        "en": "Interactive 3D map of Universal Studios Hollywood",
+        "zh": "好莱坞环球影城交互 3D 地图"
+      },
+      "description": {
+        "en": "An interactive 3D map of Universal Studios Hollywood, built with Astra × Scenario MCP (ES)",
+        "zh": "好莱坞环球影城的交互式 3D 地图，由 Astra × Scenario MCP 构建（西语帖）"
+      }
     }
   ]
 }
