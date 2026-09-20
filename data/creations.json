@@ -5038,6 +5038,275 @@
         "en": "An interactive 3D map of Universal Studios Hollywood, built with Astra × Scenario MCP (ES)",
         "zh": "好莱坞环球影城的交互式 3D 地图，由 Astra × Scenario MCP 构建（西语帖）"
       }
+    },
+    {
+      "id": 224,
+      "author": "seftsaint",
+      "url": "https://x.com/seftsaint/status/2101395711015497764",
+      "likes": 1829,
+      "views": 128488,
+      "postedAt": "2026-09-19T19:39:14Z",
+      "category": "world",
+      "tech": {
+        "en": "Unreal Engine + Blender",
+        "zh": "Unreal Engine + Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "Godot concept ported to Unreal, trees and lighting redone",
+        "zh": "Godot 概念搬进 Unreal，重做树木与光照"
+      },
+      "description": {
+        "en": "Got a new MacBook and switched his game concept from Godot to Unreal with Astra + Blender — ported it over, then reworked the trees and lighting; \"this is how it turned out\" (1.8K likes)",
+        "zh": "换了台新 MacBook，用 Astra + Blender 把游戏概念从 Godot 迁到 Unreal——整体搬过去后再调整树木与光照——「效果就是这样」（1.8K 赞）"
+      }
+    },
+    {
+      "id": 225,
+      "author": "premiumtantan",
+      "url": "https://x.com/premiumtantan/status/2101340545326997851",
+      "likes": 156,
+      "views": 6251,
+      "postedAt": "2026-09-19T16:00:01Z",
+      "category": "web3d",
+      "tech": {
+        "en": "3D interactive list (iOS)",
+        "zh": "3D 交互清单（iOS）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Locations list, but make it interactive and 3D",
+        "zh": "地点清单，但做成可交互 3D"
+      },
+      "description": {
+        "en": "\"Locations list but make it interactive and 3D\" ⛩️ — designed with GPT-6 Astra & Fable on iOS",
+        "zh": "「地点清单，但做成可交互 3D 版」⛩️——在 iOS 上用 GPT-6 Astra 与 Fable 设计"
+      }
+    },
+    {
+      "id": 226,
+      "author": "WillTheRapper_",
+      "url": "https://x.com/WillTheRapper_/status/2101350412569989413",
+      "likes": 140,
+      "views": 17174,
+      "postedAt": "2026-09-19T16:39:14Z",
+      "category": "world",
+      "tech": {
+        "en": "Astra + MiniMax H3 + fal",
+        "zh": "Astra + MiniMax H3 + fal"
+      },
+      "demos": [
+        {
+          "kind": "play",
+          "url": "https://trumanworld.live/"
+        }
+      ],
+      "title": {
+        "en": "Truman World: an infinite livestream inside a persistent AI world",
+        "zh": "Truman World：跑在持久 AI 世界里的无限直播"
+      },
+      "description": {
+        "en": "An infinite live stream running inside a persistent AI world engine powered by Astra and MiniMax H3 Max (director by fal): every character is an independent agent that remembers, interacts and evolves relationships — and Truman has no idea any of this is happening",
+        "zh": "一场跑在持久化 AI 世界引擎里的无限直播，由 Astra 与 MiniMax H3 Max 驱动（fal 执导）：每个角色都是独立的智能体，有记忆、会互动、关系随时间演化——而「楚门」本人对此一无所知"
+      }
+    },
+    {
+      "id": 227,
+      "author": "shion_takk",
+      "url": "https://x.com/shion_takk/status/2101209212986786270",
+      "likes": 130,
+      "views": 12280,
+      "postedAt": "2026-09-19T07:18:09Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (+ GPT Image 2.5 enhance)",
+        "zh": "Blender（+ GPT Image 2.5 增强）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Perspective render, zero human tool operation",
+        "zh": "效果图零人工操作：全程自然语言"
+      },
+      "description": {
+        "en": "A completed architectural perspective with a human never touching the modeling tool once — all instructions in natural language via chat, no commands; final Blender render enhanced with GPT Image 2.5 (JA)",
+        "zh": "一张完整建筑效果图，人类一次都没碰建模软件——所有指令都是聊天里的自然语言，零命令操作；最终 Blender 渲染再经 GPT Image 2.5 增强（日语帖）"
+      }
+    },
+    {
+      "id": 228,
+      "author": "milbon_",
+      "url": "https://x.com/milbon_/status/2101295927122374840",
+      "likes": 110,
+      "views": 13164,
+      "postedAt": "2026-09-19T13:02:43Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js + Blender/Mixamo + fal + Suno",
+        "zh": "three.js + Blender/Mixamo + fal + Suno"
+      },
+      "demos": [],
+      "title": {
+        "en": "A Souls-like you can actually play",
+        "zh": "真正能玩的魂类游戏"
+      },
+      "description": {
+        "en": "\"Finally created a Souls-like with AI, game creators are doomed\": fal for asset generation, three.js for rendering, Blender + Mixamo for 3D CG and animation, Suno for BGM, GPT-6 Astra for programming (JA)",
+        "zh": "「终于用 AI 做出了魂类游戏，游戏创作者失业不可避」：fal 生成资产、three.js 渲染、Blender + Mixamo 做 3D CG 与动画、Suno 配乐、GPT-6 Astra 写程序（日语帖）"
+      }
+    },
+    {
+      "id": 229,
+      "author": "karankendre",
+      "url": "https://x.com/karankendre/status/2101412687918039541",
+      "likes": 83,
+      "views": 10538,
+      "postedAt": "2026-09-19T20:46:41Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js (vs Gemini 4 Pro)",
+        "zh": "three.js（对比 Gemini 4 Pro）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Mechanical butterfly, Astra vs Gemini 4 Pro",
+        "zh": "机械蝴蝶：Astra 对比 Gemini 4 Pro"
+      },
+      "description": {
+        "en": "Built a mechanical butterfly in three.js with Astra and compared it with Gemini 4 Pro side by side",
+        "zh": "用 Astra 在 three.js 里做了一只机械蝴蝶，并与 Gemini 4 Pro 并排对比"
+      }
+    },
+    {
+      "id": 230,
+      "author": "vib3coded",
+      "url": "https://x.com/vib3coded/status/2101272811859788147",
+      "likes": 49,
+      "views": 2554,
+      "postedAt": "2026-09-19T11:30:52Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js / WebGL",
+        "zh": "three.js / WebGL"
+      },
+      "demos": [],
+      "title": {
+        "en": "An Arctic world above and below the ice",
+        "zh": "冰上冰下两个世界的北极站"
+      },
+      "description": {
+        "en": "An interactive Arctic station from a single prompt: above the ice, cozy cabins and seals; below, a transparent underwater world you can descend into (three.js, runs in the browser)",
+        "zh": "一条提示词生成的交互式北极科考站：冰面上是温馨小屋与海豹，冰面下是可潜入的透明水下世界（three.js，浏览器运行）"
+      }
+    },
+    {
+      "id": 231,
+      "author": "RealFedeURU",
+      "url": "https://x.com/RealFedeURU/status/2101425213678276740",
+      "likes": 42,
+      "views": 2237,
+      "postedAt": "2026-09-19T21:36:28Z",
+      "category": "world",
+      "tech": {
+        "en": "Unreal + Blender",
+        "zh": "Unreal + Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "Zelda-style game",
+        "zh": "塞尔达风格游戏"
+      },
+      "description": {
+        "en": "A Zelda-style game built with Astra + Unreal + Blender (ES)",
+        "zh": "用 Astra + Unreal + Blender 构建的塞尔达风格游戏（西语帖）"
+      }
+    },
+    {
+      "id": 232,
+      "author": "Stefan_3D_AI",
+      "url": "https://x.com/Stefan_3D_AI/status/2101206686069588183",
+      "likes": 34,
+      "views": 2804,
+      "postedAt": "2026-09-19T07:08:07Z",
+      "category": "modeling",
+      "tech": {
+        "en": "AI geometry → 3D printed",
+        "zh": "AI 几何 → 3D 打印"
+      },
+      "demos": [],
+      "title": {
+        "en": "D&D terrain: first test house printed and assembled",
+        "zh": "D&D 地形：首座测试房屋已打印组装"
+      },
+      "description": {
+        "en": "Terrain for a massive D&D table, first test house printed and assembled: AI-generated geometry, then a segment model to prepare it for printing — his ongoing series of turning Astra output into physical tabletop pieces",
+        "zh": "为巨型 D&D 桌面做地形：首座测试房屋已打印并组装完成——AI 生成几何，再跑分段模型为打印做准备；他把 Astra 产出变成实体桌件系列的最新进展"
+      }
+    },
+    {
+      "id": 233,
+      "author": "Yokohara_h",
+      "url": "https://x.com/Yokohara_h/status/2101500765907063130",
+      "likes": 30,
+      "views": 1817,
+      "postedAt": "2026-09-20T02:36:41Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender sculpt (no gen-3D)",
+        "zh": "Blender 雕刻（不用生成式 3D）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Human-style sculpting test, no generative shortcuts",
+        "zh": "不用生成捷径的「人类流程」雕刻验证"
+      },
+      "description": {
+        "en": "Deliberately skipped 3D generation and had Astra model via Blender sculpting the same way a human would — detailed step-by-step instructions like teaching a person, on Ultra effort; \"it came out cleaner than I expected\" (JA)",
+        "zh": "刻意不用 3D 生成，让 Astra 用 Blender 雕刻按人类同样的流程建模——像教人一样先给详细步骤，Ultra 档执行；「比想象中做得干净」（日语帖）"
+      }
+    },
+    {
+      "id": 234,
+      "author": "thebuggeddev",
+      "url": "https://x.com/thebuggeddev/status/2101362145103601752",
+      "likes": 22,
+      "views": 1343,
+      "postedAt": "2026-09-19T17:25:51Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js + Tripo",
+        "zh": "three.js + Tripo"
+      },
+      "demos": [],
+      "title": {
+        "en": "Haunted Hollow District: an endless 3D horror district",
+        "zh": "恐怖街区：无尽 3D 鬼镇"
+      },
+      "description": {
+        "en": "\"Everyone's been creating beautiful 3D environments, so I made something weirdly different\": Haunted Hollow District — an endless 3D horror district with Astra and Tripo, where you never know what you'll run into next (creepy creatures, a terrifying nun, broken cars…)",
+        "zh": "「大家都在做精美的 3D 环境，我偏做点怪东西」：恐怖街区——Astra + Tripo 打造的无尽 3D 鬼镇，你永远不知道下一个转角会撞见什么（诡异生物、吓人的修女、破车……）"
+      }
+    },
+    {
+      "id": 235,
+      "author": "JagTheHero",
+      "url": "https://x.com/JagTheHero/status/2101486309671878703",
+      "likes": 15,
+      "views": 294,
+      "postedAt": "2026-09-20T01:39:14Z",
+      "category": "modeling",
+      "tech": {
+        "en": "VTuber model (~$3 each)",
+        "zh": "VTuber 模型（每个约 3 美元）"
+      },
+      "demos": [],
+      "title": {
+        "en": "VTuber models at ~$3 each, dancing Hare Hare Yukai",
+        "zh": "每个约 3 美元的 VTuber 模型，跳《ハレ晴レユカイ》"
+      },
+      "description": {
+        "en": "Faces and fixes on Astra High took 35% of a weekly quota — so each VTuber model costs about $3; the demo has them dancing Hare Hare Yukai",
+        "zh": "用 Astra High 完成脸部与细节修整，消耗每周额度的 35%——折算每个 VTuber 模型成本约 3 美元；演示中模型们跳起了《ハレ晴レユカイ》"
+      }
     }
   ]
 }
