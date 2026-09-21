@@ -5307,6 +5307,165 @@
         "en": "Faces and fixes on Astra High took 35% of a weekly quota — so each VTuber model costs about $3; the demo has them dancing Hare Hare Yukai",
         "zh": "用 Astra High 完成脸部与细节修整，消耗每周额度的 35%——折算每个 VTuber 模型成本约 3 美元；演示中模型们跳起了《ハレ晴レユカイ》"
       }
+    },
+    {
+      "id": 236,
+      "author": "givros",
+      "url": "https://x.com/givros/status/2101614147691565532",
+      "likes": 400,
+      "views": 479015,
+      "postedAt": "2026-09-20T10:07:13Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Blender (Astra skill)",
+        "zh": "Blender（Astra skill）"
+      },
+      "demos": [
+        {
+          "kind": "source",
+          "url": "https://givros.gumroad.com/l/game-prompt-library"
+        }
+      ],
+      "title": {
+        "en": "Cozy Lake grows a French village",
+        "zh": "温馨湖泊长出一座法式村庄"
+      },
+      "description": {
+        "en": "The next step of his ongoing world: Cozy Lake plus a French village, built with Astra + his Blender skill — the prompt library is available for anyone to reuse",
+        "zh": "他持续构建的世界新篇：温馨湖泊加上一座法式村庄，由 Astra + 他的 Blender skill 完成——提示词库已开放供人复用"
+      }
+    },
+    {
+      "id": 237,
+      "author": "0xbisc",
+      "url": "https://x.com/0xbisc/status/2101637910458220758",
+      "likes": 211,
+      "views": 4914,
+      "postedAt": "2026-09-20T11:41:39Z",
+      "category": "world",
+      "tech": {
+        "en": "Hyper3D Rodin MCP",
+        "zh": "Hyper3D Rodin MCP"
+      },
+      "demos": [],
+      "title": {
+        "en": "Ski game in under two hours",
+        "zh": "不到两小时的滑雪游戏"
+      },
+      "description": {
+        "en": "Made a ski game in under two hours with Astra + Hyper3D Rodin MCP — one prompt and one image, the generated 3D assets became a playable game",
+        "zh": "用 Astra + Hyper3D Rodin MCP 不到两小时做出滑雪游戏——一条提示词加一张图，生成的 3D 资产直接变成可玩游戏"
+      }
+    },
+    {
+      "id": 238,
+      "author": "vib3coded",
+      "url": "https://x.com/vib3coded/status/2101570806702559235",
+      "likes": 60,
+      "views": 2956,
+      "postedAt": "2026-09-20T07:15:00Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js / WebGL",
+        "zh": "three.js / WebGL"
+      },
+      "demos": [],
+      "title": {
+        "en": "Verdant: a dinosaur island diorama",
+        "zh": "Verdant：恐龙岛立体景"
+      },
+      "description": {
+        "en": "Asked Astra to create Verdant — an interactive 3D diorama in three.js + WebGL: a lush island with roaming dinosaurs, a waterfall and a cutaway view",
+        "zh": "让 Astra 创造 Verdant——three.js + WebGL 的交互 3D 立体景：葱郁岛屿上有恐龙漫步、瀑布与剖面视角"
+      }
+    },
+    {
+      "id": 239,
+      "author": "dotey",
+      "url": "https://x.com/dotey/status/2101745295453286844",
+      "likes": 40,
+      "views": 16772,
+      "postedAt": "2026-09-20T18:48:21Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js (one-shot)",
+        "zh": "three.js（一次性生成）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A \"new version\" Peach Blossom Spring, one shot",
+        "zh": "一条 Prompt 一发成型的新版桃花源"
+      },
+      "description": {
+        "en": "After his first Peach Blossom Spring got mixed reviews on looks, he made a \"niu-lai\" version — \"my 3D skills are genuinely weak, the point is sharing the prompt and method\"; still, a complete interactive 3D web page in one shot from a single prompt is remarkable (ZH)",
+        "zh": "第一版桃花源被吐槽颜值后，他做了个「牛来」版——「我 3D 水平确实不行，重点还是分享提示词和制作方法」；即便如此，一条 Prompt 一发做出完整 3D 可交互网页已相当厉害（中文帖）"
+      }
+    },
+    {
+      "id": 240,
+      "author": "HelloVyom",
+      "url": "https://x.com/HelloVyom/status/2101654492521652338",
+      "likes": 46,
+      "views": 4527,
+      "postedAt": "2026-09-20T12:47:32Z",
+      "category": "world",
+      "tech": {
+        "en": "Hyper3D Rodin MCP",
+        "zh": "Hyper3D Rodin MCP"
+      },
+      "demos": [],
+      "title": {
+        "en": "Orbital Assembly: build your spacecraft, fly the galaxy",
+        "zh": "Orbital Assembly：拼装飞船畅游星系"
+      },
+      "description": {
+        "en": "A game where you assemble your own spacecraft — hull, cockpit, engines, weapons — then fly it through a galaxy; built with Astra + Hyper3D Rodin MCP",
+        "zh": "一款自己拼装飞船的游戏——船体、驾驶舱、引擎、武器任选——组装完成后穿越星系飞行；由 Astra + Hyper3D Rodin MCP 构建"
+      }
+    },
+    {
+      "id": 241,
+      "author": "rezkhere",
+      "url": "https://x.com/rezkhere/status/2101550426642645136",
+      "likes": 41,
+      "views": 4182,
+      "postedAt": "2026-09-20T05:54:01Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Hyper3D Rodin (MCP)",
+        "zh": "Hyper3D Rodin（MCP）"
+      },
+      "demos": [],
+      "title": {
+        "en": "An original spacecraft, generated and disassembled",
+        "zh": "原创飞船：生成再拆解"
+      },
+      "description": {
+        "en": "Connected Astra to Hyper3D Rodin through MCP: it generated an original spacecraft, separated its components and built the scene around them — \"what happens when a coding agent gains access to a professional 3D pipeline\"",
+        "zh": "通过 MCP 把 Astra 接入 Hyper3D Rodin：它生成一艘原创飞船、拆分出各组件，并围绕它们搭好场景——「当代码智能体接上专业 3D 管线，会发生什么」"
+      }
+    },
+    {
+      "id": 242,
+      "author": "marcthecreatorr",
+      "url": "https://x.com/marcthecreatorr/status/2101687900723106104",
+      "likes": 32,
+      "views": 2625,
+      "postedAt": "2026-09-20T15:00:17Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js (vs Gemini 4 Pro)",
+        "zh": "three.js（对比 Gemini 4 Pro）"
+      },
+      "demos": [],
+      "title": {
+        "en": "WALL-E in three.js: his own A/B against Gemini 4",
+        "zh": "three.js 版 WALL-E：亲测对比 Gemini 4"
+      },
+      "description": {
+        "en": "A Gemini 4 Pro Arena output caught his eye, so he gave Astra the exact same prompt — a 3D WALL-E in three.js — and compared the two builds himself",
+        "zh": "Arena 上一条 Gemini 4 Pro 产出引起他注意，于是把一模一样的提示词喂给 Astra——three.js 版 WALL-E——并亲自对比两个版本"
+      }
     }
   ]
 }
