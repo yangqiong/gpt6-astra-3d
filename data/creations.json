@@ -5466,6 +5466,231 @@
         "en": "A Gemini 4 Pro Arena output caught his eye, so he gave Astra the exact same prompt — a 3D WALL-E in three.js — and compared the two builds himself",
         "zh": "Arena 上一条 Gemini 4 Pro 产出引起他注意，于是把一模一样的提示词喂给 Astra——three.js 版 WALL-E——并亲自对比两个版本"
       }
+    },
+    {
+      "id": 243,
+      "author": "Stefan_3D_AI",
+      "url": "https://x.com/Stefan_3D_AI/status/2101917088889581769",
+      "likes": 528,
+      "views": 30438,
+      "postedAt": "2026-09-21T06:11:00Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Tripo P2.0 Smart UV",
+        "zh": "Tripo P2.0 Smart UV"
+      },
+      "demos": [],
+      "title": {
+        "en": "Day 14: the knight on a white horse",
+        "zh": "Day 14：白马上的骑士"
+      },
+      "description": {
+        "en": "Day 14 of the 15-year dream game: he'd saved the knight for last, convinced the animation would be a nightmare — it turned out far more manageable; the horse was modeled with Tripo P2.0's new Smart UV and \"I'm so happy with how it turned out\"",
+        "zh": "15 年梦想游戏第 14 天：他把白马骑士留到最后，以为动画会是噩梦——结果比想象中顺利得多；马用 Tripo P2.0 新的 Smart UV 建模，「效果我太满意了」"
+      }
+    },
+    {
+      "id": 244,
+      "author": "AmirMushich",
+      "url": "https://x.com/AmirMushich/status/2102110980855484589",
+      "likes": 432,
+      "views": 74649,
+      "postedAt": "2026-09-21T19:01:27Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Unreal Engine 5.8 + Maps panoramas",
+        "zh": "Unreal Engine 5.8 + 地图全景"
+      },
+      "demos": [],
+      "title": {
+        "en": "OLX listing photos → walkable 3D property",
+        "zh": "OLX 房源照片 → 可走进去的 3D 房产"
+      },
+      "description": {
+        "en": "Real-estate UX: 20 photos of a real OLX property listing turned into a 3D interactive space you can walk inside, with exteriors from Google Maps panoramas at the right coordinates — \"without spending thousands on just a walkable render\"",
+        "zh": "房产体验升级：把 OLX 上真实房源的 20 张照片变成可走入的 3D 互动空间，外观用对应坐标的谷歌街景全景补全——「不用为一段可走渲染花几千块」"
+      }
+    },
+    {
+      "id": 245,
+      "author": "chongdashu",
+      "url": "https://x.com/chongdashu/status/2102056244123255216",
+      "likes": 329,
+      "views": 21193,
+      "postedAt": "2026-09-21T15:23:57Z",
+      "category": "world",
+      "tech": {
+        "en": "GPT Images 2.5 + Blender + Tripo + Wasm/WebGPU",
+        "zh": "GPT Images 2.5 + Blender + Tripo + Wasm/WebGPU"
+      },
+      "demos": [],
+      "title": {
+        "en": "A game about stealing each other's trash",
+        "zh": "和朋友互抢垃圾的竞技游戏"
+      },
+      "description": {
+        "en": "\"I'm using AI to make a game where you compete with friends to steal each other's trash\" — in development, with a teaser and a dev walkthrough of the toolchain: GPT Images 2.5, Blender, Tripo, Astra, Wasm + WebGPU",
+        "zh": "「我在用 AI 做一款和朋友互偷对方垃圾的竞技游戏」——开发中，附先导预告与工具链全流程：GPT Images 2.5、Blender、Tripo、Astra、Wasm + WebGPU"
+      }
+    },
+    {
+      "id": 246,
+      "author": "beamnxw",
+      "url": "https://x.com/beamnxw/status/2102095524627177613",
+      "likes": 66,
+      "views": 6012,
+      "postedAt": "2026-09-21T18:00:02Z",
+      "category": "world",
+      "tech": {
+        "en": "Astra + Jev agentic system",
+        "zh": "Astra + Jev 智能体系统"
+      },
+      "demos": [
+        {
+          "kind": "play",
+          "url": "https://minelog.xyz/"
+        }
+      ],
+      "title": {
+        "en": "Minelog: Astra + Jev beat Minecraft, live",
+        "zh": "Minelog：Astra + Jev 实时通关 Minecraft"
+      },
+      "description": {
+        "en": "An autonomous system where GPT-6 Astra and Jev share one Minecraft body — a live HUD and a public harness, trained over 144 hours with terabytes of traces; inspired by Vals AI pushing Minecraft as the agent benchmark, and it's live for anyone to watch",
+        "zh": "一个让 GPT-6 Astra 与 Jev 共用同一具 Minecraft 身体的自主系统——带实时 HUD 和公开 harness，经 144 小时训练、TB 级轨迹数据；灵感来自 Vals AI 把 Minecraft 当智能体基准，现在直播开放所有人围观"
+      }
+    },
+    {
+      "id": 247,
+      "author": "yrzhe_top",
+      "url": "https://x.com/yrzhe_top/status/2102091619973427380",
+      "likes": 36,
+      "views": 13442,
+      "postedAt": "2026-09-21T17:44:31Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js (3-model A/B)",
+        "zh": "three.js（三模型对比）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Toy-sorting factory: Fable vs Astra vs Grok 4.7",
+        "zh": "玩具分拣工厂：Fable 对比 Astra 对比 Grok 4.7"
+      },
+      "description": {
+        "en": "One prompt, three models, one three.js toy-sorting factory (conveyor, robot arm, color boxes): Fable 5.1 finished in 9m18s but simple and clipping; Astra in 11m40s self-studied Three.js cases and produced his favorite build with proper duck details; Grok 4.7 took 25m33s and still misaligned the arm (ZH)",
+        "zh": "同一条提示词、三个模型、各做一个 three.js 玩具分拣工厂（传送带+机械臂+按色装箱）：Fable 5.1 用时 9 分 18 秒但造型简单还穿模；Astra 11 分 40 秒，自己找 Three.js 案例学习，小鸭嘴眼翅俱全、抓取连贯，是作者最喜欢的一版；Grok 4.7 花 25 分 33 秒机械臂仍对不准（中文帖）"
+      }
+    },
+    {
+      "id": 248,
+      "author": "mojon1",
+      "url": "https://x.com/mojon1/status/2102072595755700661",
+      "likes": 33,
+      "views": 2876,
+      "postedAt": "2026-09-21T16:28:56Z",
+      "category": "modeling",
+      "tech": {
+        "en": "3D test (piping model)",
+        "zh": "3D 测试（管道模型）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Multi-part piping model — and where it still fails",
+        "zh": "多零件管道模型——以及它仍会翻车的地方"
+      },
+      "description": {
+        "en": "A hands-on Astra 3D test: a many-part shape that legacy 3D-gen struggled with looks right at a glance, though some pipe tips aren't actually connected — \"it's genuinely evolving\" (JA)",
+        "zh": "一次 Astra 3D 实测：这种零件数多的形状传统 3D 生成很难做好，如今乍看像模像样——但有些管道末端其实没接上——「确实在稳步进化」（日语帖）"
+      }
+    },
+    {
+      "id": 249,
+      "author": "noclipepe",
+      "url": "https://x.com/noclipepe/status/2102110620078559465",
+      "likes": 31,
+      "views": 1974,
+      "postedAt": "2026-09-21T19:00:01Z",
+      "category": "web3d",
+      "tech": {
+        "en": "3D scene (A/B test)",
+        "zh": "3D 场景（A/B 测试）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Kanye's Graduation cover as a 3D scene: Astra vs Grok 4.7",
+        "zh": "把 Kanye《Graduation》封面做成 3D 场景：Astra 对比 Grok 4.7"
+      },
+      "description": {
+        "en": "Ran Grok 4.7 against Astra via aimlapi on the same task — turn Kanye's Graduation album cover into a polished 3D scene: Astra 33m21s, Grok 39m14s with more time and more tokens for a worse result",
+        "zh": "通过 aimlapi 让 Grok 4.7 与 Astra 做同一道题——把 Kanye《Graduation》专辑封面做成精致 3D 场景：Astra 用时 33 分 21 秒，Grok 39 分 14 秒，花更多时间更多 token 效果反而更差"
+      }
+    },
+    {
+      "id": 250,
+      "author": "RealFedeURU",
+      "url": "https://x.com/RealFedeURU/status/2102031313452630404",
+      "likes": 27,
+      "views": 2293,
+      "postedAt": "2026-09-21T13:44:53Z",
+      "category": "world",
+      "tech": {
+        "en": "Godot + Fable + Astra + Meshy",
+        "zh": "Godot + Fable + Astra + Meshy"
+      },
+      "demos": [],
+      "title": {
+        "en": "A multi-model division-of-labor game",
+        "zh": "多模型分工协作的游戏"
+      },
+      "description": {
+        "en": "His recipe for a new game: planning and code by Fable 5.1, 3D modeling and Blender by GPT-6 Astra, Meshy for some assets, all landing in Godot (ES)",
+        "zh": "他做新游戏的配方：Fable 5.1 负责规划与代码、GPT-6 Astra 负责 3D 建模与 Blender、部分资产用 Meshy，最终落地 Godot（西语帖）"
+      }
+    },
+    {
+      "id": 251,
+      "author": "karankendre",
+      "url": "https://x.com/karankendre/status/2102088929923260696",
+      "likes": 23,
+      "views": 2613,
+      "postedAt": "2026-09-21T17:33:50Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js (vs Opus 5.5)",
+        "zh": "three.js（对比 Opus 5.5）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Waymo vehicle in three.js, vs Opus 5.5",
+        "zh": "three.js 版 Waymo 无人车，对比 Opus 5.5"
+      },
+      "description": {
+        "en": "Built a Waymo autonomous vehicle in three.js with Astra and compared it with Opus 5.5",
+        "zh": "用 Astra 在 three.js 里做了一辆 Waymo 自动驾驶车，并与 Opus 5.5 对比"
+      }
+    },
+    {
+      "id": 252,
+      "author": "kicknost",
+      "url": "https://x.com/kicknost/status/2101978665605271788",
+      "likes": 19,
+      "views": 1260,
+      "postedAt": "2026-09-21T10:15:41Z",
+      "category": "video",
+      "tech": {
+        "en": "Termux/Blender on Android + PixVerse",
+        "zh": "安卓 Termux/Blender + PixVerse"
+      },
+      "demos": [],
+      "title": {
+        "en": "\"SAMURAI - LAST STAND\", made entirely on an Android tablet",
+        "zh": "《SAMURAI - LAST STAND》：全程安卓平板制作"
+      },
+      "description": {
+        "en": "An experiment in cinematic AI filmmaking run entirely from a tablet: Termux + Blender on Android, then Astra + PixVerse plugin/CLI/Canvas/3D Director — 3D previs, structured prompting, camera direction and shot-by-shot generation fused into one workflow",
+        "zh": "全程在平板上完成的电影级 AI 制片实验：安卓端 Termux + Blender，再接 Astra + PixVerse 插件/CLI/Canvas/3D Director——把 3D 预演、结构化提示、导演运镜与逐镜生成融为一条工作流"
+      }
     }
   ]
 }
