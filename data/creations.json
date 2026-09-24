@@ -5691,6 +5691,368 @@
         "en": "An experiment in cinematic AI filmmaking run entirely from a tablet: Termux + Blender on Android, then Astra + PixVerse plugin/CLI/Canvas/3D Director — 3D previs, structured prompting, camera direction and shot-by-shot generation fused into one workflow",
         "zh": "全程在平板上完成的电影级 AI 制片实验：安卓端 Termux + Blender，再接 Astra + PixVerse 插件/CLI/Canvas/3D Director——把 3D 预演、结构化提示、导演运镜与逐镜生成融为一条工作流"
       }
+    },
+    {
+      "id": 253,
+      "author": "Stefan_3D_AI",
+      "url": "https://x.com/Stefan_3D_AI/status/2102471841046786153",
+      "likes": 1801,
+      "views": 452172,
+      "postedAt": "2026-09-22T18:55:23Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (procedural A/B)",
+        "zh": "Blender（程序化 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "First Opus 5.5 vs Astra test: one-prompt Blender shot",
+        "zh": "首个 Opus 5.5 对比 Astra 测试：一条提示词的 Blender 镜头"
+      },
+      "description": {
+        "en": "His first head-to-head after the Opus 5.5 drop: one prompt, Blender only, all procedural — render a 10-second shot and record your own build timelapse. Opus 5.5: 35 min, 199.6k tokens, ~$13.3; Astra: 28 min, 56.6k tokens, ~$14.5; \"a worthy rival, and honestly I am glad about that\"",
+        "zh": "Opus 5.5 发布后他的首次对决：一条提示词、只用 Blender、全程序化——渲染 10 秒镜头并自录搭建延时。Opus 5.5：35 分钟、19.96 万 token、约 13.3 美元；Astra：28 分钟、5.66 万 token、约 14.5 美元；「是个值得尊敬的对手，说实话我挺高兴」"
+      }
+    },
+    {
+      "id": 254,
+      "author": "Bhavani_00007",
+      "url": "https://x.com/Bhavani_00007/status/2102795814355763277",
+      "likes": 457,
+      "views": 102371,
+      "postedAt": "2026-09-23T16:22:44Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js (4-model A/B)",
+        "zh": "three.js（四模型对比）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Eiffel Tower in three.js: four models, priced and timed",
+        "zh": "three.js 埃菲尔铁塔：四模型计时计价对决"
+      },
+      "description": {
+        "en": "Asked Opus 5.5, GPT-6 Astra, GPT-6 Sol and Kimi K3 to each build the Eiffel Tower in three.js — Opus $8.95/10min, Astra $7.45/8min, Sol $3.90/5min, Kimi K3 $4.04/6min; he preferred Opus's detailing, while Kimi K3 impressed at half the cost",
+        "zh": "让 Opus 5.5、GPT-6 Astra、GPT-6 Sol 和 Kimi K3 各自在 three.js 里建埃菲尔铁塔——Opus 8.95 美元/10 分钟、Astra 7.45 美元/8 分钟、Sol 3.90 美元/5 分钟、Kimi K3 4.04 美元/6 分钟；他最满意 Opus 的细节，Kimi K3 则以一半价格给出惊喜"
+      }
+    },
+    {
+      "id": 255,
+      "author": "emmanuel_2m",
+      "url": "https://x.com/emmanuel_2m/status/2102717178223235228",
+      "likes": 335,
+      "views": 32381,
+      "postedAt": "2026-09-23T11:10:16Z",
+      "category": "world",
+      "tech": {
+        "en": "playable games (overnight A/B)",
+        "zh": "可玩游戏（过夜 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "PUBG from one prompt: Opus worked 10 hours, Astra 3",
+        "zh": "一条提示词做吃鸡：Opus 干了 10 小时，Astra 只要 3 小时"
+      },
+      "description": {
+        "en": "\"Build the highest-quality playable PUBG you can\" — he went to sleep, and woke up to two fully playable games: Opus 5.5 worked 10 hours end to end while Astra took just 3",
+        "zh": "「做出你能做的最高质量可玩吃鸡」——他去睡觉，醒来收获两款完整可玩的游戏：Opus 5.5 端到端干了 10 小时，Astra 只用了 3 小时"
+      }
+    },
+    {
+      "id": 256,
+      "author": "dotey",
+      "url": "https://x.com/dotey/status/2102565403109085669",
+      "likes": 301,
+      "views": 51004,
+      "postedAt": "2026-09-23T01:07:10Z",
+      "category": "web3d",
+      "tech": {
+        "en": "3D landscape page (A/B)",
+        "zh": "3D 景观网页（A/B）"
+      },
+      "demos": [
+        {
+          "kind": "play",
+          "url": "https://s.baoyu.io/files/sakura-valley-gpt-6-astra.html"
+        }
+      ],
+      "title": {
+        "en": "Cherry-blossom valley web page, Opus vs Astra",
+        "zh": "樱花山谷网页：Opus 对比 Astra"
+      },
+      "description": {
+        "en": "The same browser-interactive high-polish 3D landscape prompt (Japanese cherry-blossom valley, HTML/CSS/JS) run on both models — both web pages are linked side by side in the post (ZH)",
+        "zh": "同一条「浏览器实时交互、高完成度 3D 景观网页」提示词（日式樱花山谷，HTML/CSS/JS）分别喂给两个模型——帖子中并排附上两版网页链接（中文帖）"
+      }
+    },
+    {
+      "id": 257,
+      "author": "Stefan_3D_AI",
+      "url": "https://x.com/Stefan_3D_AI/status/2102502889512194348",
+      "likes": 202,
+      "views": 21050,
+      "postedAt": "2026-09-22T20:58:46Z",
+      "category": "world",
+      "tech": {
+        "en": "Blender + Higgsfield MCP",
+        "zh": "Blender + Higgsfield MCP"
+      },
+      "demos": [],
+      "title": {
+        "en": "Back to the Future: DeLorean and clock tower, both models",
+        "zh": "《回到未来》：德罗宁与钟楼广场双模型对决"
+      },
+      "description": {
+        "en": "Round two: build the DeLorean and the clock tower square, rig the car, animate the lightning strike — both models drove Blender through the Higgsfield plugin with Nano Banana Pro and Tripo in reach. Opus 5.5: 73 min, 218k tokens, $27.3, with working doors and spinning wheels",
+        "zh": "第二轮对决：造德罗宁与钟楼广场、给车做绑定、动画闪电劈下——两个模型都通过 Higgsfield 插件操控 Blender，还能调 Nano Banana Pro 和 Tripo。Opus 5.5：73 分钟、21.8 万 token、27.3 美元，车门可开、车轮能转"
+      }
+    },
+    {
+      "id": 258,
+      "author": "retasu_496",
+      "url": "https://x.com/retasu_496/status/2102367654141190273",
+      "likes": 136,
+      "views": 6577,
+      "postedAt": "2026-09-22T12:01:23Z",
+      "category": "world",
+      "tech": {
+        "en": "Blender/Unity MCP (VRChat)",
+        "zh": "Blender/Unity MCP（VRChat）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Marine Atelier: a VRChat world with zero experience",
+        "zh": "Marine Atelier：零经验做出的 VRChat 世界"
+      },
+      "description": {
+        "en": "Released her first VRChat world — built from zero world-making experience through conversation with Astra via Blender/Unity MCP, as a test of how far \"non-creator × AI\" can go (skybox/ocean shader/curtain are existing assets) (JA)",
+        "zh": "发布了她的第一个 VRChat 世界——从零世界制作经验起步，通过与 Astra 对话经 Blender/Unity MCP 完成，验证「非创作者×AI」能走多远（天空盒/海洋着色器/窗帘为现有资产）（日语帖）"
+      }
+    },
+    {
+      "id": 259,
+      "author": "KinasRemek",
+      "url": "https://x.com/KinasRemek/status/2102663925733224741",
+      "likes": 84,
+      "views": 8239,
+      "postedAt": "2026-09-23T07:38:40Z",
+      "category": "world",
+      "tech": {
+        "en": "3D chain reaction (A/B)",
+        "zh": "3D 连锁机械（A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Chain-reaction machine, now Opus 5.5 vs Astra",
+        "zh": "连锁机械新一轮：Opus 5.5 对比 Astra"
+      },
+      "description": {
+        "en": "His signature chain-reaction benchmark returns with the new contender — a 3D chain-reaction machine built by Opus 5.5 vs GPT-6 Astra, asking readers which wins (PL)",
+        "zh": "他的招牌连锁机械基准迎来新对手——Opus 5.5 与 GPT-6 Astra 各建一台 3D 连锁反应机械，让读者评评谁赢（波兰语帖）"
+      }
+    },
+    {
+      "id": 260,
+      "author": "seki_anos",
+      "url": "https://x.com/seki_anos/status/2102675477257494615",
+      "likes": 74,
+      "views": 27958,
+      "postedAt": "2026-09-23T08:24:34Z",
+      "category": "modeling",
+      "tech": {
+        "en": "3D model duel",
+        "zh": "3D 建模对决"
+      },
+      "demos": [],
+      "title": {
+        "en": "Tokyo Tower duel: Opus 5.5 vs Astra",
+        "zh": "东京塔对决：Opus 5.5 对比 Astra"
+      },
+      "description": {
+        "en": "A Tokyo Tower 3D model duel between Claude Opus 5.5 and GPT-6 Astra (JA)",
+        "zh": "Claude Opus 5.5 与 GPT-6 Astra 的东京塔 3D 模型对决（日语帖）"
+      }
+    },
+    {
+      "id": 261,
+      "author": "3DVR3",
+      "url": "https://x.com/3DVR3/status/2102656183186387182",
+      "likes": 54,
+      "views": 18179,
+      "postedAt": "2026-09-23T07:07:54Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Quest 3 model (photo-referenced A/B)",
+        "zh": "Quest 3 模型（照片参考 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Quest 3 modeled from photos, two models compared",
+        "zh": "照着实物照片建模 Quest 3，双模型对比"
+      },
+      "description": {
+        "en": "Modeled the Quest 3 headset from real photos with both Opus 5.5 and Astra, then had Codex grade them — Opus wins on the thinness, tilt and white/black balance; it also split the work by body part like a real modeler (JA)",
+        "zh": "对照实物照片分别用 Opus 5.5 和 Astra 建模 Quest 3 头显，再让 Codex 打分——Opus 在厚薄、倾角与黑白配重上更接近实物，还会像真建模师那样按部位分工（日语帖）"
+      }
+    },
+    {
+      "id": 262,
+      "author": "everettfish0408",
+      "url": "https://x.com/everettfish0408/status/2102685254167462028",
+      "likes": 28,
+      "views": 852,
+      "postedAt": "2026-09-23T09:03:25Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (packaged as a skill)",
+        "zh": "Blender（封装为 skill）"
+      },
+      "demos": [
+        {
+          "kind": "source",
+          "url": "https://github.com/EverettFish/squishy-skill"
+        }
+      ],
+      "title": {
+        "en": "Squishy Skill: turn any image into a 3D squeeze toy",
+        "zh": "捏捏 Skill：任意图片变成 3D 捏捏乐"
+      },
+      "description": {
+        "en": "Follow-up to his holo-card skill: an open-source \"squishy\" skill — Astra + Blender turn any image into a squishy, bouncy 3D toy you can press, knead and stretch; cakes, jellies or even a mouse-dry figure all work (ZH)",
+        "zh": "镭射卡牌 skill 之后的续作：开源「捏捏」skill——Astra + Blender 把任意图片变成黏糊糊、Q 弹、能按能揉能扯的 3D 捏捏；蛋糕果冻可以，具体形象变成「老鼠干捏捏」也行（中文帖）"
+      }
+    },
+    {
+      "id": 263,
+      "author": "kokushing",
+      "url": "https://x.com/kokushing/status/2102338562561822796",
+      "likes": 22,
+      "views": 2040,
+      "postedAt": "2026-09-22T10:05:47Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Hi3D Agent + WebGL",
+        "zh": "Hi3D Agent + WebGL"
+      },
+      "demos": [],
+      "title": {
+        "en": "Hi3D-modeled objects dropped into a WebGL room",
+        "zh": "Hi3D 建的物件搬进 WebGL 房间"
+      },
+      "description": {
+        "en": "Brought Hi3D-Agent-modeled objects into his existing WebGL room viewer — clicking the stand light now switches to dark mode, a touch he's fond of (JA)",
+        "zh": "把 Hi3D Agent 建模的物件搬进他已有的 WebGL 房间查看器——点击落地灯即切换暗色模式，这个小心思他很得意（日语帖）"
+      }
+    },
+    {
+      "id": 264,
+      "author": "yamahigashi",
+      "url": "https://x.com/yamahigashi/status/2102727459657617891",
+      "likes": 22,
+      "views": 1713,
+      "postedAt": "2026-09-23T11:51:07Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Astra + Tripo P2.0 pipeline",
+        "zh": "Astra + Tripo P2.0 流水线"
+      },
+      "demos": [],
+      "title": {
+        "en": "Reference + floor plan → furnished house, one pass",
+        "zh": "参考图+户型图 → 带装家具的房子一遍过"
+      },
+      "description": {
+        "en": "Tried Astra + Tripo P2.0: prepare reference images and a floor plan, decompose the elements, design each prop with Imagegen 2.5, generate in Tripo, then place everything via Blender MCP (+ computer use) — \"quite a few details are off, but getting this in one shot is wild\" (JA)",
+        "zh": "实测 Astra + Tripo P2.0：准备参考图与户型图→拆解要素→每个家具用 Imagegen 2.5 出详细设计→Tripo 生成→Blender MCP（+computer use）布置——「细节上有不少毛病，但一遍出这个已经离谱」（日语帖）"
+      }
+    },
+    {
+      "id": 265,
+      "author": "mylifcc",
+      "url": "https://x.com/mylifcc/status/2102695553306087612",
+      "likes": 21,
+      "views": 62944,
+      "postedAt": "2026-09-23T09:44:20Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Astra + Tripo",
+        "zh": "Astra + Tripo"
+      },
+      "demos": [],
+      "title": {
+        "en": "A dancing anime character, pipeline fully connected",
+        "zh": "会跳舞的二次元角色：全管线打通"
+      },
+      "description": {
+        "en": "What used to be a months-long chain (concept art → modeling → topology → weight painting → rigging → animation) now runs end to end with Astra + Tripo — from a natural-language character sheet to a usable rigged model that actually dances on screen (ZH)",
+        "zh": "过去一套流程长到劝退（原画→建模→拓扑→刷权重→绑骨→套动作），如今 Astra + Tripo 一步跑通——从自然语言角色设定到可用绑定模型，看着自己用文字描述的角色真的在屏幕里跳舞（中文帖）"
+      }
+    },
+    {
+      "id": 266,
+      "author": "samuraipreneur",
+      "url": "https://x.com/samuraipreneur/status/2102376128321315148",
+      "likes": 18,
+      "views": 4190,
+      "postedAt": "2026-09-22T12:35:03Z",
+      "category": "video",
+      "tech": {
+        "en": "Blender + MiniMax H3",
+        "zh": "Blender + MiniMax H3"
+      },
+      "demos": [],
+      "title": {
+        "en": "An entire city inside the ENTER key",
+        "zh": "回车键里建一座城"
+      },
+      "description": {
+        "en": "Started from a normal photo of his keyboard: Astra built an entire city inside the ENTER key — planning scene and camera in Blender first — then MiniMax H3 turned it into the final film",
+        "zh": "从一张普通键盘照片开始：Astra 在回车键里建起一整座城市——先在 Blender 里规划场景与镜头——再由 MiniMax H3 出成片"
+      }
+    },
+    {
+      "id": 267,
+      "author": "Yumslef",
+      "url": "https://x.com/Yumslef/status/2102771169967436141",
+      "likes": 19,
+      "views": 646,
+      "postedAt": "2026-09-23T14:44:49Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js / WebGL",
+        "zh": "three.js / WebGL"
+      },
+      "demos": [],
+      "title": {
+        "en": "15,000 neurons: a synchronized fly-through of two model brains",
+        "zh": "1.5 万神经元：两个模型大脑的同步飞行"
+      },
+      "description": {
+        "en": "Instead of static leaderboards: a WebGL/three.js split-screen engine that flies a single synchronized camera through two digital fly-brain architectures running GPT-6 Astra and Opus 5.5 presets — 15,000 neurons firing in an interactive artifact",
+        "zh": "抛开静态榜单：用 WebGL/three.js 分屏引擎，让一台同步相机飞进两个分别运行 GPT-6 Astra 与 Opus 5.5 预设的数字果蝇大脑架构——1.5 万个神经元在交互页面中放电"
+      }
+    },
+    {
+      "id": 268,
+      "author": "theparuchh",
+      "url": "https://x.com/theparuchh/status/2102443085758402896",
+      "likes": 15,
+      "views": 577,
+      "postedAt": "2026-09-22T17:01:07Z",
+      "category": "world",
+      "tech": {
+        "en": "3D game assets (mobile RPG)",
+        "zh": "3D 游戏资产（手机 RPG）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Concordat structures become real 3D assets",
+        "zh": "Concordat 建筑从概念变 3D 资产"
+      },
+      "description": {
+        "en": "Building a mobile online RPG with Astra + imagination — until now most of this world existed only as concept art; today the first Concordat structures became real 3D game assets",
+        "zh": "用 Astra 加想象力做手机端网游——这个世界此前大部分只存在于概念图里；今天首批 Concordat 建筑正式变成 3D 游戏资产"
+      }
     }
   ]
 }
