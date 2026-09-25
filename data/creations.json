@@ -6053,6 +6053,204 @@
         "en": "Building a mobile online RPG with Astra + imagination — until now most of this world existed only as concept art; today the first Concordat structures became real 3D game assets",
         "zh": "用 Astra 加想象力做手机端网游——这个世界此前大部分只存在于概念图里；今天首批 Concordat 建筑正式变成 3D 游戏资产"
       }
+    },
+    {
+      "id": 269,
+      "author": "LexnLin",
+      "url": "https://x.com/LexnLin/status/2103282610948464811",
+      "likes": 229,
+      "views": 14212,
+      "postedAt": "2026-09-25T00:37:06Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js (no game engine)",
+        "zh": "three.js（无游戏引擎）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Zelda: Ocarina of Time recreated from scratch",
+        "zh": "从零重建《塞尔达传说：时之笛》"
+      },
+      "description": {
+        "en": "After 500+ hours of agent runtime, a from-scratch recreation of Zelda: Ocarina of Time — everything in the video made from scratch, no game engine used; built with GPT-6 Astra, Fable 5.1 and Opus 5.5",
+        "zh": "历经 500+ 小时智能体运行时间，从零重制《塞尔达传说：时之笛》——视频中的一切均从零制作、不用任何游戏引擎；由 GPT-6 Astra、Fable 5.1 与 Opus 5.5 共同完成"
+      }
+    },
+    {
+      "id": 270,
+      "author": "zavrenn",
+      "url": "https://x.com/zavrenn/status/2103181133198639614",
+      "likes": 83,
+      "views": 9994,
+      "postedAt": "2026-09-24T17:53:52Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (A/B at Max)",
+        "zh": "Blender（Max 档 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Astra vs Opus 5.5 in Blender: same look, 3x fewer tokens",
+        "zh": "Blender 对决：效果相当，token 少 3 倍"
+      },
+      "description": {
+        "en": "His first Astra vs Opus 5.5 test — one simple Blender task, same prompt, both at Max: results look almost identical, but Astra took 43 min / 61K output tokens while Opus took 1h57 / 507K tokens",
+        "zh": "他的首个 Astra vs Opus 5.5 测试——同一简单 Blender 任务、同提示词、双 Max 档：成品几乎一样，但 Astra 用时 43 分钟/6.1 万输出 token，Opus 用时 1 小时 57 分/50.7 万 token"
+      }
+    },
+    {
+      "id": 271,
+      "author": "thebuggeddev",
+      "url": "https://x.com/thebuggeddev/status/2103107614372741401",
+      "likes": 70,
+      "views": 2515,
+      "postedAt": "2026-09-24T13:01:43Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "Famous inventions on day one, as 3D models",
+        "zh": "伟大发明的「第一天」，做成 3D 模型"
+      },
+      "description": {
+        "en": "A website exploring famous innovations — the wheel, the phone, the airplane — as interactive three.js 3D models showing how they looked on day one and evolved over time; the historical research itself was delegated to the model",
+        "zh": "一个探索伟大发明的网站——车轮、电话、飞机——以可交互 three.js 3D 模型呈现它们「第一天」的样子与演化历程；连历史考据工作本身也交给了模型去做"
+      }
+    },
+    {
+      "id": 272,
+      "author": "techartist_",
+      "url": "https://x.com/techartist_/status/2103229334467346878",
+      "likes": 57,
+      "views": 1899,
+      "postedAt": "2026-09-24T21:05:24Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js (open source)",
+        "zh": "three.js（已开源）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Conceptual X-16 engine, exposed mechanics",
+        "zh": "概念 X-16 发动机，机械结构全裸露"
+      },
+      "description": {
+        "en": "A conceptual X-16 engine in three.js — four cylinder banks, one crankshaft, exposed mechanics inspired by experimental multi-bank engine architectures; open-source code linked in the post",
+        "zh": "three.js 打造的概念 X-16 发动机——四组气缸排、一根曲轴、机械结构完全裸露，灵感来自实验性多排发动机架构；帖子附开源代码"
+      }
+    },
+    {
+      "id": 273,
+      "author": "kicknost",
+      "url": "https://x.com/kicknost/status/2102963047044428070",
+      "likes": 48,
+      "views": 1814,
+      "postedAt": "2026-09-24T03:27:16Z",
+      "category": "video",
+      "tech": {
+        "en": "Blender previs + PixVerse (Termux)",
+        "zh": "Blender 预演 + PixVerse（Termux）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Gray-box ninja sequence, cinematically transformed",
+        "zh": "灰模忍者序列的电影化变身"
+      },
+      "description": {
+        "en": "Turned a simple gray Blender-style animation into a cinematic ninja sequence: Astra developed the visual-transformation and directing prompt, applied via Termux + CLI with PixVerse — preserving the original motion and choreography while rewriting characters, lighting, environment and materials",
+        "zh": "把一段简单的 Blender 风格灰色动画变成电影级忍者序列：Astra 负责设计视觉转换与导演提示词，经 Termux + CLI 用 PixVerse 应用——保留原动作与编舞，重写角色、光影、环境与材质"
+      }
+    },
+    {
+      "id": 274,
+      "author": "luigifcruz",
+      "url": "https://x.com/luigifcruz/status/2103214170019872866",
+      "likes": 26,
+      "views": 882,
+      "postedAt": "2026-09-24T20:05:08Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js + real-time telemetry",
+        "zh": "three.js + 实时遥测"
+      },
+      "demos": [],
+      "title": {
+        "en": "Allen Telescope Array, live antenna tracking",
+        "zh": "艾伦望远镜阵列，天线实时追踪"
+      },
+      "description": {
+        "en": "Recreated the Allen Telescope Array in three.js with Astra, animating every antenna's elevation and azimuth with real-time data from Nexus; time of day and the positions of the Sun and Moon are accurate too — \"quite a useful tool for debugging the array\"",
+        "zh": "用 Astra 在 three.js 里重建艾伦望远镜阵列，以 Nexus 的实时数据驱动每副天线的俯仰与方位动画；时刻与日月位置也真实准确——「调试阵列相当好用的工具」"
+      }
+    },
+    {
+      "id": 275,
+      "author": "seki_anos",
+      "url": "https://x.com/seki_anos/status/2103061914180071646",
+      "likes": 23,
+      "views": 9766,
+      "postedAt": "2026-09-24T10:00:07Z",
+      "category": "modeling",
+      "tech": {
+        "en": "3D model duel (OpenAI family)",
+        "zh": "3D 建模对决（OpenAI 家族）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Tokyo Tower round two: Luna vs Sol vs Astra",
+        "zh": "东京塔第二回合：Luna 对比 Sol 对比 Astra"
+      },
+      "description": {
+        "en": "Tokyo Tower duel, OpenAI family edition: GPT-6 Luna vs GPT-6 Sol vs GPT-6 Astra, same prompt each (JA)",
+        "zh": "东京塔对决 OpenAI 家族篇：GPT-6 Luna、GPT-6 Sol 与 GPT-6 Astra 同题各建（日语帖）"
+      }
+    },
+    {
+      "id": 276,
+      "author": "mizugame_22",
+      "url": "https://x.com/mizugame_22/status/2103092704850632823",
+      "likes": 20,
+      "views": 10552,
+      "postedAt": "2026-09-24T12:02:29Z",
+      "category": "world",
+      "tech": {
+        "en": "3D (3-model A/B)",
+        "zh": "3D（三模型 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A shishi-odoshi, three models: Astra 19min, Fable 0/3",
+        "zh": "添水三模型对决：Astra 19 分钟，Fable 三连挂"
+      },
+      "description": {
+        "en": "The same \"build a shishi-odoshi (deer scarer) in 3D\" prompt to three models: Astra was fastest at 19 minutes, Opus 5.5 took 62 minutes but worked first try, Fable 5.1 failed all three attempts — the cause turned out to be a single line (JA)",
+        "zh": "同一条「做个 3D 添水（鹿威し）」提示词给三个模型：Astra 最快 19 分钟，Opus 5.5 花 62 分钟但一发能跑，Fable 5.1 三次全挂——原因最后查明只是 一行代码（日语帖）"
+      }
+    },
+    {
+      "id": 277,
+      "author": "rich_odinn",
+      "url": "https://x.com/rich_odinn/status/2103181578314637440",
+      "likes": 18,
+      "views": 530,
+      "postedAt": "2026-09-24T17:55:38Z",
+      "category": "web3d",
+      "tech": {
+        "en": "3D anatomical atlas UI",
+        "zh": "3D 解剖图谱界面"
+      },
+      "demos": [],
+      "title": {
+        "en": "A beaver anatomical atlas, layer by layer",
+        "zh": "海狸解剖图谱，逐层拆解"
+      },
+      "description": {
+        "en": "A fully dynamic 3D anatomical atlas of a beaver: toggle between fur, muscular system, skeleton and internal organs, separate the skeleton into isolated bones, or zoom into high-precision views like the continuously growing incisors",
+        "zh": "一个完全动态的海狸 3D 解剖图谱：皮毛/肌肉/骨骼/内脏逐层切换，骨骼可拆成单骨观察，还能高精度聚焦不断生长的门牙等细节"
+      }
     }
   ]
 }
