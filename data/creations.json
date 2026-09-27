@@ -6251,6 +6251,138 @@
         "en": "A fully dynamic 3D anatomical atlas of a beaver: toggle between fur, muscular system, skeleton and internal organs, separate the skeleton into isolated bones, or zoom into high-precision views like the continuously growing incisors",
         "zh": "一个完全动态的海狸 3D 解剖图谱：皮毛/肌肉/骨骼/内脏逐层切换，骨骼可拆成单骨观察，还能高精度聚焦不断生长的门牙等细节"
       }
+    },
+    {
+      "id": 278,
+      "author": "badxstudio",
+      "url": "https://x.com/badxstudio/status/2103351314478780773",
+      "likes": 954,
+      "views": 65922,
+      "postedAt": "2026-09-25T05:10:06Z",
+      "category": "world",
+      "tech": {
+        "en": "Blender + Unreal Engine",
+        "zh": "Blender + Unreal Engine"
+      },
+      "demos": [],
+      "title": {
+        "en": "Studio-grade cinematic scene, Astra in the pipeline",
+        "zh": "工作室级电影感场景，Astra 在流水线中"
+      },
+      "description": {
+        "en": "A cinematic scene from the studio's Blender + Astra + Unreal Engine pipeline — the clip spoke for itself to the tune of ~1K likes",
+        "zh": "该工作室 Blender + Astra + Unreal Engine 流水线产出的电影感场景——短片本身就能说明一切，拿下约 1K 赞"
+      }
+    },
+    {
+      "id": 279,
+      "author": "noclipepe",
+      "url": "https://x.com/noclipepe/status/2103767411870535868",
+      "likes": 56,
+      "views": 9756,
+      "postedAt": "2026-09-26T08:43:31Z",
+      "category": "world",
+      "tech": {
+        "en": "browser game (A/B via aimlapi)",
+        "zh": "浏览器游戏（aimlapi A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Happy Wheels Bottle Run, rebuilt by two models",
+        "zh": "《Happy Wheels》瓶子跑酷：双模型重建"
+      },
+      "description": {
+        "en": "GPT-6 Astra and Claude Opus 5.5 got the same gameplay reference: rebuild Bottle Run as a playable browser game — the bike, the kid, the bottles collapsing under your wheels. Astra (xHigh) finished in 41:35 vs Opus (Extra) 1:06:22, and \"Astra gets my vote for looking closer to the original\"",
+        "zh": "GPT-6 Astra 与 Claude Opus 5.5 拿到同一游戏参考：把瓶子跑酷重建成可玩浏览器游戏——自行车、小孩、被碾塌的瓶子全都有。Astra（xHigh）41 分 35 秒完成，Opus（Extra）1 小时 6 分 22 秒；「更像原版的票我投 Astra」"
+      }
+    },
+    {
+      "id": 280,
+      "author": "RealFedeURU",
+      "url": "https://x.com/RealFedeURU/status/2103507641536552986",
+      "likes": 51,
+      "views": 3612,
+      "postedAt": "2026-09-25T15:31:17Z",
+      "category": "world",
+      "tech": {
+        "en": "Unreal + Blender (with Opus 5.5)",
+        "zh": "Unreal + Blender（配合 Opus 5.5）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Astra & Opus 5.5 pair up in Unreal + Blender",
+        "zh": "Astra 与 Opus 5.5 组队上 Unreal + Blender"
+      },
+      "description": {
+        "en": "His latest: GPT-6 Astra and Opus 5.5 working together in Unreal + Blender (ES)",
+        "zh": "他的最新作品：GPT-6 Astra 与 Opus 5.5 在 Unreal + Blender 中协同（西语帖）"
+      }
+    },
+    {
+      "id": 281,
+      "author": "spenciefy",
+      "url": "https://x.com/spenciefy/status/2103895297571033093",
+      "likes": 35,
+      "views": 6222,
+      "postedAt": "2026-09-26T17:11:42Z",
+      "category": "web3d",
+      "tech": {
+        "en": "3D trail maps",
+        "zh": "3D 雪道图"
+      },
+      "demos": [],
+      "title": {
+        "en": "Ski resort trail maps, made 3D",
+        "zh": "滑雪场雪道图，3D 化"
+      },
+      "description": {
+        "en": "A Saturday-morning project for skiers: resort trail maps turned into 3D interactive experiences with Astra",
+        "zh": "给滑雪者的周六早晨小项目：用 Astra 把滑雪场雪道图变成 3D 交互体验"
+      }
+    },
+    {
+      "id": 282,
+      "author": "suma_click_vrc",
+      "url": "https://x.com/suma_click_vrc/status/2103473093192958004",
+      "likes": 31,
+      "views": 1681,
+      "postedAt": "2026-09-25T13:14:00Z",
+      "category": "world",
+      "tech": {
+        "en": "Unity + Blender via chat (VRChat)",
+        "zh": "聊天驱动 Unity + Blender（VRChat）"
+      },
+      "demos": [],
+      "title": {
+        "en": "SUMA CAFE: a VRChat world that escaped the lab in a day",
+        "zh": "SUMA CAFE：一天就「出实验室」的 VRChat 世界"
+      },
+      "description": {
+        "en": "Her first uploaded VRChat world passed the popularity threshold within a day — free Unity Asset Store and Booth assets, with Astra and GPT-5.6 Sol driving Unity and Blender entirely through chat (JA)",
+        "zh": "她首次上传的 VRChat 世界一天内就通过了新人门槛——素材来自 Unity 免费资产库与 Booth，Astra 和 GPT-5.6 Sol 完全通过聊天操控 Unity 和 Blender 完成（日语帖）"
+      }
+    },
+    {
+      "id": 283,
+      "author": "Capetlevrai",
+      "url": "https://x.com/Capetlevrai/status/2103870673160683532",
+      "likes": 18,
+      "views": 2884,
+      "postedAt": "2026-09-26T15:33:51Z",
+      "category": "modeling",
+      "tech": {
+        "en": "texturing comparison (WIP)",
+        "zh": "贴图方案对比（进行中）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Five texturing routes compared on one model",
+        "zh": "同一模型的五种贴图路线对比"
+      },
+      "description": {
+        "en": "After modeling, the texturing question: a work-in-progress comparison of Blender vs Tripo AI vs UCUPAINT vs scans vs textures projected via GPT-6 Astra (FR)",
+        "zh": "建模之后是贴图问题：一项进行中的对比——Blender、Tripo AI、UCUPAINT、扫描件，以及经 GPT-6 Astra 投射的贴图（法语帖）"
+      }
     }
   ]
 }
