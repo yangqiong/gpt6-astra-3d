@@ -6383,6 +6383,160 @@
         "en": "After modeling, the texturing question: a work-in-progress comparison of Blender vs Tripo AI vs UCUPAINT vs scans vs textures projected via GPT-6 Astra (FR)",
         "zh": "建模之后是贴图问题：一项进行中的对比——Blender、Tripo AI、UCUPAINT、扫描件，以及经 GPT-6 Astra 投射的贴图（法语帖）"
       }
+    },
+    {
+      "id": 284,
+      "author": "rpnickson",
+      "url": "https://x.com/rpnickson/status/2104234974350111108",
+      "likes": 2627,
+      "views": 103019,
+      "postedAt": "2026-09-27T15:41:27Z",
+      "category": "modeling",
+      "tech": {
+        "en": "designed + 3D printed (5-model contest)",
+        "zh": "设计 + 3D 打印（五模型竞赛）"
+      },
+      "demos": [],
+      "title": {
+        "en": "AGENT WARS: five models design and 3D-print a bridge",
+        "zh": "AGENT WARS：五个模型设计并 3D 打印桥梁"
+      },
+      "description": {
+        "en": "Five top models — Opus 5.5, Kimi K3, Muse Spark 1.3, GPT-6 Astra and Grok 4.7 — each designed, engineered and 3D-printed a bridge to hold the most weight: 2-foot span, 500g filament max, under 18 hours of printing; then loaded until failure",
+        "zh": "五家顶级模型——Opus 5.5、Kimi K3、Muse Spark 1.3、GPT-6 Astra 与 Grok 4.7——各自设计、工程化并 3D 打印一座比承重的桥：跨距 2 英尺、耗材上限 500 克、打印时间 18 小时内；最后加载至失效分胜负"
+      }
+    },
+    {
+      "id": 285,
+      "author": "IizukaSeita",
+      "url": "https://x.com/IizukaSeita/status/2104100398369771739",
+      "likes": 174,
+      "views": 9865,
+      "postedAt": "2026-09-27T06:46:41Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Codex(Astra) + Claude Code(Opus)",
+        "zh": "Codex（Astra）+ Claude Code（Opus）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A small rocket: concept design to 3D flight simulation",
+        "zh": "小型火箭：从概念设计到 3D 飞行仿真"
+      },
+      "description": {
+        "en": "Combined Codex (Astra) and Claude Code (Opus 5.5) to take a small rocket from concept design to 3D flight simulation — aiming to carry a ~200kg satellite into a near-circular 500km orbit from Japan; under the stated assumptions the numbers reach the target orbit; honest that simulation ≠ flight hardware (JA)",
+        "zh": "组合 Codex（Astra）与 Claude Code（Opus 5.5），把一枚小型火箭从概念设计做到 3D 飞行仿真——目标是从日本把约 200kg 卫星送入 500km 近圆轨道；在既定假设下计算结果能入轨；同时坦承仿真不等于实机（日语帖）"
+      }
+    },
+    {
+      "id": 286,
+      "author": "M__Houser",
+      "url": "https://x.com/M__Houser/status/2104235113429008760",
+      "likes": 126,
+      "views": 11799,
+      "postedAt": "2026-09-27T15:42:00Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js (Astra + Opus, on Tesana)",
+        "zh": "three.js（Astra + Opus，Tesana 平台）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Amberbrook: an ARPG that landed a publishing deal",
+        "zh": "《Amberbrook》：拿下发行合约的 ARPG"
+      },
+      "description": {
+        "en": "\"I got offered a publishing deal by a game publisher for my ARPG Amberbrook. I don't even know how to code\" — the entire game built in 2 weeks with GPT-6 Astra, Claude Opus 5.5 and three.js on Tesana",
+        "zh": "「我的 ARPG《Amberbrook》拿到了游戏发行商的合约。而我根本不会写代码」——整款游戏用 GPT-6 Astra、Claude Opus 5.5 和 three.js 在 Tesana 上两周做成"
+      }
+    },
+    {
+      "id": 287,
+      "author": "3DVR3",
+      "url": "https://x.com/3DVR3/status/2104130422342852898",
+      "likes": 83,
+      "views": 8545,
+      "postedAt": "2026-09-27T08:46:00Z",
+      "category": "modeling",
+      "tech": {
+        "en": "3D duel (exterior + interior)",
+        "zh": "3D 对决（外观+内装）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Tokyo Tower round three: inside the observation deck",
+        "zh": "东京塔第三回合：走进展望台内装"
+      },
+      "description": {
+        "en": "Tokyo Tower duel number three — Astra vs Opus 5.5, this time comparing not just the exterior but the observation deck's interior, shot with the same camera and lighting; his verdict: Opus 5.5 still better (JA)",
+        "zh": "东京塔对决第三弹——Astra 对比 Opus 5.5，这次不只比外观，连展望台内装一起比，同机位同灯光拍摄；他的结论：Opus 5.5 依旧更好（日语帖）"
+      }
+    },
+    {
+      "id": 288,
+      "author": "MateuszBrat",
+      "url": "https://x.com/MateuszBrat/status/2104275260019298344",
+      "likes": 50,
+      "views": 2744,
+      "postedAt": "2026-09-27T18:21:32Z",
+      "category": "world",
+      "tech": {
+        "en": "one-shot game",
+        "zh": "一次性生成的游戏"
+      },
+      "demos": [],
+      "title": {
+        "en": "Lemmings, but with Polish drivers",
+        "zh": "《Lemmings》，但换成波兰司机"
+      },
+      "description": {
+        "en": "One-shot prompt: \"make Lemmings but with Polish drivers who drive under trains\" — playable build promised the next day (PL)",
+        "zh": "一条提示词一发成型：「做个 Lemmings，但小人是会冲到火车底下的波兰司机」——作者预告次日放出可玩版（波兰语帖）"
+      }
+    },
+    {
+      "id": 289,
+      "author": "miya00907380",
+      "url": "https://x.com/miya00907380/status/2104330247139450899",
+      "likes": 29,
+      "views": 879,
+      "postedAt": "2026-09-27T22:00:02Z",
+      "category": "video",
+      "tech": {
+        "en": "Godot primitives + Codex PV",
+        "zh": "Godot 基本体 + Codex PV"
+      },
+      "demos": [],
+      "title": {
+        "en": "Primitive Park Walkthrough, episode two + auto PV",
+        "zh": "《Primitive Park Walkthrough》第二弹 + 自动 PV"
+      },
+      "description": {
+        "en": "Progress on his Godot primitive-mesh amusement-park exploration game: a 60-second PV auto-generated by Codex (Astra + Luna) — entrance, carousel and more (JA)",
+        "zh": "他的 Godot 基本体网格游乐园探索游戏新进度：60 秒 PV 由 Codex（Astra + Luna）自动生成——从入口、旋转木马一路展开（日语帖）"
+      }
+    },
+    {
+      "id": 290,
+      "author": "zhongwen_ai",
+      "url": "https://x.com/zhongwen_ai/status/2104312161400943004",
+      "likes": 20,
+      "views": 1931,
+      "postedAt": "2026-09-27T20:48:10Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js + narration + Opus storyboard",
+        "zh": "three.js + 真人朗诵 + Opus 分镜"
+      },
+      "demos": [],
+      "title": {
+        "en": "\"Lake Pavilion Snow-watching\" as a 3D web animation",
+        "zh": "《湖心亭看雪》做成 3D 网页动画"
+      },
+      "description": {
+        "en": "Seeing his son recite Zhang Dai's classic essay sparked the idea: downloaded a human recitation with timestamps, had Opus 5.5 generate the storyboard on Poe, then built the three.js web animation with Astra's help — no background music added, \"the rhythm of the classical prose is the best music\" (ZH)",
+        "zh": "看儿子背诵张岱古文来了灵感：下载带时间戳的真人朗诵、在 Poe 上让 Opus 5.5 生成分镜剧本，再在 Astra 辅助下做成 three.js 网页动画——特意不加中国风配乐，「古文的节奏音律就是最好的音乐」（中文帖）"
+      }
     }
   ]
 }
