@@ -6537,6 +6537,182 @@
         "en": "Seeing his son recite Zhang Dai's classic essay sparked the idea: downloaded a human recitation with timestamps, had Opus 5.5 generate the storyboard on Poe, then built the three.js web animation with Astra's help — no background music added, \"the rhythm of the classical prose is the best music\" (ZH)",
         "zh": "看儿子背诵张岱古文来了灵感：下载带时间戳的真人朗诵、在 Poe 上让 Opus 5.5 生成分镜剧本，再在 Astra 辅助下做成 three.js 网页动画——特意不加中国风配乐，「古文的节奏音律就是最好的音乐」（中文帖）"
       }
+    },
+    {
+      "id": 291,
+      "author": "joshclemm",
+      "url": "https://x.com/joshclemm/status/2104415561623257501",
+      "likes": 3313,
+      "views": 159174,
+      "postedAt": "2026-09-28T03:39:02Z",
+      "category": "world",
+      "tech": {
+        "en": "Codex/Astra + Blender + WASM",
+        "zh": "Codex/Astra + Blender + WASM"
+      },
+      "demos": [],
+      "title": {
+        "en": "Sidewinder: his childhood arcade game, wheel included",
+        "zh": "《Sidewinder》：童年街机自制版，连方向盘都有"
+      },
+      "description": {
+        "en": "His favorite arcade game growing up was Off-Road, so he made it himself — \"including actual arcade spinning wheel control\"; built mostly with GPT-6 Astra in Codex, plus Blender, WASM, Cloudflare, Suno music and \"a ton of human touch\"; full game URL coming soon",
+        "zh": "他童年最爱的街机是《Off-Road》，于是自己复刻了一版——「连真正的街机方向盘控制器都做了」；主要由 Codex 里的 GPT-6 Astra 完成，辅以 Blender、WASM、Cloudflare、Suno 配乐和「大量人工打磨」；完整游戏链接即将上线"
+      }
+    },
+    {
+      "id": 292,
+      "author": "siyabuilt",
+      "url": "https://x.com/siyabuilt/status/2104519773404996076",
+      "likes": 157,
+      "views": 24154,
+      "postedAt": "2026-09-28T10:33:08Z",
+      "category": "world",
+      "tech": {
+        "en": "Minecraft (2-model duel)",
+        "zh": "Minecraft（双模型对决）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Medieval castle in Minecraft: Opus vs Astra, bot vs bot",
+        "zh": "Minecraft 中世纪城堡：Opus 对战 Astra，机器人对机器人"
+      },
+      "description": {
+        "en": "Gave Claude Opus 5.5 and GPT-6 Astra the same challenge — build a medieval castle in Minecraft, same prompt, same limits, each with its own bot placing the blocks; who won?",
+        "zh": "给 Claude Opus 5.5 和 GPT-6 Astra 出了同一道题——在 Minecraft 里建中世纪城堡，同提示词同限制，各自派一个 bot 搬砖；谁赢了？"
+      }
+    },
+    {
+      "id": 293,
+      "author": "SPAC89",
+      "url": "https://x.com/SPAC89/status/2104668903171612753",
+      "likes": 37,
+      "views": 9041,
+      "postedAt": "2026-09-28T20:25:44Z",
+      "category": "web3d",
+      "tech": {
+        "en": "3D chip benchmark (A/B)",
+        "zh": "3D 芯片基准（A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Cerebras chip benchmark: Astra Ultra vs Sonnet 5.5 XHigh",
+        "zh": "Cerebras 芯片基准：Astra Ultra 对比 Sonnet 5.5 XHigh"
+      },
+      "description": {
+        "en": "His 3D Cerebras chip benchmark, this time GPT-6 Astra Ultra vs Sonnet 5.5 XHigh on the exact same prompt — \"both feel significantly ahead of the rest; none of the others come close in efficiency, quality and cost\"; he thinks this kind of tech will change how we learn about AI hardware",
+        "zh": "他的 3D Cerebras 芯片基准新回合：同一条提示词下 GPT-6 Astra Ultra 对比 Sonnet 5.5 XHigh——「这两家明显领先其他人，效率、质量、成本上别的模型都追不上」；他认为这类技术将改变大家学习 AI 硬件的方式"
+      }
+    },
+    {
+      "id": 294,
+      "author": "rionaifantasy",
+      "url": "https://x.com/rionaifantasy/status/2104578692475167099",
+      "likes": 32,
+      "views": 16993,
+      "postedAt": "2026-09-28T14:27:16Z",
+      "category": "web3d",
+      "tech": {
+        "en": "3D interactive scene (A/B)",
+        "zh": "3D 交互场景（A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Chinatown scene: Opus 9.3 min vs Astra 6.9 min",
+        "zh": "唐人街场景：Opus 9.3 分钟 对比 Astra 6.9 分钟"
+      },
+      "description": {
+        "en": "The same 3D interactive Chinatown prompt: Opus 5.5 took 9.3 minutes with pedestrian and pet behavior real enough for game NPCs, while Astra finished in 6.9 minutes meeting the brief but with stiffer characters (ZH)",
+        "zh": "同一条 3D 交互唐人街提示词：Opus 5.5 花 9.3 分钟，行人与宠物行为真实到能当游戏 NPC；Astra 6.9 分钟完成、基本满足要求但角色偏僵硬（中文帖）"
+      }
+    },
+    {
+      "id": 295,
+      "author": "DanoManoNFT",
+      "url": "https://x.com/DanoManoNFT/status/2104599625806282969",
+      "likes": 32,
+      "views": 1185,
+      "postedAt": "2026-09-28T15:50:27Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js → Unreal + C++",
+        "zh": "three.js → Unreal + C++"
+      },
+      "demos": [],
+      "title": {
+        "en": "22 days of re-prompting: Day 1 vs Day 22",
+        "zh": "22 天反复迭代：第 1 天对比第 22 天"
+      },
+      "description": {
+        "en": "Started as a JavaScript + three.js game concept and kept re-prompting, re-iterating and rebuilding for 22 days — eventually moving the whole project into Unreal Engine + C++; the post shows Day 1 vs Day 22",
+        "zh": "从一个 JavaScript + three.js 游戏概念起步，连续 22 天反复提示、迭代、重建——最终把整个项目迁入 Unreal Engine + C++；帖子展示第 1 天与第 22 天的对比"
+      }
+    },
+    {
+      "id": 296,
+      "author": "monokern",
+      "url": "https://x.com/monokern/status/2104679458338922916",
+      "likes": 30,
+      "views": 1229,
+      "postedAt": "2026-09-28T21:07:40Z",
+      "category": "modeling",
+      "tech": {
+        "en": "3D planet (3-model A/B)",
+        "zh": "3D 行星（三模型 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "One prompt, three models, one 3D planet each",
+        "zh": "一条提示词、三个模型、各建一颗 3D 行星"
+      },
+      "description": {
+        "en": "Sonnet 5.5 vs Opus 5.5 vs GPT-6 Astra, all given one prompt to build a 3D planet — is Sonnet 5.5 on max effort already better than Opus 5.5?",
+        "zh": "Sonnet 5.5、Opus 5.5 与 GPT-6 Astra 同题各建一颗 3D 行星——满血 Sonnet 5.5 已经比 Opus 5.5 更强了吗？"
+      }
+    },
+    {
+      "id": 297,
+      "author": "betomoedano",
+      "url": "https://x.com/betomoedano/status/2104562643319025790",
+      "likes": 17,
+      "views": 2133,
+      "postedAt": "2026-09-28T13:23:29Z",
+      "category": "world",
+      "tech": {
+        "en": "Blender + app",
+        "zh": "Blender + 应用"
+      },
+      "demos": [],
+      "title": {
+        "en": "Astra drove his Blender, then built a solar system app",
+        "zh": "Astra 操控他的 Blender，再顺手做了太阳系应用"
+      },
+      "description": {
+        "en": "\"Astra absolutely cooked\" — it used Blender on his computer to create 3D planets, then built a full solar system app around the assets; walkthrough video in the post",
+        "zh": "「Astra 直接开煮」——它用他电脑上的 Blender 建 3D 行星，再围绕这些资产搭了一个完整太阳系应用；帖子附全程演示视频"
+      }
+    },
+    {
+      "id": 298,
+      "author": "chetanankola",
+      "url": "https://x.com/chetanankola/status/2104719287613341732",
+      "likes": 15,
+      "views": 662,
+      "postedAt": "2026-09-28T23:45:56Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js (sketch style)",
+        "zh": "three.js（素描风）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Goa suburbs in a gorgeous sketch style",
+        "zh": "素描风里的果阿郊区"
+      },
+      "description": {
+        "en": "A three.js 3D experience of the Goa suburbs he grew up near — Hawaiian feel with Portuguese-styled veranda houses — rendered in what he calls a gorgeous sketch style, made with Astra",
+        "zh": "用 Astra 做的 three.js 3D 体验：他家乡附近果阿郊区的风光——夏威夷般的惬意配上葡式连廊老宅——以他盛赞的素描风格渲染"
+      }
     }
   ]
 }
