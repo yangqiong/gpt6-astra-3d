@@ -6713,6 +6713,94 @@
         "en": "A three.js 3D experience of the Goa suburbs he grew up near — Hawaiian feel with Portuguese-styled veranda houses — rendered in what he calls a gorgeous sketch style, made with Astra",
         "zh": "用 Astra 做的 three.js 3D 体验：他家乡附近果阿郊区的风光——夏威夷般的惬意配上葡式连廊老宅——以他盛赞的素描风格渲染"
       }
+    },
+    {
+      "id": 299,
+      "author": "muratomo_app",
+      "url": "https://x.com/muratomo_app/status/2104879078956507640",
+      "likes": 126,
+      "views": 32964,
+      "postedAt": "2026-09-29T10:20:53Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js creature race (4-model)",
+        "zh": "three.js 生物竞速（四模型）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Creature race, rerun for Sonnet 5.5",
+        "zh": "生物竞速：Sonnet 5.5 出场再跑一轮"
+      },
+      "description": {
+        "en": "Re-ran his three.js creature race for the Sonnet 5.5 launch: creatures driven only by joints and motors on a three.js course — Sonnet 5.5, Opus 5.5, Fable 5.1 and GPT-6 Astra; no cheating verified, and amusingly Sonnet and Opus both evolved into ladybugs — \"do they think alike?\" (JA)",
+        "zh": "为迎接 Sonnet 5.5 发布重跑他的 three.js 生物竞速：赛道上的生物只靠关节与马达驱动——Sonnet 5.5、Opus 5.5、Fable 5.1 与 GPT-6 Astra 同场；已确认无作弊，有趣的是 Sonnet 和 Opus 都演化成了瓢虫——「思考回路很像？」（日语帖）"
+      }
+    },
+    {
+      "id": 300,
+      "author": "chetanankola",
+      "url": "https://x.com/chetanankola/status/2104814364121600463",
+      "likes": 61,
+      "views": 2403,
+      "postedAt": "2026-09-29T06:03:44Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "Golden water and sleepy islands",
+        "zh": "金色水面与慵懒群岛"
+      },
+      "description": {
+        "en": "\"Vibe coding my way out of reality\" — a three.js scene of golden water, real reflections and sleepy islands with Astra; \"likely going to be my all-time favorite model\"",
+        "zh": "「用 vibe coding 逃出现实」——Astra 做的 three.js 场景：金色水面、真实反射与慵懒群岛；「它大概会是我最爱的模型，除非明天 OpenAI 又整新活」"
+      }
+    },
+    {
+      "id": 301,
+      "author": "Solomonrojie",
+      "url": "https://x.com/Solomonrojie/status/2104961735794774329",
+      "likes": 43,
+      "views": 2046,
+      "postedAt": "2026-09-29T15:49:20Z",
+      "category": "web3d",
+      "tech": {
+        "en": "3D jellyfish (price A/B)",
+        "zh": "3D 水母（价格 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A squishy 3D jellyfish: $1.95 vs $4.29",
+        "zh": "可揉捏的 3D 水母：1.95 美元 对比 4.29 美元"
+      },
+      "description": {
+        "en": "\"Can you tell which is which?\" — the task was an interactive 3D jellyfish you can grab, stretch and squish in the browser; Sonnet 5.5 built it for $1.95, GPT-6 Astra for $4.29",
+        "zh": "「你能分出哪个是哪个吗？」——题目是一只在浏览器里可抓、可拉、可揉捏的交互 3D 水母；Sonnet 5.5 花 1.95 美元做成，GPT-6 Astra 花 4.29 美元"
+      }
+    },
+    {
+      "id": 302,
+      "author": "Angaisb_",
+      "url": "https://x.com/Angaisb_/status/2105090334095024369",
+      "likes": 32,
+      "views": 3377,
+      "postedAt": "2026-09-30T00:20:20Z",
+      "category": "world",
+      "tech": {
+        "en": "Minecraft mobs",
+        "zh": "Minecraft 生物"
+      },
+      "demos": [],
+      "title": {
+        "en": "Minecraft mobs, made this easily now",
+        "zh": "如今做 Minecraft 生物已经这么轻松"
+      },
+      "description": {
+        "en": "\"Kinda cool how easily we can make Minecraft mobs with GPT-6 Astra and other models now\" — his latest Minecraft creations from the prolific voxel builder",
+        "zh": "「现在用 GPT-6 Astra 和其他模型做 Minecraft 生物已经轻松到这个程度了」——高产体素创作者的最新 Minecraft 生物作品"
+      }
     }
   ]
 }
