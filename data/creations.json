@@ -6801,6 +6801,72 @@
         "en": "\"Kinda cool how easily we can make Minecraft mobs with GPT-6 Astra and other models now\" — his latest Minecraft creations from the prolific voxel builder",
         "zh": "「现在用 GPT-6 Astra 和其他模型做 Minecraft 生物已经轻松到这个程度了」——高产体素创作者的最新 Minecraft 生物作品"
       }
+    },
+    {
+      "id": 303,
+      "author": "LukaPiskorec",
+      "url": "https://x.com/LukaPiskorec/status/2105293769491001832",
+      "likes": 145,
+      "views": 21415,
+      "postedAt": "2026-09-30T13:48:43Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Astra design + human construction",
+        "zh": "Astra 设计 + 人类施工"
+      },
+      "demos": [],
+      "title": {
+        "en": "AI designs the building, a human is building it for real",
+        "zh": "AI 设计建筑，人类正在真把它盖出来"
+      },
+      "description": {
+        "en": "A full reverse-centaur situation: GPT-6 Astra designed the building and created the 3D model, Claude Fable 5 drafted the fabrication plans — and the human is now physically constructing it",
+        "zh": "完全反过来的「人马 centaurs」：GPT-6 Astra 完成建筑设计与 3D 建模，Claude Fable 5 起草加工图纸——而人类正在现场把它真正建造出来"
+      }
+    },
+    {
+      "id": 304,
+      "author": "CodeByPoonam",
+      "url": "https://x.com/CodeByPoonam/status/2105243017531834388",
+      "likes": 25,
+      "views": 5081,
+      "postedAt": "2026-09-30T10:27:03Z",
+      "category": "video",
+      "tech": {
+        "en": "3D animation (2-model A/B)",
+        "zh": "3D 动画（双模型 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Lego car assembly animation, Sonnet vs Astra",
+        "zh": "乐高小汽车拼装动画：Sonnet 对比 Astra"
+      },
+      "description": {
+        "en": "Gave Claude Sonnet 5.5 and GPT-6 Astra the same challenge: a 3D animation of assembling Lego into a small toy brick car",
+        "zh": "给 Claude Sonnet 5.5 和 GPT-6 Astra 出了同一道题：一段把乐高拼装成小玩具砖车的 3D 动画"
+      }
+    },
+    {
+      "id": 305,
+      "author": "noclipepe",
+      "url": "https://x.com/noclipepe/status/2105329792111255571",
+      "likes": 24,
+      "views": 2866,
+      "postedAt": "2026-09-30T16:11:52Z",
+      "category": "world",
+      "tech": {
+        "en": "3D upgrade task (2-model A/B)",
+        "zh": "3D 加装任务（双模型 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Chameleon vs hydraulic press, GPT family edition",
+        "zh": "变色龙大战液压机：GPT 家族篇"
+      },
+      "description": {
+        "en": "His inflatable-chameleon series continues: GPT-6.1 Sol and GPT-6 Astra got the same upgrade task — add a hydraulic press to their chameleons; \"the stress toy is now the one under pressure\"",
+        "zh": "他的充气变色龙系列新篇：GPT-6.1 Sol 与 GPT-6 Astra 接到同一升级任务——给各自的变色龙加装一台液压机；「解压玩具这回自己压力拉满」"
+      }
     }
   ]
 }
