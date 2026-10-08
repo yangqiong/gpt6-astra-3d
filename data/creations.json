@@ -6867,6 +6867,358 @@
         "en": "His inflatable-chameleon series continues: GPT-6.1 Sol and GPT-6 Astra got the same upgrade task — add a hydraulic press to their chameleons; \"the stress toy is now the one under pressure\"",
         "zh": "他的充气变色龙系列新篇：GPT-6.1 Sol 与 GPT-6 Astra 接到同一升级任务——给各自的变色龙加装一台液压机；「解压玩具这回自己压力拉满」"
       }
+    },
+    {
+      "id": 306,
+      "author": "8co28",
+      "url": "https://x.com/8co28/status/2107273573085872531",
+      "likes": 1607,
+      "views": 86934,
+      "postedAt": "2026-10-06T00:55:45Z",
+      "category": "modeling",
+      "tech": {
+        "en": "LLM + Tripo (Opus & Astra)",
+        "zh": "LLM + Tripo（Opus 与 Astra）"
+      },
+      "demos": [],
+      "title": {
+        "en": "AI character modeling, verified end to end",
+        "zh": "AI 角色建模：全流程实测验证"
+      },
+      "description": {
+        "en": "A two-part verification of what LLM + Tripo character modeling is actually like, with Claude Opus 5.5 and GPT-6 Astra — from assembly all the way to a dance animation; the attached video is the final output (JA)",
+        "zh": "对「LLM+Tripo 做 3D 角色模型到底行不行」的前后两篇实测，用 Claude Opus 5.5 与 GPT-6 Astra——从拼装一路做到舞蹈动画；附视频即最终成品（日语帖）"
+      }
+    },
+    {
+      "id": 307,
+      "author": "TheCherno",
+      "url": "https://x.com/TheCherno/status/2107062652656869444",
+      "likes": 644,
+      "views": 60855,
+      "postedAt": "2026-10-05T10:57:38Z",
+      "category": "world",
+      "tech": {
+        "en": "C++ 3D engine (2-model A/B)",
+        "zh": "C++ 3D 引擎（双模型 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "One prompt, two C++ 3D game engines",
+        "zh": "一条提示词，两台 C++ 3D 游戏引擎"
+      },
+      "description": {
+        "en": "Got Opus 5.5 and GPT-6 Astra to each build a 3D game engine in C++ from one markdown prompt: Opus worked 36 hours straight and produced a fully functional engine plus two quality games; Astra stopped after 1.5 hours with a basic but real starting point",
+        "zh": "让 Opus 5.5 和 GPT-6 Astra 各自从一份 markdown 需求文档出发，用 C++ 写 3D 游戏引擎：Opus 连干 36 小时，交出全功能引擎外加两个高质量游戏；Astra 干了 1.5 小时停了，但基础引擎是真的有了"
+      }
+    },
+    {
+      "id": 308,
+      "author": "LexnLin",
+      "url": "https://x.com/LexnLin/status/2107922902423417199",
+      "likes": 440,
+      "views": 17844,
+      "postedAt": "2026-10-07T19:55:57Z",
+      "category": "web3d",
+      "tech": {
+        "en": "JavaScript + Canvas + WebGL",
+        "zh": "JavaScript + Canvas + WebGL"
+      },
+      "demos": [],
+      "title": {
+        "en": "A near-pixel clone, 20 hours of Astra runtime",
+        "zh": "近乎像素级的复刻：Astra 跑了 20 小时"
+      },
+      "description": {
+        "en": "Recreated a reference piece with GPT-6 Astra using plain JavaScript, canvas and WebGL — about 1.5 weekly limits and 20 hours of work; \"not a 100% perfect clone\", with side-by-side comparisons below",
+        "zh": "用 GPT-6 Astra 以纯 JavaScript、canvas 与 WebGL 复刻一件参考作品——约 1.5 倍周额度、20 小时工作量；「不是 100% 完美克隆」，帖内附对比细节"
+      }
+    },
+    {
+      "id": 309,
+      "author": "HamidoFx1",
+      "url": "https://x.com/HamidoFx1/status/2107165924071739493",
+      "likes": 284,
+      "views": 10680,
+      "postedAt": "2026-10-05T17:48:00Z",
+      "category": "world",
+      "tech": {
+        "en": "Astra + Opus 5.5",
+        "zh": "Astra + Opus 5.5"
+      },
+      "demos": [],
+      "title": {
+        "en": "3D airport project, two models",
+        "zh": "3D 机场项目：双模型协作"
+      },
+      "description": {
+        "en": "A 3D airport project built with GPT-6 Astra and Opus 5.5",
+        "zh": "由 GPT-6 Astra 与 Opus 5.5 共同打造的 3D 机场项目"
+      }
+    },
+    {
+      "id": 310,
+      "author": "KanaWorks_AI",
+      "url": "https://x.com/KanaWorks_AI/status/2106033897217634458",
+      "likes": 140,
+      "views": 11326,
+      "postedAt": "2026-10-02T14:49:43Z",
+      "category": "modeling",
+      "tech": {
+        "en": "OpenAI Dots + Blender (CPU render)",
+        "zh": "OpenAI Dots + Blender（CPU 渲染）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A palace built by Dots on his own PC",
+        "zh": "Dots 在他自己电脑上建起的宫殿"
+      },
+      "description": {
+        "en": "Zero GPUs, zero hours of human modeling, one finished palace: OpenAI's Dots (running GPT-6 Astra) drove Blender on his own PC to build the whole castle — CPU rendering so stills only, stitched into video with Gemini 3.8 Flash narration; \"while humans get bounced between government counters, Dots built a palace\" (JA)",
+        "zh": "GPU：0 块，人工建模：0 小时，成品：宫殿一座——OpenAI 的 Dots（跑 GPT-6 Astra）在他自己的 PC 上操控 Blender 建成整座城堡；CPU 渲染只有静帧，再配 Gemini 3.8 Flash 解说串成影片；「人类还在被政府窗口踢皮球时，Dots 已建好宫殿」（日语帖）"
+      }
+    },
+    {
+      "id": 311,
+      "author": "TokenGremlin",
+      "url": "https://x.com/TokenGremlin/status/2105844918438490568",
+      "likes": 95,
+      "views": 6580,
+      "postedAt": "2026-10-02T02:18:47Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js + TypeScript (open source)",
+        "zh": "three.js + TypeScript（已开源）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Summer Haven: a cozy browser town, open-sourced",
+        "zh": "Summer Haven：温馨小镇浏览器游戏，已开源"
+      },
+      "description": {
+        "en": "Now open source: a cozy 3D exploration game that runs in the browser — ride a bike through town, follow the river, take the ferry, wander into the woods; four seasons, rain and snow, waterfalls, wildlife \"and a few creatures that are a little harder to explain\"; built with three.js + TypeScript, repo includes editable Blender assets",
+        "zh": "现已开源：一款跑在浏览器里的温馨 3D 探索游戏——骑车穿镇、沿河而行、搭渡轮、逛树林；四季轮转、雨雪 waterfall、野生动物「还有几种不太好解释的生物」；three.js + TypeScript 构建，仓库含可编辑 Blender 资产"
+      }
+    },
+    {
+      "id": 312,
+      "author": "miya00907380",
+      "url": "https://x.com/miya00907380/status/2105779798261846370",
+      "likes": 87,
+      "views": 2492,
+      "postedAt": "2026-10-01T22:00:02Z",
+      "category": "web3d",
+      "tech": {
+        "en": "procedural generation tool",
+        "zh": "程序化生成工具"
+      },
+      "demos": [],
+      "title": {
+        "en": "Little Street Workshop: a whole town from a seed",
+        "zh": "小小街工房：一颗种子生成一座城"
+      },
+      "description": {
+        "en": "Released a prototype tool: procedural 3D town generation — from a seed and parameters come roads, pastel buildings, running cars, walking people, parks and street trees, viewable as a 3D miniature (JA)",
+        "zh": "公开试作版工具：程序化 3D 小镇生成——由种子与各参数即时生成道路、马卡龙色楼房、行驶的汽车、走路的人、公园与行道树，可作立体微缩模型观赏（日语帖）"
+      }
+    },
+    {
+      "id": 313,
+      "author": "CodeByPoonam",
+      "url": "https://x.com/CodeByPoonam/status/2107461681932894342",
+      "likes": 74,
+      "views": 7872,
+      "postedAt": "2026-10-06T13:23:14Z",
+      "category": "web3d",
+      "tech": {
+        "en": "3D atlas (no 3D software)",
+        "zh": "3D 图谱（零 3D 软件）"
+      },
+      "demos": [],
+      "title": {
+        "en": "An interactive 3D Animal Atlas",
+        "zh": "交互式 3D 动物图谱"
+      },
+      "description": {
+        "en": "Built an interactive 3D Animal Atlas with GPT-6 Astra — no 3D software, no extra plugins; full process shared",
+        "zh": "用 GPT-6 Astra 做出交互式 3D 动物图谱——不装任何 3D 软件或插件；完整流程已分享"
+      }
+    },
+    {
+      "id": 314,
+      "author": "luckeyfaraday",
+      "url": "https://x.com/luckeyfaraday/status/2107877177303699584",
+      "likes": 50,
+      "views": 7837,
+      "postedAt": "2026-10-07T16:54:16Z",
+      "category": "world",
+      "tech": {
+        "en": "three.js (4-model A/B)",
+        "zh": "three.js（四模型 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Sonic in three.js: four models, one line of prompt",
+        "zh": "three.js 索尼克：四模型一条提示词"
+      },
+      "description": {
+        "en": "Opus 5.5, GPT-6 Astra, Sonnet 5.5 and GPT-6.1 Sol all got the same one-line prompt: recreate Sonic in three.js — no reference image, no follow-ups",
+        "zh": "Opus 5.5、GPT-6 Astra、Sonnet 5.5 与 GPT-6.1 Sol 拿到同一句提示词：在 three.js 里复刻索尼克——无参考图、无追问"
+      }
+    },
+    {
+      "id": 315,
+      "author": "mizugame_22",
+      "url": "https://x.com/mizugame_22/status/2107229583439470741",
+      "likes": 45,
+      "views": 3754,
+      "postedAt": "2026-10-05T22:00:57Z",
+      "category": "web3d",
+      "tech": {
+        "en": "OpenAI Dots (Astra)",
+        "zh": "OpenAI Dots（Astra）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Stairs over water, sky turning dusk — delegated to Dots",
+        "zh": "水上阶梯与渐暮天空：整个作品甩给 Dots"
+      },
+      "description": {
+        "en": "Handed the whole 3D piece to OpenAI's Dots: \"stairs rising over water, and the sky turns to dusk as you climb\" — delivered with sound in about 3h20m; tap to climb a step, best on a phone with audio; she assigned GPT-6 Astra as the builder (JA)",
+        "zh": "把整件 3D 作品完全甩给 OpenAI 的 Dots：「爬上水面上的阶梯，天空就变成黄昏」——约 3 小时 20 分钟后连声音一起交付；点击即可登上一级，建议手机开声音体验；制作指定由 GPT-6 Astra 担纲（日语帖）"
+      }
+    },
+    {
+      "id": 316,
+      "author": "givros",
+      "url": "https://x.com/givros/status/2106407239716372631",
+      "likes": 39,
+      "views": 3955,
+      "postedAt": "2026-10-03T15:33:15Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js + Blender + env skill",
+        "zh": "three.js + Blender + 环境技能"
+      },
+      "demos": [],
+      "title": {
+        "en": "Lake-City in one prompt",
+        "zh": "一条提示词的湖畔之城"
+      },
+      "description": {
+        "en": "Lake-City built with GPT-6 Astra + three.js + Blender and his custom environment skill, from a single prompt — live demo linked",
+        "zh": "用 GPT-6 Astra + three.js + Blender 加他的自定义环境技能，一条提示词建成「湖畔之城」——附在线演示"
+      }
+    },
+    {
+      "id": 317,
+      "author": "shinshin86",
+      "url": "https://x.com/shinshin86/status/2107459963971096676",
+      "likes": 31,
+      "views": 2492,
+      "postedAt": "2026-10-06T13:16:24Z",
+      "category": "modeling",
+      "tech": {
+        "en": "VRoid Studio via Codex",
+        "zh": "经 Codex 操控 VRoid Studio"
+      },
+      "demos": [],
+      "title": {
+        "en": "Miko's VRM avatar, made by Astra via VRoid",
+        "zh": "米可的 VRM 形象：Astra 操刀 VRoid 制作"
+      },
+      "description": {
+        "en": "Published the VRM he once had Codex (GPT-6 Astra) make of Miko: he handed over an image and asked \"turn this character into a VRM\" — Astra operated VRoid Studio itself, and he only reviewed and requested fixes; now live on Miko's site (JA)",
+        "zh": "公开了他此前让 Codex（GPT-6 Astra）制作的米可 VRM：递上一张图说「把这个角色做成 VRM」——Astra 亲自操控 VRoid Studio 完成，他只提修改意见；现已上线米可的网站（日语帖）"
+      }
+    },
+    {
+      "id": 318,
+      "author": "PrathamJainAI",
+      "url": "https://x.com/PrathamJainAI/status/2107450482612748557",
+      "likes": 23,
+      "views": 586,
+      "postedAt": "2026-10-06T12:38:44Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (sim asset)",
+        "zh": "Blender（仿真资产）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Sim asset built to spec in Blender",
+        "zh": "按规格在 Blender 里建仿真资产"
+      },
+      "description": {
+        "en": "\"Built the entire sim asset as required\" with GPT-6 Astra in Blender — the real build is coming soon",
+        "zh": "用 GPT-6 Astra 在 Blender 里「按要求建好整套仿真资产」——实物版本即将推出"
+      }
+    },
+    {
+      "id": 319,
+      "author": "Jomolos",
+      "url": "https://x.com/Jomolos/status/2107818228361879891",
+      "likes": 18,
+      "views": 639,
+      "postedAt": "2026-10-07T13:00:01Z",
+      "category": "world",
+      "tech": {
+        "en": "Godot + Astra + Rodin MCP",
+        "zh": "Godot + Astra + Rodin MCP"
+      },
+      "demos": [],
+      "title": {
+        "en": "Idea to playable demo in one week",
+        "zh": "一周从点子到可玩 demo"
+      },
+      "description": {
+        "en": "From idea to a working game demo in a week: GPT-6 Astra on the development side, Hyper3D Rodin via MCP for 3D assets — drones, maintenance stations, environment pieces — merged into one real workflow (TR)",
+        "zh": "一周内从点子到可运行游戏 demo：GPT-6 Astra 负责开发侧，Hyper3D Rodin 经 MCP 生成 3D 资产——无人机、维护站、环境部件——两路合入同一条真实工作流（土耳其语帖）"
+      }
+    },
+    {
+      "id": 320,
+      "author": "domsilvestre",
+      "url": "https://x.com/domsilvestre/status/2107567209035833402",
+      "likes": 155,
+      "views": 37785,
+      "postedAt": "2026-10-06T20:22:33Z",
+      "category": "web3d",
+      "tech": {
+        "en": "3D scene (8-model A/B)",
+        "zh": "3D 场景（八模型 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "One 3D prompt, eight models, one shot each",
+        "zh": "一条 3D 提示词、八个模型、各发一次"
+      },
+      "description": {
+        "en": "Mistral shipped Large 4, so he gave the same 3D prompt to 8 models — one shot, no fixes: open (Mistral Large 4, Kimi K3, GLM 5.3, DeepSeek V4 Pro) vs closed (Opus 5.5, Sonnet 5.5, GPT-6 Astra, GPT-6.1 Sol); results laid out below",
+        "zh": "Mistral 发布 Large 4，他顺势把同一条 3D 提示词发给 8 个模型——各一次机会、不许修：开源组（Mistral Large 4、Kimi K3、GLM 5.3、DeepSeek V4 Pro）对闭源组（Opus 5.5、Sonnet 5.5、GPT-6 Astra、GPT-6.1 Sol）；结果逐个放下面"
+      }
+    },
+    {
+      "id": 321,
+      "author": "romance0x",
+      "url": "https://x.com/romance0x/status/2107831851104514198",
+      "likes": 16,
+      "views": 443,
+      "postedAt": "2026-10-07T13:54:09Z",
+      "category": "web3d",
+      "tech": {
+        "en": "3D product page (price A/B)",
+        "zh": "3D 产品页（价格 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A plush shark product page: $10.35 vs $8.38",
+        "zh": "毛绒鲨鱼产品页：10.35 美元 对比 8.38 美元"
+      },
+      "description": {
+        "en": "Same prompt, same plush shark: Claude Opus 5.5 cost $10.35, GPT-6 Astra $8.38 — \"only one of them feels like a real product\"; a 3D product page built from the toy",
+        "zh": "同题同款毛绒鲨鱼：Claude Opus 5.5 花 10.35 美元，GPT-6 Astra 花 8.38 美元——「只有一个像真正的产品」；基于这只玩具的 3D 产品页"
+      }
     }
   ]
 }
