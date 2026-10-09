@@ -7219,6 +7219,116 @@
         "en": "Same prompt, same plush shark: Claude Opus 5.5 cost $10.35, GPT-6 Astra $8.38 — \"only one of them feels like a real product\"; a 3D product page built from the toy",
         "zh": "同题同款毛绒鲨鱼：Claude Opus 5.5 花 10.35 美元，GPT-6 Astra 花 8.38 美元——「只有一个像真正的产品」；基于这只玩具的 3D 产品页"
       }
+    },
+    {
+      "id": 322,
+      "author": "hazemoriartyy",
+      "url": "https://x.com/hazemoriartyy/status/2108157052690571283",
+      "likes": 224,
+      "views": 10552,
+      "postedAt": "2026-10-08T11:26:23Z",
+      "category": "video",
+      "tech": {
+        "en": "Blender + Higgsfield + AE",
+        "zh": "Blender + Higgsfield + AE"
+      },
+      "demos": [],
+      "title": {
+        "en": "Base Soul 2.0 pipeline piece",
+        "zh": "Base Soul 2.0 流水线作品"
+      },
+      "description": {
+        "en": "A layered art piece through his stack: Blender modeling, Higgsfield's Base Soul 2.0 model, GPT-6 Astra edit, finished in After Effects",
+        "zh": "一条多层艺术作品出自他的工作栈：Blender 建模、Higgsfield 的 Base Soul 2.0 模型、GPT-6 Astra 编辑，最后在 After Effects 收尾"
+      }
+    },
+    {
+      "id": 323,
+      "author": "HamidoFx1",
+      "url": "https://x.com/HamidoFx1/status/2108163264144183501",
+      "likes": 207,
+      "views": 25107,
+      "postedAt": "2026-10-08T11:51:04Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Astra + Opus 5.5",
+        "zh": "Astra + Opus 5.5"
+      },
+      "demos": [],
+      "title": {
+        "en": "A 3D clothing brand site",
+        "zh": "3D 服装品牌站"
+      },
+      "description": {
+        "en": "A 3D clothing brand experience built with GPT-6 Astra and Opus 5.5 — the follow-up to his 3D airport project",
+        "zh": "用 GPT-6 Astra 与 Opus 5.5 打造的 3D 服装品牌体验——继 3D 机场项目之后的又一作品"
+      }
+    },
+    {
+      "id": 324,
+      "author": "yyyole",
+      "url": "https://x.com/yyyole/status/2108368534963413293",
+      "likes": 60,
+      "views": 4206,
+      "postedAt": "2026-10-09T01:26:44Z",
+      "category": "world",
+      "tech": {
+        "en": "Codex(Astra) + Tripo + Blender + Opus",
+        "zh": "Codex（Astra）+ Tripo + Blender + Opus"
+      },
+      "demos": [],
+      "title": {
+        "en": "Overnight: a playable 3D island-hunting game",
+        "zh": "一晚上：能玩的 3D 荒岛狩猎游戏"
+      },
+      "description": {
+        "en": "Handed the computer to AI for the night — GPT-6 Astra + Tripo3D + Blender + Claude Opus 5.5 produced a playable 3D island hunting game by morning; image generation, 3D modeling, decimation, assembly, scene building and gameplay polish all done autonomously by AI; \"the one dragging things down turned out to be me\" (ZH)",
+        "zh": "把电脑整晚交给 AI——GPT-6 Astra + Tripo3D + Blender + Claude Opus 5.5 一觉醒来搓出一款能玩的 3D 荒岛狩猎游戏；生图、3D 建模、减面、组装、搭场景到玩法完善全部由 AI 自动完成；「最后拖后腿的居然是我」（中文帖）"
+      }
+    },
+    {
+      "id": 325,
+      "author": "viktoroddy",
+      "url": "https://x.com/viktoroddy/status/2108181607396126979",
+      "likes": 45,
+      "views": 4430,
+      "postedAt": "2026-10-08T13:03:57Z",
+      "category": "web3d",
+      "tech": {
+        "en": "3D landing page (A/B)",
+        "zh": "3D 落地页（A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Same 3D landing page: Opus vs Astra",
+        "zh": "同题 3D 落地页：Opus 对比 Astra"
+      },
+      "description": {
+        "en": "Asked Claude Opus 5.5 and GPT-6 Astra to build the same 3D landing page — real-time 3D, scroll animation, no video tricks; \"one of them is clearly better — which would you ship?\"",
+        "zh": "让 Claude Opus 5.5 和 GPT-6 Astra 做同一个 3D 落地页——实时 3D、滚动动画、不用视频骗术；「其中一个明显更好——你会上线哪个？」"
+      }
+    },
+    {
+      "id": 326,
+      "author": "op7418",
+      "url": "https://x.com/op7418/status/2108229061529239705",
+      "likes": 35,
+      "views": 6203,
+      "postedAt": "2026-10-08T16:12:31Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (+ memory-driven taste)",
+        "zh": "Blender（+ 记忆驱动的审美）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A poster generated to his personal taste",
+        "zh": "按他个人审美生成的一张海报"
+      },
+      "description": {
+        "en": "\"Astra is still the 3D king\": had it read his Memory and, following his preferences, compose a poster from several Blender-built models — model detail, materials and lighting all holding up (ZH)",
+        "zh": "「3D 这块还是 Astra 牛」：让它读取自己的 Memory，按他的喜好用 Blender 建的几个模型合成一张海报——模型细节、材质、光影都可圈可点（中文帖）"
+      }
     }
   ]
 }
