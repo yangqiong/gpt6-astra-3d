@@ -7329,6 +7329,94 @@
         "en": "\"Astra is still the 3D king\": had it read his Memory and, following his preferences, compose a poster from several Blender-built models — model detail, materials and lighting all holding up (ZH)",
         "zh": "「3D 这块还是 Astra 牛」：让它读取自己的 Memory，按他的喜好用 Blender 建的几个模型合成一张海报——模型细节、材质、光影都可圈可点（中文帖）"
       }
+    },
+    {
+      "id": 327,
+      "author": "HamidoFx1",
+      "url": "https://x.com/HamidoFx1/status/2108518574545359290",
+      "likes": 255,
+      "views": 20366,
+      "postedAt": "2026-10-09T11:22:57Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Astra + Opus 5.5",
+        "zh": "Astra + Opus 5.5"
+      },
+      "demos": [],
+      "title": {
+        "en": "3D restaurant website",
+        "zh": "3D 餐厅网站"
+      },
+      "description": {
+        "en": "A 3D restaurant website built with GPT-6 Astra and Opus 5.5 — third in his series after the airport and the clothing brand",
+        "zh": "用 GPT-6 Astra 与 Opus 5.5 构建的 3D 餐厅网站——继机场、服装品牌之后的系列第三作"
+      }
+    },
+    {
+      "id": 328,
+      "author": "hubery_bu",
+      "url": "https://x.com/hubery_bu/status/2108402499044458750",
+      "likes": 68,
+      "views": 9730,
+      "postedAt": "2026-10-09T03:41:42Z",
+      "category": "world",
+      "tech": {
+        "en": "Unreal Engine 5",
+        "zh": "Unreal Engine 5"
+      },
+      "demos": [],
+      "title": {
+        "en": "Ten days, zero UE experience, one full boss fight",
+        "zh": "零 UE 经验，十天做出一场完整 Boss 战"
+      },
+      "description": {
+        "en": "\"I'd never even opened Unreal Engine\" — ten days with GPT-6 Astra produced a complete boss fight: sword-and-shield warrior vs a lava behemoth, with parries, skills, ultimates and a rage phase at half HP, playable on keyboard/mouse or gamepad; \"the hard part turned out not to be the code, but whether it's fun\" (ZH)",
+        "zh": "「我连虚幻引擎都没打开过」——用 GPT-6 Astra 十天做出一场完整 Boss 战：剑盾战士单挑熔岩巨兽，招架、技能、大招、半血狂暴转阶段全都有，键鼠手柄皆可玩；「最后发现难的根本不是写代码，是『好不好玩』」（中文帖）"
+      }
+    },
+    {
+      "id": 329,
+      "author": "humzaakhalid",
+      "url": "https://x.com/humzaakhalid/status/2108492463052878009",
+      "likes": 33,
+      "views": 5297,
+      "postedAt": "2026-10-09T09:39:11Z",
+      "category": "world",
+      "tech": {
+        "en": "Minecraft (2-model A/B)",
+        "zh": "Minecraft（双模型 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "\"Dario Amodei vs Sam Altman in Minecraft\"",
+        "zh": "「Minecraft 里的 Dario Amodei 大战 Sam Altman」"
+      },
+      "description": {
+        "en": "Gave Claude Fable 5.1 and GPT-6 Astra the same tongue-in-cheek challenge: build \"Dario Amodei vs Sam Altman in Minecraft\"",
+        "zh": "给 Claude Fable 5.1 和 GPT-6 Astra 出了同一道整活题：「在 Minecraft 里做 Dario Amodei 大战 Sam Altman」"
+      }
+    },
+    {
+      "id": 330,
+      "author": "chetanankola",
+      "url": "https://x.com/chetanankola/status/2108700032413430183",
+      "likes": 20,
+      "views": 907,
+      "postedAt": "2026-10-09T23:24:00Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "The Lit-Moss-Building shophouse",
+        "zh": "「青苔亮灯小楼」骑楼"
+      },
+      "description": {
+        "en": "\"GPT-6 Astra designed it, Claude Opus 5.5 built it — quite cozy to live in\": a tiny moss-covered 3D shophouse in three.js, with rain-soaked tiles and glowing windows",
+        "zh": "「GPT-6 Astra 设计、Claude Opus 5.5 建造——住起来应该挺温馨」：three.js 里一座覆满青苔的 3D 骑楼，雨浸的瓦片与透着暖光的窗"
+      }
     }
   ]
 }
