@@ -7417,6 +7417,94 @@
         "en": "\"GPT-6 Astra designed it, Claude Opus 5.5 built it — quite cozy to live in\": a tiny moss-covered 3D shophouse in three.js, with rain-soaked tiles and glowing windows",
         "zh": "「GPT-6 Astra 设计、Claude Opus 5.5 建造——住起来应该挺温馨」：three.js 里一座覆满青苔的 3D 骑楼，雨浸的瓦片与透着暖光的窗"
       }
+    },
+    {
+      "id": 331,
+      "author": "yugiriworks",
+      "url": "https://x.com/yugiriworks/status/2108845006505345067",
+      "likes": 176,
+      "views": 9753,
+      "postedAt": "2026-10-10T09:00:04Z",
+      "category": "web3d",
+      "tech": {
+        "en": "HD-2D style (real 3D under the hood)",
+        "zh": "HD-2D 风（内里是真 3D）"
+      },
+      "demos": [],
+      "title": {
+        "en": "HD-2D that's secretly a full 3D space",
+        "zh": "看似 2D、实为完整 3D 空间的 HD-2D"
+      },
+      "description": {
+        "en": "Game screens that look 2D but are actually built as a proper 3D space underneath — verified together with GPT-6 Astra in his HD-2D graphics exploration; move the camera freely and \"it really is 3D in there\" (JA)",
+        "zh": "画面乍看是 2D，底下其实是规整的 3D 空间——他 ongoing 的 HD-2D 图形验证项目，与 GPT-6 Astra 一路验证；自由转动镜头就会发现「意外地真是 3D 空间」（日语帖）"
+      }
+    },
+    {
+      "id": 332,
+      "author": "HamidoFx1",
+      "url": "https://x.com/HamidoFx1/status/2108883159030890803",
+      "likes": 107,
+      "views": 7857,
+      "postedAt": "2026-10-10T11:31:40Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Astra + Opus 5.5",
+        "zh": "Astra + Opus 5.5"
+      },
+      "demos": [],
+      "title": {
+        "en": "3D gadget website",
+        "zh": "3D 数码配件网站"
+      },
+      "description": {
+        "en": "A 3D gadget website built with GPT-6 Astra and Opus 5.5 — fourth in the series after airport, clothing brand and restaurant",
+        "zh": "用 GPT-6 Astra 与 Opus 5.5 构建的 3D 数码配件网站——机场、服装品牌、餐厅之后的系列第四作"
+      }
+    },
+    {
+      "id": 333,
+      "author": "LexnLin",
+      "url": "https://x.com/LexnLin/status/2108941556019314977",
+      "likes": 58,
+      "views": 4812,
+      "postedAt": "2026-10-10T15:23:43Z",
+      "category": "world",
+      "tech": {
+        "en": "digital card game",
+        "zh": "数字卡牌游戏"
+      },
+      "demos": [],
+      "title": {
+        "en": "A card game where AI labs fight with their models",
+        "zh": "AI 实验室用自家模型互殴的卡牌游戏"
+      },
+      "description": {
+        "en": "\"Been building this for a while and it's finally out\": a digital card game where AI labs battle each other with their models — build your deck, each card has stats and special abilities",
+        "zh": "「做了一阵子终于上线」：一款 AI 实验室用自家模型互相对战的数字卡牌游戏——自组卡组，每张卡有属性与特殊技能"
+      }
+    },
+    {
+      "id": 334,
+      "author": "keydol123",
+      "url": "https://x.com/keydol123/status/2108822897561399764",
+      "likes": 16,
+      "views": 6159,
+      "postedAt": "2026-10-10T07:32:13Z",
+      "category": "web3d",
+      "tech": {
+        "en": "3D interactive (2-model A/B)",
+        "zh": "3D 交互（双模型 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A laptop made entirely of honey jelly",
+        "zh": "整台蜂蜜果冻做的笔记本"
+      },
+      "description": {
+        "en": "Gave GPT-6 Astra and Claude Opus 5.5 the exact same prompt: \"Build an interactive laptop made entirely of honey jelly\" — both built it from scratch, no extra instructions",
+        "zh": "给 GPT-6 Astra 与 Claude Opus 5.5 一字不差的提示词：「做一台完全由蜂蜜果冻构成的可交互笔记本电脑」——两家都从零做出了成品，无任何补充指令"
+      }
     }
   ]
 }
