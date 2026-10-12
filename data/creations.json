@@ -7505,6 +7505,72 @@
         "en": "Gave GPT-6 Astra and Claude Opus 5.5 the exact same prompt: \"Build an interactive laptop made entirely of honey jelly\" — both built it from scratch, no extra instructions",
         "zh": "给 GPT-6 Astra 与 Claude Opus 5.5 一字不差的提示词：「做一台完全由蜂蜜果冻构成的可交互笔记本电脑」——两家都从零做出了成品，无任何补充指令"
       }
+    },
+    {
+      "id": 335,
+      "author": "shukshln",
+      "url": "https://x.com/shukshln/status/2109322717006827884",
+      "likes": 49,
+      "views": 762,
+      "postedAt": "2026-10-11T16:38:19Z",
+      "category": "world",
+      "tech": {
+        "en": "3D runner (4-word prompt A/B)",
+        "zh": "3D 跑酷（四词提示词 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Four words, two playable 3D runners",
+        "zh": "四个单词，两款能玩的 3D 跑酷"
+      },
+      "description": {
+        "en": "The entire prompt was \"SUBWAY SURFER!!!!\" — GPT-6 Astra vs Opus 5.5, both on high reasoning, each built a fully playable 3D runner in real time: track layout, hoverboard power-ups, coin collection, all inferred; side by side, see which one nailed the vibe",
+        "zh": "全部提示词就一句「SUBWAY SURFER!!!!」——GPT-6 Astra 对比 Opus 5.5，双双开高推理档，各自实时做出完整可玩的 3D 跑酷：赛道布局、悬浮板道具、金币收集全靠自行推断；并排播放，看谁更对味"
+      }
+    },
+    {
+      "id": 336,
+      "author": "ThreeDeDaniel",
+      "url": "https://x.com/ThreeDeDaniel/status/2109288640627011777",
+      "likes": 34,
+      "views": 1667,
+      "postedAt": "2026-10-11T14:22:55Z",
+      "category": "modeling",
+      "tech": {
+        "en": "AI reconstruction (photogrammetry + Astra)",
+        "zh": "AI 重建（照片 + Astra）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Starship V3's entire heat shield, tile by tile",
+        "zh": "Starship V3 全套隔热罩，一片片重建"
+      },
+      "description": {
+        "en": "\"The first of its kind\": reconstructing the entire heat shield of Starship V3 without manually modeling a single tile — photographer Jordan Guidry supplied high-quality photos and permission for AI-assisted reconstruction, and the process became one of the most demanding tests he's run",
+        "zh": "「同类首个」：不手工建模一片隔热瓦，重建 Starship V3 的整套隔热罩——摄影师 Jordan Guidry 提供高质量照片并授权用于 AI 辅助重建，整个过程成为他做过最严苛的测试之一"
+      }
+    },
+    {
+      "id": 337,
+      "author": "0xfar",
+      "url": "https://x.com/0xfar/status/2109373984529592470",
+      "likes": 19,
+      "views": 1003,
+      "postedAt": "2026-10-11T20:02:02Z",
+      "category": "modeling",
+      "tech": {
+        "en": "2D → 3D → physical print",
+        "zh": "2D → 3D → 实体打印"
+      },
+      "demos": [],
+      "title": {
+        "en": "Painting with a 3D printer",
+        "zh": "用 3D 打印机作画"
+      },
+      "description": {
+        "en": "\"Painting with a 3D printer: 2D → 3D → physical, GPT-6 Astra in the middle\" — an image goes 3D via Astra, then gets physically printed",
+        "zh": "「用 3D 打印机作画：2D → 3D → 实体，GPT-6 Astra 居中」——图像经 Astra 变成 3D，再被真实打印出来"
+      }
     }
   ]
 }
