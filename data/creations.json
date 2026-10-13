@@ -7571,6 +7571,160 @@
         "en": "\"Painting with a 3D printer: 2D → 3D → physical, GPT-6 Astra in the middle\" — an image goes 3D via Astra, then gets physically printed",
         "zh": "「用 3D 打印机作画：2D → 3D → 实体，GPT-6 Astra 居中」——图像经 Astra 变成 3D，再被真实打印出来"
       }
+    },
+    {
+      "id": 338,
+      "author": "AmirMushich",
+      "url": "https://x.com/AmirMushich/status/2109715254716596600",
+      "likes": 137,
+      "views": 10856,
+      "postedAt": "2026-10-12T18:38:07Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Blender MCP (Codex + Voyager.so)",
+        "zh": "Blender MCP（Codex + Voyager.so）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Wilderness hotel concept, 10.7M triangles",
+        "zh": "荒野酒店概念：1,070 万三角形"
+      },
+      "description": {
+        "en": "A 3D website concept for a wilderness hotel via Blender MCP agents (Codex + Voyager.so): 13,698 meshes, 10.7M triangles, a 489MB scene — a 100% 3D scene",
+        "zh": "经 Blender MCP 智能体（Codex + Voyager.so）打造的荒野酒店 3D 网站概念：13,698 个网格、1,070 万三角形、489MB 场景——100% 全 3D"
+      }
+    },
+    {
+      "id": 339,
+      "author": "HamidoFx1",
+      "url": "https://x.com/HamidoFx1/status/2109603285938094545",
+      "likes": 137,
+      "views": 9340,
+      "postedAt": "2026-10-12T11:13:12Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Astra + Opus 5.5",
+        "zh": "Astra + Opus 5.5"
+      },
+      "demos": [],
+      "title": {
+        "en": "3D jewelry brand site",
+        "zh": "3D 珠宝品牌站"
+      },
+      "description": {
+        "en": "A 3D jewelry brand site built with GPT-6 Astra and Opus 5.5 — fifth in the series (airport, clothing, restaurant, gadgets…)",
+        "zh": "用 GPT-6 Astra 与 Opus 5.5 构建的 3D 珠宝品牌站——系列第五作（机场、服装、餐厅、数码配件之后）"
+      }
+    },
+    {
+      "id": 340,
+      "author": "HamidoFx1",
+      "url": "https://x.com/HamidoFx1/status/2109660897669161196",
+      "likes": 87,
+      "views": 4505,
+      "postedAt": "2026-10-12T15:02:08Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Astra + Opus 5.5",
+        "zh": "Astra + Opus 5.5"
+      },
+      "demos": [],
+      "title": {
+        "en": "3D ice cream website",
+        "zh": "3D 冰淇淋网站"
+      },
+      "description": {
+        "en": "A 3D ice cream website built with GPT-6 Astra and Opus 5.5 — sixth in his 3D-brand-site series",
+        "zh": "用 GPT-6 Astra 与 Opus 5.5 构建的 3D 冰淇淋网站——他 3D 品牌站系列的第六作"
+      }
+    },
+    {
+      "id": 341,
+      "author": "minsik_nlp",
+      "url": "https://x.com/minsik_nlp/status/2109676467235791220",
+      "likes": 42,
+      "views": 1466,
+      "postedAt": "2026-10-12T16:04:00Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender",
+        "zh": "Blender"
+      },
+      "demos": [],
+      "title": {
+        "en": "Four Stanford landmarks, a parting gift",
+        "zh": "四座斯坦福地标，一份告别礼"
+      },
+      "description": {
+        "en": "\"I'm leaving Stanford to work with an MIT professor — this is a parting gift\": GPT-6 Astra built four Stanford landmarks in Blender, renders in the thread",
+        "zh": "「我要离开斯坦福去跟一位 MIT 教授工作——这是临别赠礼」：GPT-6 Astra 在 Blender 里建出四座斯坦福地标，渲染图见帖子串"
+      }
+    },
+    {
+      "id": 342,
+      "author": "luckeyfaraday",
+      "url": "https://x.com/luckeyfaraday/status/2109671306992009650",
+      "likes": 26,
+      "views": 1352,
+      "postedAt": "2026-10-12T15:43:30Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (price/time A/B)",
+        "zh": "Blender（价格/时长 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Harley Quinn Blender test: $4.76 vs $17.19",
+        "zh": "哈莉·奎茵 Blender 测试：4.76 美元 对比 17.19 美元"
+      },
+      "description": {
+        "en": "Opus 5.5 vs GPT-6 Astra on the Harley Quinn Blender test — same prompt, same task, very different results: Astra finished in 17 minutes at $4.76, Opus took 1h19m at $17.19; \"who understood the assignment best?\"",
+        "zh": "哈莉·奎茵 Blender 测试：Opus 5.5 对比 GPT-6 Astra——同提示词同任务，结果迥异：Astra 17 分钟、4.76 美元完成，Opus 1 小时 19 分、17.19 美元；「谁真正读懂了题目？」"
+      }
+    },
+    {
+      "id": 343,
+      "author": "MrTacticalX",
+      "url": "https://x.com/MrTacticalX/status/2109723827429109798",
+      "likes": 22,
+      "views": 1516,
+      "postedAt": "2026-10-12T19:12:11Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (2-model A/B)",
+        "zh": "Blender（双模型 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A crossbow from scratch, modeled and fired",
+        "zh": "从零建模一把弩，还要射出箭"
+      },
+      "description": {
+        "en": "Same Blender task for GPT-6 Astra and Claude Opus 5.5: build a detailed crossbow from scratch and animate it shooting an arrow — zero imported assets; Astra finished in 21 minutes at ~$5",
+        "zh": "给 GPT-6 Astra 与 Claude Opus 5.5 出同一道 Blender 题：从零建一把细节丰富的弩并动画射出箭矢——零导入资产；Astra 21 分钟完成、约 5 美元"
+      }
+    },
+    {
+      "id": 344,
+      "author": "wyltek1",
+      "url": "https://x.com/wyltek1/status/2109520227784659041",
+      "likes": 21,
+      "views": 292,
+      "postedAt": "2026-10-12T05:43:09Z",
+      "category": "web3d",
+      "tech": {
+        "en": "ThreeJS (4-model)",
+        "zh": "ThreeJS（四模型）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Nervos block visualizer, TX count does the tricks",
+        "zh": "Nervos 区块可视化：交易数决定招式"
+      },
+      "description": {
+        "en": "\"A suitably agile Nervos block visualizer\" — $CKB transaction count determines the tricks; a ThreeJS demo built with GPT-6 Astra and Sol, Kimi K3 and Opus 5.5 — \"Opus looks like a production game\"",
+        "zh": "「足够灵活的 Nervos 区块可视化器」——$CKB 交易数决定动作招式；用 GPT-6 Astra、Sol、Kimi K3 与 Opus 5.5 各做一版 ThreeJS 演示——「Opus 那版像成品游戏」"
+      }
     }
   ]
 }
