@@ -7725,6 +7725,138 @@
         "en": "\"A suitably agile Nervos block visualizer\" — $CKB transaction count determines the tricks; a ThreeJS demo built with GPT-6 Astra and Sol, Kimi K3 and Opus 5.5 — \"Opus looks like a production game\"",
         "zh": "「足够灵活的 Nervos 区块可视化器」——$CKB 交易数决定动作招式；用 GPT-6 Astra、Sol、Kimi K3 与 Opus 5.5 各做一版 ThreeJS 演示——「Opus 那版像成品游戏」"
       }
+    },
+    {
+      "id": 345,
+      "author": "Bhavani_00007",
+      "url": "https://x.com/Bhavani_00007/status/2110078803297055212",
+      "likes": 455,
+      "views": 56618,
+      "postedAt": "2026-10-13T18:42:44Z",
+      "category": "web3d",
+      "tech": {
+        "en": "3D scene (4-model A/B)",
+        "zh": "3D 场景（四模型 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A 3D whale breaching scene, four models",
+        "zh": "3D 鲸鱼跃出水面：四模型对决"
+      },
+      "description": {
+        "en": "Asked Gemini 4 Argon, Opus 5.5, GPT-6 Astra and Kimi K3 to each build a 3D whale breaching scene: Argon's detail \"is on another level\" and wins photorealism, while Opus and Kimi read more stylized",
+        "zh": "让 Gemini 4 Argon、Opus 5.5、GPT-6 Astra 与 Kimi K3 各建一个 3D 鲸鱼跃出场景：Argon 细节「明显高一个层级」、写实度取胜，Opus 与 Kimi 则更风格化"
+      }
+    },
+    {
+      "id": 346,
+      "author": "StefanoGPT",
+      "url": "https://x.com/StefanoGPT/status/2110098269904789797",
+      "likes": 363,
+      "views": 55280,
+      "postedAt": "2026-10-13T20:00:05Z",
+      "category": "modeling",
+      "tech": {
+        "en": "profile picture → 3D",
+        "zh": "头像 → 3D"
+      },
+      "demos": [],
+      "title": {
+        "en": "An OpenAI dev's profile pic, now a 3D model",
+        "zh": "OpenAI 员工的头像，现在是 3D 模型了"
+      },
+      "description": {
+        "en": "Asked GPT-6 Astra to turn @thsottiaux's (OpenAI Codex lead) profile picture into a fully 3D model — \"I don't think he's ready to see this 💀\"; prompt in the comments",
+        "zh": "让 GPT-6 Astra 把 @thsottiaux（OpenAI Codex 负责人）的头像做成完整 3D 模型——「我觉得他还没做好看到这个的心理准备💀」；提示词在评论区"
+      }
+    },
+    {
+      "id": 347,
+      "author": "Im_IrushiK",
+      "url": "https://x.com/Im_IrushiK/status/2109849596927389942",
+      "likes": 221,
+      "views": 31060,
+      "postedAt": "2026-10-13T03:31:57Z",
+      "category": "web3d",
+      "tech": {
+        "en": "2D/3D visualization",
+        "zh": "2D/3D 可视化"
+      },
+      "demos": [],
+      "title": {
+        "en": "\"What happened to Astra?\" — it found 35 of its own bugs",
+        "zh": "「Astra 怎么了？」——它揪出了自己的 35 个 bug"
+      },
+      "description": {
+        "en": "Asked Astra xHigh to build a 2D/3D visualization: the first version barely worked — then it found 15 bugs in its own review, 20 more in the next pass, and the final result speaks for itself; a window into the model's self-review loop",
+        "zh": "让 Astra xHigh 做一个 2D/3D 可视化：第一版几乎不能跑——随后它在自审中揪出 15 个 bug、下一轮又找出 20 个，最终成品自己会说话；一次窥见模型自审循环的记录"
+      }
+    },
+    {
+      "id": 348,
+      "author": "rewind02",
+      "url": "https://x.com/rewind02/status/2109953507801313440",
+      "likes": 93,
+      "views": 6384,
+      "postedAt": "2026-10-13T10:24:51Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (fair-fight A/B)",
+        "zh": "Blender（公平条件 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Opus vs Astra in Blender, same reference",
+        "zh": "Blender 对决：同参考图同题"
+      },
+      "description": {
+        "en": "Opus 5.5 vs GPT-6 Astra in Blender — same reference, same prompt, zero manual modeling; he explains how the setup keeps it a fair fight, then shows how each model actually builds",
+        "zh": "Blender 里的 Opus 5.5 对比 GPT-6 Astra——同参考图、同提示词、零手工建模；他先讲清如何设置才能保证公平，再展示两个模型各自的构建过程"
+      }
+    },
+    {
+      "id": 349,
+      "author": "HamidoFx1",
+      "url": "https://x.com/HamidoFx1/status/2109962911330566335",
+      "likes": 66,
+      "views": 5296,
+      "postedAt": "2026-10-13T11:02:13Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Astra + Opus 5.5",
+        "zh": "Astra + Opus 5.5"
+      },
+      "demos": [],
+      "title": {
+        "en": "3D estate project",
+        "zh": "3D 房地产项目"
+      },
+      "description": {
+        "en": "A 3D real-estate project built with GPT-6 Astra and Opus 5.5 — seventh in his 3D-site series",
+        "zh": "用 GPT-6 Astra 与 Opus 5.5 构建的 3D 房地产项目——他 3D 网站系列的第七作"
+      }
+    },
+    {
+      "id": 350,
+      "author": "chetanankola",
+      "url": "https://x.com/chetanankola/status/2109874688952573975",
+      "likes": 28,
+      "views": 974,
+      "postedAt": "2026-10-13T05:11:40Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js",
+        "zh": "three.js"
+      },
+      "demos": [],
+      "title": {
+        "en": "A surreal bubble experience in three.js",
+        "zh": "three.js 里超现实的气泡体验"
+      },
+      "description": {
+        "en": "\"Bubble experience in three.js is so cool — it's surreal\"; made with GPT-6 Astra, and he notes \"no Claude Opus was involved in this\", wondering if Muse Wonder Full could do it too",
+        "zh": "「three.js 的气泡体验太酷了——超现实」；由 GPT-6 Astra 制作，他特别注明「这次完全没让 Claude Opus 参与」，并好奇 Muse Wonder Full 能否做到"
+      }
     }
   ]
 }
