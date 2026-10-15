@@ -7857,6 +7857,138 @@
         "en": "\"Bubble experience in three.js is so cool — it's surreal\"; made with GPT-6 Astra, and he notes \"no Claude Opus was involved in this\", wondering if Muse Wonder Full could do it too",
         "zh": "「three.js 的气泡体验太酷了——超现实」；由 GPT-6 Astra 制作，他特别注明「这次完全没让 Claude Opus 参与」，并好奇 Muse Wonder Full 能否做到"
       }
+    },
+    {
+      "id": 351,
+      "author": "ann_nnng",
+      "url": "https://x.com/ann_nnng/status/2110234900616126769",
+      "likes": 981,
+      "views": 78955,
+      "postedAt": "2026-10-14T05:03:01Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js / WebGL (4-model A/B)",
+        "zh": "three.js / WebGL（四模型 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "The margarita slosh test, four models",
+        "zh": "玛格丽塔晃杯测试：四模型"
+      },
+      "description": {
+        "en": "Testing the margarita sloshing effect with Gemini 4 Argon, Muse Wonder, Claude Opus 5.5 and GPT-6 Astra — all using three.js with WebGL; \"Gemini has improved so muchhh\"",
+        "zh": "用 Gemini 4 Argon、Muse Wonder、Claude Opus 5.5 与 GPT-6 Astra 测试玛格丽塔酒液晃动效果——全部以 three.js + WebGL 实现；「Gemini 进步太多了吧」"
+      }
+    },
+    {
+      "id": 352,
+      "author": "ann_nnng",
+      "url": "https://x.com/ann_nnng/status/2110345498028810390",
+      "likes": 696,
+      "views": 18353,
+      "postedAt": "2026-10-14T12:22:29Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js / WebGL (4-model A/B)",
+        "zh": "three.js / WebGL（四模型 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "The cassette tape 3D effect, pushed further",
+        "zh": "卡带 3D 效果进阶版"
+      },
+      "description": {
+        "en": "Asked the same four models to push the cassette-tape 3D effect further — \"and I am impressed\"",
+        "zh": "让同四家模型把卡带 3D 效果再往前推——「而且我被惊到了」"
+      }
+    },
+    {
+      "id": 353,
+      "author": "vib3coded",
+      "url": "https://x.com/vib3coded/status/2110517313413796092",
+      "likes": 47,
+      "views": 1148,
+      "postedAt": "2026-10-14T23:45:13Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js (2-model A/B)",
+        "zh": "three.js（双模型 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A jelly iceberg you can't stop clicking",
+        "zh": "让人忍不住一直点的果冻冰山"
+      },
+      "description": {
+        "en": "\"An Arctic world you want to keep clicking until something breaks\": Opus 5.5 vs ChatGPT-6 Astra building a jelly iceberg — Opus grabs attention with waves and reflections, click through to see whose build you prefer",
+        "zh": "「一座你俩不停点击直到点坏什么东西的北极世界」：Opus 5.5 对比 ChatGPT-6 Astra 各建一座果冻冰山——Opus 靠波浪与反射抓眼球，看你会更喜欢谁的作品"
+      }
+    },
+    {
+      "id": 354,
+      "author": "chetanankola",
+      "url": "https://x.com/chetanankola/status/2110225806849122363",
+      "likes": 37,
+      "views": 1641,
+      "postedAt": "2026-10-14T04:26:53Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js (Opus build + Astra design)",
+        "zh": "three.js（Opus 制作 + Astra 设计）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A sweet interactive 3D experience with a cloth shader",
+        "zh": "带布料着色器的甜系交互 3D 体验"
+      },
+      "description": {
+        "en": "A sweet little interactive 3D experience vibe-coded in three.js with Claude Opus 5.5, designed by GPT-6 Astra — a decent cloth shader, with water carried over from the previous edition",
+        "zh": "用 Claude Opus 5.5 vibe-code、由 GPT-6 Astra 设计的甜系交互 3D 体验——像样的布料着色器，水面沿用上一版"
+      }
+    },
+    {
+      "id": 355,
+      "author": "chetanankola",
+      "url": "https://x.com/chetanankola/status/2110547778439114923",
+      "likes": 21,
+      "views": 648,
+      "postedAt": "2026-10-15T01:46:17Z",
+      "category": "web3d",
+      "tech": {
+        "en": "three.js (Astra design + Opus execute)",
+        "zh": "three.js（Astra 设计 + Opus 执行）"
+      },
+      "demos": [],
+      "title": {
+        "en": "An autumn water mill, Astra's blueprint",
+        "zh": "秋日水车：Astra 出图，Opus 施工"
+      },
+      "description": {
+        "en": "A pleasant autumn water-mill experience in three.js built with GPT-6 Astra and Opus 5.5 — \"my new favorite way is to make Astra design it and Opus 5.5 execute it; yes, Astra is still my favorite\"",
+        "zh": "用 GPT-6 Astra 与 Opus 5.5 做的秋日水车 three.js 体验——「我现在最喜欢的新配方：Astra 负责设计、Opus 5.5 负责执行；没错，Astra 依然是我的最爱」"
+      }
+    },
+    {
+      "id": 356,
+      "author": "ThatSalariedGuy",
+      "url": "https://x.com/ThatSalariedGuy/status/2110340959338971611",
+      "likes": 22,
+      "views": 1400,
+      "postedAt": "2026-10-14T12:04:27Z",
+      "category": "web3d",
+      "tech": {
+        "en": "procedural art (2-model A/B)",
+        "zh": "程序化艺术（双模型 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Four animated paintings, two models, same constraints",
+        "zh": "四幅动画画作：双模型同约束"
+      },
+      "description": {
+        "en": "Gemini 4 Argon vs GPT-6 Astra on pure procedural art via code — same prompt and constraints, rendering four animated 1200x1200 paintings at 24fps; \"wild seeing how differently two models interpret the same brief\"",
+        "zh": "Gemini 4 Argon 对比 GPT-6 Astra 的纯代码程序化艺术——同提示词同约束，各渲染四幅 1200x1200、24fps 的动画画作；「看着两个模型把同一份需求理解得如此不同，太疯狂了」"
+      }
     }
   ]
 }
