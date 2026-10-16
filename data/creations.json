@@ -7989,6 +7989,94 @@
         "en": "Gemini 4 Argon vs GPT-6 Astra on pure procedural art via code — same prompt and constraints, rendering four animated 1200x1200 paintings at 24fps; \"wild seeing how differently two models interpret the same brief\"",
         "zh": "Gemini 4 Argon 对比 GPT-6 Astra 的纯代码程序化艺术——同提示词同约束，各渲染四幅 1200x1200、24fps 的动画画作；「看着两个模型把同一份需求理解得如此不同，太疯狂了」"
       }
+    },
+    {
+      "id": 357,
+      "author": "chetanankola",
+      "url": "https://x.com/chetanankola/status/2110646294389850343",
+      "likes": 122,
+      "views": 4754,
+      "postedAt": "2026-10-15T08:17:45Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Blender + Opus + Astra",
+        "zh": "Blender + Opus + Astra"
+      },
+      "demos": [],
+      "title": {
+        "en": "\"Just a gorgeous three.js experience\"",
+        "zh": "「只是一个惊艳的 three.js 体验」"
+      },
+      "description": {
+        "en": "A gorgeous three.js 3D experience made with Blender, Opus and GPT-6 Astra — \"no way Gemini Argon or Muse can achieve this\"",
+        "zh": "用 Blender、Opus 与 GPT-6 Astra 做出的惊艳 three.js 3D 体验——「Gemini Argon 和 Muse 绝对做不出这个」"
+      }
+    },
+    {
+      "id": 358,
+      "author": "TokenGremlin",
+      "url": "https://x.com/TokenGremlin/status/2110756756200587414",
+      "likes": 98,
+      "views": 5184,
+      "postedAt": "2026-10-15T15:36:41Z",
+      "category": "world",
+      "tech": {
+        "en": "Astra + Tripo CLI (in Codex)",
+        "zh": "Astra + Tripo CLI（Codex 内）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A cozy island adventure in under an hour",
+        "zh": "不到一小时的温馨岛屿冒险"
+      },
+      "description": {
+        "en": "Built a game in under an hour with GPT-6 Astra and Tripo CLI: asked Astra for a small cozy island adventure — lighthouse, little cottages, lanterns, a world worth exploring; workflow: Tripo CLI into Codex, Astra builds the playable prototype, Tripo generates and rigs the 3D assets to replace the rough placeholders",
+        "zh": "用 GPT-6 Astra 与 Tripo CLI 不到一小时做成一款游戏：让 Astra 做小型温馨岛屿冒险——灯塔、小屋、灯笼、值得探索的世界；流程：Tripo CLI 接入 Codex，Astra 先出可玩原型，再由 Tripo 生成并绑定 3D 资产替换粗糙占位"
+      }
+    },
+    {
+      "id": 359,
+      "author": "JaydenDavisNC",
+      "url": "https://x.com/JaydenDavisNC/status/2110577441752363353",
+      "likes": 37,
+      "views": 4685,
+      "postedAt": "2026-10-15T03:44:09Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (2-model A/B)",
+        "zh": "Blender（双模型 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A paintball gun in Blender: Astra vs Opus",
+        "zh": "Blender 彩弹枪：Astra 对比 Opus"
+      },
+      "description": {
+        "en": "GPT-6 Astra vs Opus 5.5 creating a paintball model in Blender — his honest verdict: \"Opus 5.5 does a lot better\"",
+        "zh": "GPT-6 Astra 对比 Opus 5.5 在 Blender 里建彩弹枪模型——他的诚实结论：「Opus 5.5 好得多」"
+      }
+    },
+    {
+      "id": 360,
+      "author": "shaunralston",
+      "url": "https://x.com/shaunralston/status/2110808585693507943",
+      "likes": 22,
+      "views": 717,
+      "postedAt": "2026-10-15T19:02:38Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (Pro 500 Ultrafast)",
+        "zh": "Blender（Pro 500 Ultrafast）"
+      },
+      "demos": [],
+      "title": {
+        "en": "14 minutes on Ultrafast, warp speed",
+        "zh": "Ultrafast 档 14 分钟，曲速引擎"
+      },
+      "description": {
+        "en": "GPT-6 Astra (Pro 500) with the new Ultrafast mode: this Blender generation took only 14 minutes — \"warp speed ⚡️ game changer\"",
+        "zh": "GPT-6 Astra（Pro 500 档）开启新的 Ultrafast 模式：这次 Blender 生成仅花 14 分钟——「曲速引擎⚡️ 规则改变者」"
+      }
     }
   ]
 }
