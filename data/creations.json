@@ -8077,6 +8077,116 @@
         "en": "GPT-6 Astra (Pro 500) with the new Ultrafast mode: this Blender generation took only 14 minutes — \"warp speed ⚡️ game changer\"",
         "zh": "GPT-6 Astra（Pro 500 档）开启新的 Ultrafast 模式：这次 Blender 生成仅花 14 分钟——「曲速引擎⚡️ 规则改变者」"
       }
+    },
+    {
+      "id": 361,
+      "author": "Mr_Salio",
+      "url": "https://x.com/Mr_Salio/status/2111460511103565886",
+      "likes": 242,
+      "views": 31137,
+      "postedAt": "2026-10-17T14:13:09Z",
+      "category": "web3d",
+      "tech": {
+        "en": "3D scene (2-model A/B)",
+        "zh": "3D 场景（双模型 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Astra vs DeepSeek V4.1 Flash, same prompt",
+        "zh": "Astra 对比 DeepSeek V4.1 Flash：同题对决"
+      },
+      "description": {
+        "en": "GPT-6 Astra vs DeepSeek V4.1 Flash, same prompt — \"two very impressive outputs\": Astra wins on realism, but with 3-4 hours to work, DeepSeek \"absolutely COOKED with its own result\"",
+        "zh": "GPT-6 Astra 对比 DeepSeek V4.1 Flash，同一条提示词——「两个成果都令人印象深刻」：Astra 写实度取胜，但 DeepSeek 拿到 3-4 小时后「用自己路子彻底开煮」"
+      }
+    },
+    {
+      "id": 362,
+      "author": "rpnickson",
+      "url": "https://x.com/rpnickson/status/2111144364797817262",
+      "likes": 70,
+      "views": 3950,
+      "postedAt": "2026-10-16T17:16:54Z",
+      "category": "modeling",
+      "tech": {
+        "en": "designed + 3D printed (6-model contest)",
+        "zh": "设计 + 3D 打印（六模型竞赛）"
+      },
+      "demos": [],
+      "title": {
+        "en": "AGENT WARS II: the egg-drop capsule",
+        "zh": "AGENT WARS 第二季：护蛋舱挑战"
+      },
+      "description": {
+        "en": "AGENT WARS returns: six top models (Gemini 4 Argon, Claude Opus 5.5, GPT-6 Astra and more) each design, engineer and 3D print an egg capsule to protect an egg from the tallest possible drop",
+        "zh": "AGENT WARS 回归：六家顶级模型（Gemini 4 Argon、Claude Opus 5.5、GPT-6 Astra 等）各自设计、工程化并 3D 打印一枚鸡蛋保护舱——目标是从尽可能高的地方摔下还能护住蛋"
+      }
+    },
+    {
+      "id": 363,
+      "author": "HamidoFx1",
+      "url": "https://x.com/HamidoFx1/status/2111419744247005571",
+      "likes": 36,
+      "views": 666,
+      "postedAt": "2026-10-17T11:31:09Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Astra + Opus 5.5",
+        "zh": "Astra + Opus 5.5"
+      },
+      "demos": [],
+      "title": {
+        "en": "3D cream brand",
+        "zh": "3D 奶油品牌"
+      },
+      "description": {
+        "en": "A 3D cream brand site built with GPT-6 Astra and Opus 5.5 — eighth in his 3D-site series",
+        "zh": "用 GPT-6 Astra 与 Opus 5.5 构建的 3D 奶油品牌站——他 3D 网站系列的第八作"
+      }
+    },
+    {
+      "id": 364,
+      "author": "nigelhartmanxr",
+      "url": "https://x.com/nigelhartmanxr/status/2111125849969951185",
+      "likes": 19,
+      "views": 1782,
+      "postedAt": "2026-10-16T16:03:20Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Astra + PICO XR headset",
+        "zh": "Astra + PICO XR 头显"
+      },
+      "demos": [],
+      "title": {
+        "en": "A whole planet of live data on PICO",
+        "zh": "PICO 头显里的实时数据星球"
+      },
+      "description": {
+        "en": "Got early access to PICO's new device, connected it to GPT-6 Astra and built a whole planet of real-time data — live flights, quakes and the ISS; tap any place to get a 3D city",
+        "zh": "拿到 PICO 新设备的早期资格，接上 GPT-6 Astra 建起一颗实时数据星球——直播航班、地震与国际空间站；点击任意地点即出 3D 城市"
+      }
+    },
+    {
+      "id": 365,
+      "author": "ayodeji0x0",
+      "url": "https://x.com/ayodeji0x0/status/2111443398385160243",
+      "likes": 17,
+      "views": 888,
+      "postedAt": "2026-10-17T13:05:09Z",
+      "category": "world",
+      "tech": {
+        "en": "3D circuits (F1 concept)",
+        "zh": "3D 赛道（F1 概念）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Could Abuja host a Grand Prix?",
+        "zh": "阿布贾能办 F1 吗？"
+      },
+      "description": {
+        "en": "\"Could Abuja host a Grand Prix? You've all been asking\": searched the city's roads for loops that could host a street race, shortlisted 20 possible circuits and rebuilt the best 3 in 3D — this lap in full",
+        "zh": "「阿布贾能办大奖赛吗？大家都在问」：在城市路网里搜索可承办街道赛的环形路线、筛出 20 条候选赛道，并把最好的 3 条做成了 3D 重建——完整跑一圈给你看"
+      }
     }
   ]
 }
