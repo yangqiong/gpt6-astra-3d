@@ -8187,6 +8187,72 @@
         "en": "\"Could Abuja host a Grand Prix? You've all been asking\": searched the city's roads for loops that could host a street race, shortlisted 20 possible circuits and rebuilt the best 3 in 3D — this lap in full",
         "zh": "「阿布贾能办大奖赛吗？大家都在问」：在城市路网里搜索可承办街道赛的环形路线、筛出 20 条候选赛道，并把最好的 3 条做成了 3D 重建——完整跑一圈给你看"
       }
+    },
+    {
+      "id": 366,
+      "author": "MrTacticalX",
+      "url": "https://x.com/MrTacticalX/status/2112184796419883354",
+      "likes": 115,
+      "views": 18272,
+      "postedAt": "2026-10-19T14:11:12Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (fair A/B at High)",
+        "zh": "Blender（High 档公平 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A storm inside a bottle: $6 vs $18",
+        "zh": "瓶中风暴：6 美元 对比 18 美元"
+      },
+      "description": {
+        "en": "GPT-6 Astra vs Claude Opus 5.5, both on High, same prompt: a storm inside a bottle built from scratch in Blender — all code, zero assets; Astra took 24 min at ~$6, Opus 82 min at ~$18; was Opus worth 3x the price?",
+        "zh": "GPT-6 Astra 对比 Claude Opus 5.5，双 High 档同提示词：在 Blender 里从零建「瓶中风暴」——全代码、零资产；Astra 24 分钟约 6 美元，Opus 82 分钟约 18 美元；Opus 值 3 倍的价吗？"
+      }
+    },
+    {
+      "id": 367,
+      "author": "MrTacticalX",
+      "url": "https://x.com/MrTacticalX/status/2112153049158279313",
+      "likes": 98,
+      "views": 18026,
+      "postedAt": "2026-10-19T12:05:03Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (Low vs Max effort)",
+        "zh": "Blender（Low 对比 Max 档）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Cannon tower: Astra Low vs Max, same model",
+        "zh": "动画炮塔：Astra 自己的 Low 档对比 Max 档"
+      },
+      "description": {
+        "en": "GPT-6 Astra against itself — Low vs Max effort, same prompt: an animated cannon tower from scratch in Blender, all code, zero assets; Low took 10 min at ~$2.60, Max 21 min at ~$5.40; was Max worth 2x the price?",
+        "zh": "GPT-6 Astra 自己和自己比——Low 对比 Max 档、同提示词：Blender 从零建动画炮塔，全代码零资产；Low 档 10 分钟约 2.60 美元，Max 档 21 分钟约 5.40 美元；Max 值 2 倍的价吗？"
+      }
+    },
+    {
+      "id": 368,
+      "author": "Ferhan_XRB",
+      "url": "https://x.com/Ferhan_XRB/status/2112223873517187191",
+      "likes": 94,
+      "views": 7822,
+      "postedAt": "2026-10-19T16:46:29Z",
+      "category": "web3d",
+      "tech": {
+        "en": "Astra + PICO XR (spatial)",
+        "zh": "Astra + PICO XR（空间计算）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A Jarvis-style live Earth, in spatial XR",
+        "zh": "空间 XR 里的贾维斯风实时地球"
+      },
+      "description": {
+        "en": "\"You've seen what Astra can do for images, videos, 2D and 3D worlds — but what about a dimension beyond the flat screen?\": a Jarvis-style live Earth interface visualizing millions of real-time data points, tested on PICO's new XR device",
+        "zh": "「你见过 Astra 做图像、视频、2D 与 3D 世界——但平面屏幕之外的维度呢？」：一套贾维斯风格的实时地球界面，可视化数百万实时数据点，在 PICO 新款 XR 设备上实测"
+      }
     }
   ]
 }
