@@ -8253,6 +8253,204 @@
         "en": "\"You've seen what Astra can do for images, videos, 2D and 3D worlds — but what about a dimension beyond the flat screen?\": a Jarvis-style live Earth interface visualizing millions of real-time data points, tested on PICO's new XR device",
         "zh": "「你见过 Astra 做图像、视频、2D 与 3D 世界——但平面屏幕之外的维度呢？」：一套贾维斯风格的实时地球界面，可视化数百万实时数据点，在 PICO 新款 XR 设备上实测"
       }
+    },
+    {
+      "id": 369,
+      "author": "MasculineM7",
+      "url": "https://x.com/MasculineM7/status/2113115816237682966",
+      "likes": 208,
+      "views": 7144,
+      "postedAt": "2026-10-22T03:50:45Z",
+      "category": "modeling",
+      "tech": {
+        "en": "3D plush model (2-model A/B)",
+        "zh": "3D 毛绒模型（双模型 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A plush spider, Astra vs MiniMax M3.1 Flash",
+        "zh": "毛绒蜘蛛：Astra 对比 MiniMax M3.1 Flash"
+      },
+      "description": {
+        "en": "Same challenge, two models: a 3D plush spider — \"honestly, MiniMax M3.1 Flash impressed me\", from translating the concept into 3D all the way through",
+        "zh": "同题双模型：一只 3D 毛绒蜘蛛——「说实话 MiniMax M3.1 Flash 让我惊艳」，从概念转 3D 到成品全程对比"
+      }
+    },
+    {
+      "id": 370,
+      "author": "tonysimons",
+      "url": "https://x.com/tonysimons/status/2112706666890437045",
+      "likes": 114,
+      "views": 24114,
+      "postedAt": "2026-10-21T00:44:56Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (via OpenAI Dots)",
+        "zh": "Blender（经 OpenAI Dots）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Dots turned the Nous Girl into a Blender model",
+        "zh": "Dots 把 Nous Girl 做成了 Blender 模型"
+      },
+      "description": {
+        "en": "\"OpenAI dots are powered by GPT-6 Astra, right? Tell me why it did the Nous Girl like THIS in Blender?! 😂 Shoulda gave this task to Hermes Agent instead\" — a meme-grade look at what Dots (Astra) sculpted",
+        "zh": "「OpenAI dots 不是 GPT-6 Astra 驱动的吗？解释一下它为什么把 Nous Girl 在 Blender 里做成这样？！😂早知道这活该交给 Hermes Agent」——梗图级围观 Dots（Astra）的雕刻产出"
+      }
+    },
+    {
+      "id": 371,
+      "author": "chongdashu",
+      "url": "https://x.com/chongdashu/status/2113090126406635638",
+      "likes": 59,
+      "views": 3631,
+      "postedAt": "2026-10-22T02:08:40Z",
+      "category": "world",
+      "tech": {
+        "en": "Opus + Astra + Retro Diffusion 3D",
+        "zh": "Opus + Astra + Retro Diffusion 3D"
+      },
+      "demos": [],
+      "title": {
+        "en": "Retro del Sol: a cosy low-poly game, gameplay video",
+        "zh": "《Retro del Sol》:温馨低多边形游戏实机"
+      },
+      "description": {
+        "en": "A longer gameplay video of his cosy low-poly 3D game Retro del Sol — made with Opus 5.5 and GPT-6 Astra, all assets by Retro Diffusion 3D, animated in Blender",
+        "zh": "他的温馨低多边形 3D 游戏《Retro del Sol》长实机——由 Opus 5.5 与 GPT-6 Astra 制作，全部资产出自 Retro Diffusion 3D，Blender 里做动画"
+      }
+    },
+    {
+      "id": 372,
+      "author": "sigmode21",
+      "url": "https://x.com/sigmode21/status/2113387537238778169",
+      "likes": 53,
+      "views": 2602,
+      "postedAt": "2026-10-22T21:50:28Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Dots/Astra + BIM from PDF",
+        "zh": "Dots/Astra + 从 PDF 做 BIM"
+      },
+      "demos": [],
+      "title": {
+        "en": "A full construction drawing set, modeled to 3D",
+        "zh": "一整套施工图纸，直接建模成 3D"
+      },
+      "description": {
+        "en": "Fed Dots (GPT-6 Astra) the complete PDF set of real construction design documents and had it 3D-model them — \"as far as what's readable from the drawings, this is decent; I certainly don't have the guts to build this much from blueprints myself\" (JA)",
+        "zh": "把真实工程设计项目的整套 PDF 图纸喂给 Dots（GPT-6 Astra）做 3D 建模——「就图纸能读到的范围来说算不错了；至少我自己绝没有从图纸建到这个程度的根性」（日语帖）"
+      }
+    },
+    {
+      "id": 373,
+      "author": "maxt3chno",
+      "url": "https://x.com/maxt3chno/status/2113321027325300784",
+      "likes": 44,
+      "views": 3409,
+      "postedAt": "2026-10-22T17:26:11Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender MCP (2-model A/B)",
+        "zh": "Blender MCP（双模型 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "A training dummy: Astra at 12% weekly quota",
+        "zh": "训练假人：Astra 只用 12% 周额度"
+      },
+      "description": {
+        "en": "Claude Opus 5.5 vs GPT-6 Astra, \"3D model of a training dummy from scratch\": both on a basic $20 sub, exact same prompt, both via Blender MCP — Astra used only 12% of its weekly quota",
+        "zh": "Claude Opus 5.5 对比 GPT-6 Astra，「从零建一个 3D 训练假人」：都在 20 美元基础订阅上、一字不差的提示词、都走 Blender MCP——Astra 只用了每周额度的 12%"
+      }
+    },
+    {
+      "id": 374,
+      "author": "k1rallik",
+      "url": "https://x.com/k1rallik/status/2113337168869326956",
+      "likes": 40,
+      "views": 1485,
+      "postedAt": "2026-10-22T18:30:19Z",
+      "category": "modeling",
+      "tech": {
+        "en": "Blender (human vs Astra)",
+        "zh": "Blender（人类 对比 Astra）"
+      },
+      "demos": [],
+      "title": {
+        "en": "$100 of my time vs a $1 Astra render",
+        "zh": "我价值 100 美元的时间 对比 Astra 1 美元的渲染"
+      },
+      "description": {
+        "en": "Put $100 of his own time next to a $1 GPT-6 Astra render: four hours in Blender by hand vs 10 minutes for Astra with the same ready-made mech — \"it rewrote it better than I did\"",
+        "zh": "把自己价值 100 美元的时间与 GPT-6 Astra 约 1 美元的渲染并排：手工 Blender 四个小时 对比 Astra 拿同一套现成机甲只花 10 分钟——「它重写得比我还好」"
+      }
+    },
+    {
+      "id": 375,
+      "author": "theparuchh",
+      "url": "https://x.com/theparuchh/status/2112591927489257886",
+      "likes": 38,
+      "views": 6507,
+      "postedAt": "2026-10-20T17:09:00Z",
+      "category": "video",
+      "tech": {
+        "en": "3D recreation (2-model A/B)",
+        "zh": "3D 重现（双模型 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Recreating a nuclear test: Astra 4x faster",
+        "zh": "重现核试验：Astra 快 4 倍"
+      },
+      "description": {
+        "en": "Asked Opus 5.5 and GPT-6 Astra to recreate a nuclear test — \"the light arrives first, everything else is late\": Opus 1h16m at $13.97, Astra 19m at $8.57, 4x faster; part of his natural-disaster recreation series (the tallest recorded wave and an avalanche followed)",
+        "zh": "让 Opus 5.5 与 GPT-6 Astra 重现核试验——「光先到，其余都迟到」：Opus 1 小时 16 分/13.97 美元，Astra 19 分钟/8.57 美元，快 4 倍；其自然灾害重现系列的一环（随后还有史上最高巨浪与雪崩）"
+      }
+    },
+    {
+      "id": 376,
+      "author": "theparuchh",
+      "url": "https://x.com/theparuchh/status/2113308466475413565",
+      "likes": 31,
+      "views": 1873,
+      "postedAt": "2026-10-22T16:36:16Z",
+      "category": "video",
+      "tech": {
+        "en": "3D recreation (2-model A/B)",
+        "zh": "3D 重现（双模型 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "The tallest wave ever recorded, rebuilt",
+        "zh": "重现有记录以来最高的巨浪"
+      },
+      "description": {
+        "en": "The 1958 Lituya Bay megatsunami — a mountainside collapses into a fjord and water runs 524 m up the opposite slope — recreated by Opus 5.5 (1h15m) and GPT-6 Astra, side by side",
+        "zh": "1958 年利图亚湾巨型海啸——山体滑入峡湾、涌浪冲上对岸 524 米——由 Opus 5.5（1 小时 15 分）与 GPT-6 Astra 并排重现"
+      }
+    },
+    {
+      "id": 377,
+      "author": "itsfazley",
+      "url": "https://x.com/itsfazley/status/2112822304690544736",
+      "likes": 21,
+      "views": 778,
+      "postedAt": "2026-10-21T08:24:26Z",
+      "category": "web3d",
+      "tech": {
+        "en": "procedural three.js (2-model A/B)",
+        "zh": "程序化 three.js（双模型 A/B）"
+      },
+      "demos": [],
+      "title": {
+        "en": "Same procedural Three.js prompt, honest teardown",
+        "zh": "同题程序化 three.js：诚实拆解"
+      },
+      "description": {
+        "en": "Astra vs Opus on the same procedural Three.js prompt: Astra took ~4M tokens and 18 minutes, burning ~80% of a 5-hour quota, and struggled with coordinate space and geometry; an honest teardown of where each model stumbles",
+        "zh": "Astra 对比 Opus 跑同一条程序化 three.js 提示词：Astra 耗约 400 万 token、18 分钟、烧掉 5 小时配额的约 80%，在坐标系与几何上挣扎——一份两边短板都如实呈现的拆解"
+      }
     }
   ]
 }
